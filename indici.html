@@ -1,0 +1,21 @@
+---
+layout: default
+title : indice
+group: navigation
+---
+{% include JB/setup %}
+
+<div class="container">
+<div class="col-md-8" >
+{% assign posts_collate = site.posts %}
+{% include JB/posts_collate %}
+	</div>
+<div class="col-md-4" >
+ <h2>etichette</h2>
+<ul class="tag_box inline">
+  {% assign tags_list = site.tags %}
+  {% include JB/tags_list %}
+</ul>
+
+</div>
+</div>

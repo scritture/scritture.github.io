@@ -1,0 +1,44 @@
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+<div class="row">
+	<div class="    col-md-1 col-lg-2 " >
+	</div>
+  <div class="  col-md-9  col-lg-6">
+    {{ content }}
+  </div>
+		<div class=" col-md-1 col-lg-1" >
+	</div>
+	<div class="   col-md-0 col-lg-3">
+
+
+
+{% for category in site.categories %} 
+  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
+  <ul>
+    {% assign pages_list = category[1] %}  
+    {% include JB/pages_list %}
+  </ul>
+{% endfor %}
+        <br/>
+               <a class="twitter-timeline" id="twitterid" href="https://twitter.com/tweet_scritture" data-widget-id="704609524125196288">Tweet di @tweet_scritture</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                       
+
+             
+  </div>
+</div>
+<div class="row">
+	
+<ul class="tag_box inline">
+  {% assign categories_list = site.categories %}
+  {% include JB/categories_list %}
+</ul>
+    
+    
+                                   
+	</div>
+
+
+      
