@@ -1,6 +1,6 @@
 ---
 layout: primapagina
-date: 2016-06-21
+date: 2016-06-20
 tag: [scritture]
 ---
 <!-- inizio colonna sinistra -->
