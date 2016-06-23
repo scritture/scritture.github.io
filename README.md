@@ -1,8 +1,11 @@
 # Scritture
 
-&Egrave; una rivista diretta da Claudio Comandini
+Scritture &egrave;  una rivista diretta da Claudio Comandini.
 
+
+
+Per contatti 
 
 claudio.comandini@infinito.it
 
-.
+
