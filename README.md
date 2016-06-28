@@ -4,7 +4,7 @@ Scritture &egrave;  una rivista diretta da Claudio Comandini.
 
 
 
-Per contatti 
+Per contatti:
 
 claudio.comandini@infinito.it
 
