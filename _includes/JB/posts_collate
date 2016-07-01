@@ -24,7 +24,7 @@ Usage:
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}Gennaio{% when '2' %}Febbraio{% when '3' %}Marzo{% when '4' %}Aprile{% when '5' %}Maggio{% when '6' %}Giugno{% when '7' %}Luglio{% when '8' %}Augosto{% when '9' %}Settembre{% when '10' %}Ottobre{% when '11' %}Novembre{% when '12' %}Dicembre{% endcase %}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-	{% capture next_month %}{% assign m = post.previous.date | date: "%-m" %}{% case m %}{% when '1' %}Gennaio{% when '2' %}Febbraio{% when '3' %}Marzo{% when '4' %}Aprile{% when '5' %}Maggio{% when '6' %}Giugno{% when '7' %}Luglio{% when '8' %}Augosto{% when '9' %}Settembre{% when '10' %}Ottobre{% when '11' %}Novembre{% when '12' %}Dicembre{% endcase %}{% endcapture %}
+	{% capture next_month %}{% assign m = post.previous.date | date: "%-m" %}{% case m %}{% when '1' %}Gennaio{% when '2' %}Febbraio{% when '3' %}Marzo{% when '4' %}Aprile{% when '5' %}Maggio{% when '6' %}Giugno{% when '7' %}Luglio{% when '8' %}Augosto{% when '9' %}Settembre{% when '10' %}Ottobre{% when '11' %}Novembre{% when '12' %}Dicembre{% endcase %}{% endcapture %} 
 
   
     {% if forloop.first %}
@@ -52,7 +52,7 @@ Usage:
   {% when '12' %}Dicembre
 {% endcase %}
 {{ post.date | date: "%Y" }}
-	</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+	</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>{{ post.abstract }}</li>
   
     {% if forloop.last %}
       </ul>
