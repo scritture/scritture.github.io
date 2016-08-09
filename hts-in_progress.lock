@@ -1,0 +1,7 @@
+Mirror in progress since Tue, 09 Aug 2016 23:40:58 .. please wait!
+httrack -iC2 -c1 -a -p7 http://matteo:iris2016@scritture.mirtillo.pedani.it/ -N100 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=30409
+UID=0
+GID=0
+START=1470778858
