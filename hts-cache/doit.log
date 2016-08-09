@@ -1,5 +1,5 @@
 -iC2 -c1 -a -p7 http://matteo:iris2016@scritture.mirtillo.pedani.it/ -N100
-File generated automatically on Tue, 09 Aug 2016 23:40:58, do NOT edit
+File generated automatically on Wed, 10 Aug 2016 00:25:57, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
