@@ -205,7 +205,7 @@ div.pdfemb-toolbar button.pdfemb-toggled:hover {
 
 
 div.pdfemb-toolbar button.pdfemb-prev::before {
-	content: url('../img/toolbarButton-pageUp.html');
+	content: url('../img/toolbarButton-pageUp.png');
 }
 
 div.pdfemb-toolbar button.pdfemb-next::before {
@@ -221,7 +221,7 @@ div.pdfemb-toolbar button.pdfemb-zoomin::before {
 }
 
 div.pdfemb-toolbar button.pdfemb-fs::before {
-	content: url('../img/toolbarButton-presentationMode.html');
+	content: url('../img/toolbarButton-presentationMode.png');
 }
 
 div.pdfemb-toolbar button.pdfemb-download::before {
