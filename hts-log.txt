@@ -1,13 +1,308 @@
-HTTrack3.48-1+libhtsjava.so.2 launched on Fri, 12 Aug 2016 23:02:47 at http://matteo:iris2016@www.scritture.net/index.html
-(httrack -iC2 -c1 -a -p7 http://matteo:iris2016@www.scritture.net/index.html )
+HTTrack3.48-1+libhtsjava.so.2 launched on Fri, 12 Aug 2016 23:06:19 at http://matteo:iris2016@www.scritture.net
+(httrack -iC2 -c1 -a -p7 http://matteo:iris2016@www.scritture.net )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-23:02:50	Warning: 	Note: due to matteo:iris2016@www.scritture.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
-23:02:50	Error: 	"Not Found" (404) at link matteo:iris2016@www.scritture.net/index.html (from primary/primary)
+23:06:19	Warning: 	Note: due to matteo:iris2016@www.scritture.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+23:06:26	Error: 	Exit requested by shell or user
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/Calendari_Atles_catala-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/Calendari_Atles_catala-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/Calendari_Atles_catala-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/Calendari_Atles_catala-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/non-vedere-la-città-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/Europa-al-vento-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/laboratorio-678x509.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/felicità-promesse-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/Pyramid_of_Capitalist_System-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/reincarnation-of-philip-dick-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/Costituzione_della_Repubblica_Italiana-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/08/quanto-resta-del-millennio-678x509.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/capo-volto-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/finita-la-carta-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/amore_nazista-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/Disturbo-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/Spider-man-is-watching-you-920x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/03/save-our_planet-1030x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/tromba-parlante-1030x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/01/portrait_of_a_star-420x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2015/12/il_maschietto_di_frascati-445x438.png
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/strada-bloccata-438x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/carogelati-439x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/paracadutisti-nonsense-475x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/costruire-accanto-alle-macerie.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/atropo-1030x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2015/02/città-noir-1030x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/maometto-allinferno-640x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/il-premio-del-carcerato.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/lumen-de-lumine-1030x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2014/08/descende-et-imperium-coepit-1030x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/palude-di-città-887x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/strada-di-fener-1030x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/duplicazione-800x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2013/10/la-maschera-e-il-gallo-1030x438.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/Lo-Chiamavano-Jeeg-Robot-banner.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/images.png
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/Vulvia-326x245.jpg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/michelstaedter-autoritratto-136x245.jpeg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/Quando-lo-sciamano-trova-i-vermi-colorati-la-Pasola-può-iniziare-Picture-by-Lukas-Pokorny-326x245.jpeg
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/plugins/video-embed-box/video-embed.css?ver=2.5.4.4
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-includes/js/wp-embed.min.js?ver=4.5.3
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/robots.txt
+23:06:27	Error: 	"Method Not Allowed" (405) at link www.scritture.net/xmlrpc.php (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/comments/feed/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/comments/feed/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-json/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-json/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/claudio-comandini/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/claudio-comandini/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/progetto/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/progetto/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/pubblicazioni/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/pubblicazioni/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/supplementi/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/supplementi/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/appuntamenti/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/appuntamenti/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/compiti-per-le-vacanze/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/compiti-per-le-vacanze/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/nuova-chiesa-e-nuova-politica/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/nuova-chiesa-e-nuova-politica/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-contagio-della-violenza/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-contagio-della-violenza/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-disgusto-della-democrazia/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-disgusto-della-democrazia/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/hikikomori-visto-da-leibniz/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/hikikomori-visto-da-leibniz/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/gli-spacciatori-di-felicita/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/gli-spacciatori-di-felicita/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/sottoproletariato-cognitivo-italia/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/sottoproletariato-cognitivo-italia/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/philip-k-dick-il-filosofo-mascherato/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/philip-k-dick-il-filosofo-mascherato/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/un-monocameralismo-imperfetto-per-una-perfetta-autocrazia/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/un-monocameralismo-imperfetto-per-una-perfetta-autocrazia/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/category/diario/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/category/diario/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/cose-turche/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/cose-turche/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/brexit-come-perdere-contro-se-stessi/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/brexit-come-perdere-contro-se-stessi/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/bisogna-saper-vincere/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/bisogna-saper-vincere/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/mein-kampf-per-tutti/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/mein-kampf-per-tutti/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/spam-poetry/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/spam-poetry/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/dark-reign-politica-e-religione-tra-i-fumetti-e-la-gnosi/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/dark-reign-politica-e-religione-tra-i-fumetti-e-la-gnosi/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/rovine-deuropa/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/rovine-deuropa/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/variazioni-della-differenza-derrida-e-coleman/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/variazioni-della-differenza-derrida-e-coleman/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/cinque-questioni-su-david-bowie/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/cinque-questioni-su-david-bowie/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/le-guerre-di-marcantonio-colonna-e-lo-statuto-di-frascati-del-1515/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/le-guerre-di-marcantonio-colonna-e-lo-statuto-di-frascati-del-1515/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/cul-de-sac/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/cul-de-sac/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/fantasmi-a-berlino/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/fantasmi-a-berlino/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/istanbul-diario-di-bordo/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/istanbul-diario-di-bordo/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/cocktail-bulgaro/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/cocktail-bulgaro/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/la-grecia-leuropa-e-i-conti-della-serva/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/la-grecia-leuropa-e-i-conti-della-serva/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/siamo-morti-da-sempre/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/siamo-morti-da-sempre/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/i-colori-del-noir/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/i-colori-del-noir/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/charlie-hebdo-e-la-satira-integrale/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/charlie-hebdo-e-la-satira-integrale/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-premio-frascati-poesia-provincia/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-premio-frascati-poesia-provincia/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/halloween-dietro-le-quinte/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/halloween-dietro-le-quinte/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/padre-padrino/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/padre-padrino/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/la-palude-letteraria/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/la-palude-letteraria/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/strade-di-fener/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/strade-di-fener/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/virus/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/virus/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/luomo-e-la-gallina/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/luomo-e-la-gallina/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/jeeg-robot-contro-i-kattivi/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/jeeg-robot-contro-i-kattivi/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/proposte-didattiche-per-una-scuola-meticcia/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/proposte-didattiche-per-una-scuola-meticcia/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/gender-theories-riflessioni-a-margine/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/gender-theories-riflessioni-a-margine/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/e-tutto-invano-cio-che-un-uomo-vano-fa-per-bisogno/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/e-tutto-invano-cio-che-un-uomo-vano-fa-per-bisogno/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/scorre-il-sangue-fertile-la-terra-la-pasola-di-sumba/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/scorre-il-sangue-fertile-la-terra-la-pasola-di-sumba/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/storie-dalla-jihad/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/storie-dalla-jihad/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/manicomio-italia-un-quadro-clinico/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/manicomio-italia-un-quadro-clinico/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-neoliberismo-lideologia-senza-nome/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-neoliberismo-lideologia-senza-nome/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/tutti-contro-il-ttip/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/tutti-contro-il-ttip/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/un-rosario-per-pannella/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/un-rosario-per-pannella/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/colonizzazione-dellimmaginario-e-controllo-sociale/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/colonizzazione-dellimmaginario-e-controllo-sociale/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/chi-paga-per-la-condivisione/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/chi-paga-per-la-condivisione/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-cane-nella-casa-degli-europei/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-cane-nella-casa-degli-europei/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/larte-egocentrica-mondiale-sta-uccidendo-larte/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/larte-egocentrica-mondiale-sta-uccidendo-larte/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/omicidio-varani-nuove-identita-del-male/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/omicidio-varani-nuove-identita-del-male/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/aaa-industria-filosofica-nel-salento/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/aaa-industria-filosofica-nel-salento/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/indagini-scientifiche-il-giallo-e-la-matematica/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/indagini-scientifiche-il-giallo-e-la-matematica/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/gianni-celati-e-la-fuga-dalla-letteratura/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/gianni-celati-e-la-fuga-dalla-letteratura/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/orizzonti-editoriali-mondo-digitale/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/orizzonti-editoriali-mondo-digitale/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/unioni-incivili-e-strutture-parentali-dopo-levi-strauss/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/unioni-incivili-e-strutture-parentali-dopo-levi-strauss/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-codice-del-mondo/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-codice-del-mondo/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/la-luce-il-paesaggio-e-il-confine-in-francesco-biamonti/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/la-luce-il-paesaggio-e-il-confine-in-francesco-biamonti/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/macht-und-denken-slam-di-filosofia-a-lipsia/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/macht-und-denken-slam-di-filosofia-a-lipsia/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-largo-sguardo-deuropa-e-la-poesia-di-faraon-meteoses/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-largo-sguardo-deuropa-e-la-poesia-di-faraon-meteoses/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/leuropa-e-i-limiti-della-retorica-antitedesca/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/leuropa-e-i-limiti-della-retorica-antitedesca/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/lideologia-del-presente/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/lideologia-del-presente/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.scritture.net/comments/feed/
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/comments/feed/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/comments/feed/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/images/bg_direction_nav.png
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?v=4.5.0
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff2?v=4.5.0
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff?v=4.5.0
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.ttf?v=4.5.0
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.svg?v=4.5.0
+23:06:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.scritture.net/wp-json/
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-json/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-json/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.scritture.net/claudio-comandini/
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/claudio-comandini/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/claudio-comandini/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.scritture.net/mag/nuova-chiesa-e-nuova-politica/
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/nuova-chiesa-e-nuova-politica/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/nuova-chiesa-e-nuova-politica/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.scritture.net/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/ (from matteo:iris2016@www.scritture.net/)
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/Calendari_Atles_catala-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/non-vedere-la-città-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/non-vedere-la-città-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/Europa-al-vento-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/Europa-al-vento-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/laboratorio-678x509.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/laboratorio-678x509.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/felicità-promesse-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/06/felicità-promesse-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/Pyramid_of_Capitalist_System-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/06/Pyramid_of_Capitalist_System-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/reincarnation-of-philip-dick-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/06/reincarnation-of-philip-dick-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/Costituzione_della_Repubblica_Italiana-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/06/Costituzione_della_Repubblica_Italiana-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/08/quanto-resta-del-millennio-678x509.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/08/quanto-resta-del-millennio-678x509.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/capo-volto-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/06/capo-volto-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/finita-la-carta-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/06/finita-la-carta-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/amore_nazista-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/06/amore_nazista-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/Disturbo-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/05/Disturbo-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/Spider-man-is-watching-you-920x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/Spider-man-is-watching-you-920x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/03/save-our_planet-1030x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/03/save-our_planet-1030x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/tromba-parlante-1030x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/tromba-parlante-1030x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/01/portrait_of_a_star-420x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/01/portrait_of_a_star-420x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2015/12/il_maschietto_di_frascati-445x438.png
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2015/12/il_maschietto_di_frascati-445x438.png (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/strada-bloccata-438x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/strada-bloccata-438x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/carogelati-439x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/carogelati-439x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/paracadutisti-nonsense-475x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/paracadutisti-nonsense-475x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/costruire-accanto-alle-macerie.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/costruire-accanto-alle-macerie.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/atropo-1030x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/atropo-1030x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2015/02/città-noir-1030x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2015/02/città-noir-1030x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/maometto-allinferno-640x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/maometto-allinferno-640x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/il-premio-del-carcerato.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/il-premio-del-carcerato.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/lumen-de-lumine-1030x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/lumen-de-lumine-1030x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2014/08/descende-et-imperium-coepit-1030x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2014/08/descende-et-imperium-coepit-1030x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/palude-di-città-887x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/palude-di-città-887x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/strada-di-fener-1030x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/strada-di-fener-1030x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/07/duplicazione-800x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/07/duplicazione-800x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2013/10/la-maschera-e-il-gallo-1030x438.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2013/10/la-maschera-e-il-gallo-1030x438.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/06/Lo-Chiamavano-Jeeg-Robot-banner.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/06/Lo-Chiamavano-Jeeg-Robot-banner.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/images.png
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/05/images.png (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/Vulvia-326x245.jpg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/05/Vulvia-326x245.jpg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/michelstaedter-autoritratto-136x245.jpeg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/05/michelstaedter-autoritratto-136x245.jpeg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/uploads/2016/05/Quando-lo-sciamano-trova-i-vermi-colorati-la-Pasola-può-iniziare-Picture-by-Lukas-Pokorny-326x245.jpeg
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/uploads/2016/05/Quando-lo-sciamano-trova-i-vermi-colorati-la-Pasola-può-iniziare-Picture-by-Lukas-Pokorny-326x245.jpeg (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/plugins/video-embed-box/video-embed.css?ver=2.5.4.4
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/plugins/video-embed-box/video-embed.css?ver=2.5.4.4 (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-includes/js/wp-embed.min.js?ver=4.5.3
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-includes/js/wp-embed.min.js?ver=4.5.3 (from matteo:iris2016@www.scritture.net/)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/images/bg_direction_nav.png
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/themes/mh-magazine-lite/images/bg_direction_nav.png (from www.scritture.net/wp-content/themes/mh-magazine-lite/style.css?ver=4.5.3)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?v=4.5.0
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?v=4.5.0 (from www.scritture.net/wp-content/themes/mh-magazine-lite/includes/font-awesome.min.css)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot? (from www.scritture.net/wp-content/themes/mh-magazine-lite/includes/font-awesome.min.css)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff2?v=4.5.0
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff2?v=4.5.0 (from www.scritture.net/wp-content/themes/mh-magazine-lite/includes/font-awesome.min.css)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff?v=4.5.0
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff?v=4.5.0 (from www.scritture.net/wp-content/themes/mh-magazine-lite/includes/font-awesome.min.css)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.ttf?v=4.5.0
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.ttf?v=4.5.0 (from www.scritture.net/wp-content/themes/mh-magazine-lite/includes/font-awesome.min.css)
+23:06:27	Warning: 	File not added due to mirror cancel: www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.svg?v=4.5.0
+23:06:27	Error: 	"mirror stopped by user" (-1) at link www.scritture.net/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.svg?v=4.5.0 (from www.scritture.net/wp-content/themes/mh-magazine-lite/includes/font-awesome.min.css)
 
-HTTrack Website Copier/3.48-1 mirror complete in 3 seconds : 2 links scanned, 0 files written (0 bytes overall) [52643 bytes received at 17547 bytes/sec], 2.0 requests per connection
-(1 errors, 1 warnings, 0 messages)
+HTTrack Website Copier/3.48-1 mirror complete in 8 seconds : 134 links scanned, 16 files written (388639 bytes overall), 17 files updated [153359 bytes received at 19169 bytes/sec], 330158 bytes transferred using HTTP compression in 13 files, ratio 26%, 9.0 requests per connection
+(122 errors, 175 warnings, 0 messages)

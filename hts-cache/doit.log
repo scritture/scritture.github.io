@@ -1,5 +1,5 @@
--iC2 -c1 -a -p7 http://matteo:iris2016@www.scritture.net/index.html
-File generated automatically on Fri, 12 Aug 2016 23:02:47, do NOT edit
+-iC2 -c1 -a -p7 http://matteo:iris2016@www.scritture.net
+File generated automatically on Fri, 12 Aug 2016 23:06:19, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
