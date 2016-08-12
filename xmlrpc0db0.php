@@ -3,13 +3,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>http://scritture.mirtillo.pedani.it</homePageLink>
+    <homePageLink>http://www.scritture.net</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://scritture.mirtillo.pedani.it/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://scritture.mirtillo.pedani.it/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://scritture.mirtillo.pedani.it/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://scritture.mirtillo.pedani.it/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://scritture.mirtillo.pedani.it/wp-json/" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.scritture.net/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.scritture.net/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.scritture.net/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.scritture.net/xmlrpc.php" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://www.scritture.net/wp-json/" />
 	    </apis>
   </service>
 </rsd>
