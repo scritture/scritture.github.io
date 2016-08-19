@@ -25,5 +25,7 @@ Version:        0.0.1
 
 .mh-wrapper { padding: 25px; background: #eeeeef; }
 
+/***** tolgo nuvola commenti ***/ 
+.mh-meta-comments, .entry-meta-comments { display: none; }
 
 
