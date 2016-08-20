@@ -217,7 +217,7 @@ div.pdfemb-toolbar button.pdfemb-zoomout::before {
 }
 
 div.pdfemb-toolbar button.pdfemb-zoomin::before {
-	content: url('../img/toolbarButton-zoomIn.html');
+	content: url('../img/toolbarButton-zoomIn.png');
 }
 
 div.pdfemb-toolbar button.pdfemb-fs::before {
