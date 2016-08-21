@@ -209,23 +209,23 @@ div.pdfemb-toolbar button.pdfemb-prev::before {
 }
 
 div.pdfemb-toolbar button.pdfemb-next::before {
-	content: url('../img/toolbarButton-pageDown.html');
+	content: url('../img/toolbarButton-pageDown.png');
 }
 
 div.pdfemb-toolbar button.pdfemb-zoomout::before {
-	content: url('../img/toolbarButton-zoomOut.html');
+	content: url('../img/toolbarButton-zoomOut.png');
 }
 
 div.pdfemb-toolbar button.pdfemb-zoomin::before {
-	content: url('../img/toolbarButton-zoomIn.html');
+	content: url('../img/toolbarButton-zoomIn.png');
 }
 
 div.pdfemb-toolbar button.pdfemb-fs::before {
-	content: url('../img/toolbarButton-presentationMode.png');
+	content: url('../img/toolbarButton-presentationMode.html');
 }
 
 div.pdfemb-toolbar button.pdfemb-download::before {
-	content: url('../img/toolbarButton-download.html');
+	content: url('../img/toolbarButton-download.png');
 }
 
 div.pdfemb-toolbar button.pdfemb-btndisabled {
