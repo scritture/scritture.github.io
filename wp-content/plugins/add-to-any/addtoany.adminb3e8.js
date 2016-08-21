@@ -1,20 +1,9 @@
-/* Init AddToAny when an AddToAny WordPress Widget is selectively refreshed for customizer preview. */
-jQuery( function() {
-	// Short-circuit selective refresh events if not in customizer preview or pre-4.5.
-	if ( 'undefined' === typeof wp || ! wp.customize || ! wp.customize.selectiveRefresh ) {
-		return;
-	}
-	
-	function addtoany_init() {
-		if ( window.a2a ) {
-			a2a.init_all( 'page' );
-		}
-	}
-	
-	// Init AddToAny when a partial is rendered.
-	wp.customize.selectiveRefresh.bind( 'partial-content-rendered', function( placement ) {
-		if ( placement.container ) {
-			addtoany_init();
-		}
-	} );
-} );
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /wp-content/plugins/add-to-any/addtoany.admin.js was not found on this server.</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at www.scritture.net Port 80</address>
+</body></html>
