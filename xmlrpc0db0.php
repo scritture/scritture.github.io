@@ -1,15 +1,9 @@
-
-<?xml version="1.0" encoding="UTF-8"?><rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
-  <service>
-    <engineName>WordPress</engineName>
-    <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>http://www.scritture.net</homePageLink>
-    <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.scritture.net/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.scritture.net/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.scritture.net/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.scritture.net/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://www.scritture.net/wp-json/" />
-	    </apis>
-  </service>
-</rsd>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /xmlrpc.php was not found on this server.</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at www.scritture.net Port 80</address>
+</body></html>
