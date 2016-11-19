@@ -1,0 +1,42 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gianluca Varone</title>
+	<atom:link href="/mag/author/gianluca-varone/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 17 Nov 2016 21:25:43 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<item>
+		<title>«È tutto invano ciò che un uomo vano fa per bisogno»</title>
+		<link>/mag/invano/</link>
+		<pubDate>Fri, 10 Jun 2016 10:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[Gianluca Varone]]></dc:creator>
+				<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[fumetti]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[Gianluca Varone]]></category>
+		<category><![CDATA[Giovanni Papini]]></category>
+		<category><![CDATA[Michelstaedter]]></category>
+		<category><![CDATA[Nadia Baraden]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Sergio Campailla]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=108</guid>
+		<description><![CDATA[«Amore e morte, l&#8217;universo e &#8216;l nulla/ necessità crudele della vita/ tu mi rifiuti. (Voglio e non posso e spero senza fede &#8211; III, Febbraio 1907,  Carlo Michelstaedter, da &#8220;Volo per altri cieli è la mia vita&#8221;, Fara Editore, Santarcangelo di Romagna 1996). La <a class="mh-excerpt-more" href="/mag/invano/" title="«È tutto invano ciò che un uomo vano fa per bisogno»">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

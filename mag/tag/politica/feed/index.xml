@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>politica</title>
+	<atom:link href="/mag/tag/politica/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 17 Nov 2016 21:25:43 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<item>
+		<title>Sisma all&#8217;italiana e altri terremoti</title>
+		<link>/mag/sisma-italiana/</link>
+		<pubDate>Mon, 12 Sep 2016 19:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[Stefano Ricchiuti]]></dc:creator>
+				<category><![CDATA[fumetti]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[Charlie Hebdo]]></category>
+		<category><![CDATA[Lino Ricchiuti]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[terremoto]]></category>
+
+		<guid isPermaLink="false">/?p=1129</guid>
+		<description><![CDATA[Il terremoto è una brutta cosa, e non bada né alle date, né alle norme: possiamo soltanto tenerci pronti al verificarsi delle scosse, inevitabili in molti parti del territorio nazionale. Alle vittime è dovuta ogni forma di solidarietà: tuttavia, bisogna onestamente riconoscere <a class="mh-excerpt-more" href="/mag/sisma-italiana/" title="Sisma all&#8217;italiana e altri terremoti">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

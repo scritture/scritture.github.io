@@ -1,0 +1,41 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>narrazioni</title>
+	<atom:link href="/mag/tag/narrazioni/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 17 Nov 2016 21:25:43 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<item>
+		<title>L&#8217;Italia ha vinto</title>
+		<link>/mag/litalia-ha-vinto/</link>
+		<pubDate>Wed, 25 Jul 2012 10:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Basso impero]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Frascati]]></category>
+		<category><![CDATA[immigrazione]]></category>
+		<category><![CDATA[Roma]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=305</guid>
+		<description><![CDATA[Dove si vince la partita e si incontrano quattramicialbar a fare festa e sono funerali di stato. Dal romanzo “Basso Impero”. &#160; «Cosa significano queste carte?» «Servono per vedere il futuro.» La partita procedeva da un quarto d’ora e già <a class="mh-excerpt-more" href="/mag/litalia-ha-vinto/" title="L&#8217;Italia ha vinto">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>
