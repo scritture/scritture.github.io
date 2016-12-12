@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/letteratura/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 17 Nov 2016 21:25:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Dec 2016 21:19:18 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -33,6 +33,30 @@
 
 		<guid isPermaLink="false">/?p=1165</guid>
 		<description><![CDATA[Cos’è l’orrore in una società che sembra fatta di mostri in lotta tra loro, in uno scontro continuo tra il male e il peggio? Come narrare storie fatte di promesse mancate e i dialoghi senza voce? La scrittrice Lidia Riviello <a class="mh-excerpt-more" href="/mag/horror-epica-dialogo/" title="L&#8217;epica stordita dell&#8217;horror americano">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Il continuo ritorno della Dama Bianca</title>
+		<link>/mag/il-continuo-ritorno-della-dama-bianca/</link>
+		<pubDate>Tue, 11 Oct 2016 19:34:41 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Dama Bianca]]></category>
+		<category><![CDATA[Erasmo]]></category>
+		<category><![CDATA[Hohenzollern]]></category>
+		<category><![CDATA[Leibniz]]></category>
+		<category><![CDATA[Simmel]]></category>
+		<category><![CDATA[Sonderweg]]></category>
+
+		<guid isPermaLink="false">/?p=1191</guid>
+		<description><![CDATA[Piccolo viaggio nel folklore tedesco alla ricerca del fantasma di una donna. &#160; Puoi incontrarla ovunque e in ogni momento, sospesa tra assenza e presente, terribile e inevitabile così come possono esserlo amore e morte. Si rivela e si nasconde, accennandosi <a class="mh-excerpt-more" href="/mag/il-continuo-ritorno-della-dama-bianca/" title="Il continuo ritorno della Dama Bianca">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Qualcosa di vuoto nel cielo</title>
@@ -193,29 +217,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=63</guid>
 		<description><![CDATA[• Fu concreata nell’embrione e nel Criterio/ della Temperie Contemporanee/ nell’impulso propulso dal Centro motorio del Verbo/ …nel sussulto poetico… • It was congenitally created in the embryo/ and in the Criterion of the Contemporary Climated/ in the impulse propulsed from the Engine of the World/ …in <a class="mh-excerpt-more" href="/mag/il-largo-sguardo-deuropa-e-la-poesia-di-faraon-meteoses/" title="Il largo sguardo d’Europa e la poesia di Faraòn Meteosès">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Cinque questioni su David Bowie</title>
-		<link>/mag/cinque-questioni-su-david-bowie/</link>
-		<pubDate>Fri, 15 Jan 2016 11:00:19 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[arte]]></category>
-		<category><![CDATA[cinema]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[David Bowie]]></category>
-		<category><![CDATA[fantascienza]]></category>
-		<category><![CDATA[Kubrick]]></category>
-		<category><![CDATA[Nietzsche]]></category>
-		<category><![CDATA[rock]]></category>
-		<category><![CDATA[sessualità]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=56</guid>
-		<description><![CDATA[Fantascienza, società, religione, sessualità e arte nelle canzoni di un grande maestro. &#160; In 2001: A Space Odissey di Kubrick un astronauta si perde nello spazio; qualcuno, piuttosto incerto nella carriera e negli affetti, vide la scena e cantò: «Planet earth is blue, and <a class="mh-excerpt-more" href="/mag/cinque-questioni-su-david-bowie/" title="Cinque questioni su David Bowie">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

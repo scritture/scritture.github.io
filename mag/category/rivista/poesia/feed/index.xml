@@ -13,12 +13,36 @@
 	<atom:link href="/mag/category/rivista/poesia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 17 Nov 2016 21:25:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Dec 2016 21:19:18 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.4</generator>
 	<item>
+		<title>Il continuo ritorno della Dama Bianca</title>
+		<link>/mag/il-continuo-ritorno-della-dama-bianca/</link>
+		<pubDate>Tue, 11 Oct 2016 19:34:41 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Dama Bianca]]></category>
+		<category><![CDATA[Erasmo]]></category>
+		<category><![CDATA[Hohenzollern]]></category>
+		<category><![CDATA[Leibniz]]></category>
+		<category><![CDATA[Simmel]]></category>
+		<category><![CDATA[Sonderweg]]></category>
+
+		<guid isPermaLink="false">/?p=1191</guid>
+		<description><![CDATA[Piccolo viaggio nel folklore tedesco alla ricerca del fantasma di una donna. &#160; Puoi incontrarla ovunque e in ogni momento, sospesa tra assenza e presente, terribile e inevitabile così come possono esserlo amore e morte. Si rivela e si nasconde, accennandosi <a class="mh-excerpt-more" href="/mag/il-continuo-ritorno-della-dama-bianca/" title="Il continuo ritorno della Dama Bianca">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>«È tutto invano ciò che un uomo vano fa per bisogno»</title>
 		<link>/mag/invano/</link>
 		<pubDate>Fri, 10 Jun 2016 10:00:09 +0000</pubDate>
@@ -298,24 +322,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=324</guid>
 		<description><![CDATA[Il discorso di Obama, l’intervista ad Assad, il manifesto della rivoluzione siriana. Orwell e noi: la propaganda e la guerra. La neolingua. Il polically correct. La disinformazione. La guerra è pace. Matrici della Siria. Gli alawiti e il potere. Gli <a class="mh-excerpt-more" href="/mag/siria-guerra-informazione/" title="La Siria, la guerra e l’informazione">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Poesie per un giorno di primavera</title>
-		<link>/mag/poesie-per-un-giorno-di-primavera/</link>
-		<pubDate>Thu, 21 Mar 2013 11:00:48 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[Bologna]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Frascati]]></category>
-		<category><![CDATA[Premi]]></category>
-		<category><![CDATA[Roma]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=331</guid>
-		<description><![CDATA[Alcuni momenti di una lunga stagione poetica. &#160; ZONA LIMITE Ho visto il mondo ad occhi chiusi Ho sentito il gallo bestemmiare Nel gelido rasoio di un mattino Amsterdam, estate 1987 Premio D’Annunzio e Michetti, Pescara 2000 &#160; PORTO MEDITERRANEO <a class="mh-excerpt-more" href="/mag/poesie-per-un-giorno-di-primavera/" title="Poesie per un giorno di primavera">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

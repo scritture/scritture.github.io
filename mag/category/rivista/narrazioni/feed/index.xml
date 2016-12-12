@@ -13,12 +13,36 @@
 	<atom:link href="/mag/category/rivista/narrazioni/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 17 Nov 2016 21:25:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Dec 2016 21:19:18 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.4</generator>
 	<item>
+		<title>Il continuo ritorno della Dama Bianca</title>
+		<link>/mag/il-continuo-ritorno-della-dama-bianca/</link>
+		<pubDate>Tue, 11 Oct 2016 19:34:41 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Dama Bianca]]></category>
+		<category><![CDATA[Erasmo]]></category>
+		<category><![CDATA[Hohenzollern]]></category>
+		<category><![CDATA[Leibniz]]></category>
+		<category><![CDATA[Simmel]]></category>
+		<category><![CDATA[Sonderweg]]></category>
+
+		<guid isPermaLink="false">/?p=1191</guid>
+		<description><![CDATA[Piccolo viaggio nel folklore tedesco alla ricerca del fantasma di una donna. &#160; Puoi incontrarla ovunque e in ogni momento, sospesa tra assenza e presente, terribile e inevitabile così come possono esserlo amore e morte. Si rivela e si nasconde, accennandosi <a class="mh-excerpt-more" href="/mag/il-continuo-ritorno-della-dama-bianca/" title="Il continuo ritorno della Dama Bianca">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Cose turche</title>
 		<link>/mag/cose-turche/</link>
 		<pubDate>Tue, 09 Aug 2016 10:00:33 +0000</pubDate>
@@ -247,37 +271,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=261</guid>
 		<description><![CDATA[Alla scoperta di Nova Roma: mare, tramonti, palazzi, gatti, arte, archeologia, imperatori e matti. E musica. &#160; 1. Il mare e la città Istanbul è costruita sul mare, ma lo ha dimenticato, incurante dei vari Dardanelli, Bosforo, Marmara, e tutti <a class="mh-excerpt-more" href="/mag/istanbul-diario-di-bordo/" title="Istanbul: diario di bordo">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Cocktail bulgaro</title>
-		<link>/mag/cocktail-bulgaro/</link>
-		<pubDate>Fri, 28 Aug 2015 10:00:40 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Bulgaria]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[De André]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Ebrei]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[gnosi]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Rolling Stones]]></category>
-		<category><![CDATA[Sapienza]]></category>
-		<category><![CDATA[Sofia]]></category>
-		<category><![CDATA[Stara Zagora]]></category>
-		<category><![CDATA[Tracia]]></category>
-		<category><![CDATA[viaggi]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=266</guid>
-		<description><![CDATA[Attraversando la mescolanza bulgara: città, treni, ragazze e zingari.  E musica. &#160; 1. Odi alla Sapienza «Essa si estende, con potenza, da un capo all’altro del mondo, e con bontà governa ogni cosa. Io l’ho amata e cercata fin dalla <a class="mh-excerpt-more" href="/mag/cocktail-bulgaro/" title="Cocktail bulgaro">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

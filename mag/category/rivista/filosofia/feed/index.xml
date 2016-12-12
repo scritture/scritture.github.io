@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/filosofia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 17 Nov 2016 21:25:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Dec 2016 21:19:18 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -36,6 +36,30 @@
 
 		<guid isPermaLink="false">/?p=1174</guid>
 		<description><![CDATA[L’imporsi di una risoluzione contraddittoria come quella del Brexit, la vittoria di un impresentabile come Trump, l’aggravarsi delle persecuzioni in Turchia, il peggiorare delle derive populiste in Italia e altrove: siamo di fronte al definitivo rovesciamento della democrazia nel governo <a class="mh-excerpt-more" href="/mag/democrazia-critica-habermas/" title="Una democrazia critica. Note su Habermas">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Il continuo ritorno della Dama Bianca</title>
+		<link>/mag/il-continuo-ritorno-della-dama-bianca/</link>
+		<pubDate>Tue, 11 Oct 2016 19:34:41 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Dama Bianca]]></category>
+		<category><![CDATA[Erasmo]]></category>
+		<category><![CDATA[Hohenzollern]]></category>
+		<category><![CDATA[Leibniz]]></category>
+		<category><![CDATA[Simmel]]></category>
+		<category><![CDATA[Sonderweg]]></category>
+
+		<guid isPermaLink="false">/?p=1191</guid>
+		<description><![CDATA[Piccolo viaggio nel folklore tedesco alla ricerca del fantasma di una donna. &#160; Puoi incontrarla ovunque e in ogni momento, sospesa tra assenza e presente, terribile e inevitabile così come possono esserlo amore e morte. Si rivela e si nasconde, accennandosi <a class="mh-excerpt-more" href="/mag/il-continuo-ritorno-della-dama-bianca/" title="Il continuo ritorno della Dama Bianca">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Brexit: come perdere contro se stessi</title>
@@ -212,25 +236,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=108</guid>
 		<description><![CDATA[«Amore e morte, l&#8217;universo e &#8216;l nulla/ necessità crudele della vita/ tu mi rifiuti. (Voglio e non posso e spero senza fede &#8211; III, Febbraio 1907,  Carlo Michelstaedter, da &#8220;Volo per altri cieli è la mia vita&#8221;, Fara Editore, Santarcangelo di Romagna 1996). La <a class="mh-excerpt-more" href="/mag/invano/" title="«È tutto invano ciò che un uomo vano fa per bisogno»">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Colonizzazione dell’immaginario e controllo sociale</title>
-		<link>/mag/colonizzazione-dellimmaginario-e-controllo-sociale/</link>
-		<pubDate>Mon, 02 May 2016 10:00:32 +0000</pubDate>
-		<dc:creator><![CDATA[Renato Curcio]]></dc:creator>
-				<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[economia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Internet]]></category>
-		<category><![CDATA[Renato Curcio]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[social network]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=59</guid>
-		<description><![CDATA[L&#8217;esigenza di mantenere un pensiero critico forse non è sentita da molti, ma è prioritaria sopratutto rispetto agli strumenti finanziari e digitali che ormai strutturano la nostra vita lavorativa e relazionale, troppo spesso accettati in modo passivo. Un protagonista controverso ma attento <a class="mh-excerpt-more" href="/mag/colonizzazione-dellimmaginario-e-controllo-sociale/" title="Colonizzazione dell’immaginario e controllo sociale">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
