@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/cinema/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Mon, 12 Dec 2016 17:19:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Dec 2016 20:40:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -33,6 +33,40 @@
 
 		<guid isPermaLink="false">/?p=1165</guid>
 		<description><![CDATA[Cos’è l’orrore in una società che sembra fatta di mostri in lotta tra loro, in uno scontro continuo tra il male e il peggio? Come narrare storie fatte di promesse mancate e i dialoghi senza voce? La scrittrice Lidia Riviello <a class="mh-excerpt-more" href="/mag/horror-epica-dialogo/" title="L&#8217;epica stordita dell&#8217;horror americano">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Berlino dopo l’unione</title>
+		<link>/mag/berlino-dopo-lunione/</link>
+		<pubDate>Sun, 30 Oct 2016 11:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[cinema]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[economia]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Derrida]]></category>
+		<category><![CDATA[Fukuyama]]></category>
+		<category><![CDATA[Germania]]></category>
+		<category><![CDATA[Guerra Fredda]]></category>
+		<category><![CDATA[Hegel]]></category>
+		<category><![CDATA[Huntington]]></category>
+		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Marx]]></category>
+		<category><![CDATA[metropoli]]></category>
+		<category><![CDATA[Naomi Klein]]></category>
+		<category><![CDATA[Nietzsche]]></category>
+		<category><![CDATA[rock]]></category>
+		<category><![CDATA[sessualità]]></category>
+
+		<guid isPermaLink="false">/?p=1211</guid>
+		<description><![CDATA[Benjamin: il paesaggio berlinese e l’orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e <a class="mh-excerpt-more" href="/mag/berlino-dopo-lunione/" title="Berlino dopo l’unione">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Qualcosa di vuoto nel cielo</title>
@@ -194,6 +228,39 @@
 		<description><![CDATA[Fantascienza, società, religione, sessualità e arte nelle canzoni di un grande maestro. &#160; In 2001: A Space Odissey di Kubrick un astronauta si perde nello spazio; qualcuno, piuttosto incerto nella carriera e negli affetti, vide la scena e cantò: «Planet earth is blue, and <a class="mh-excerpt-more" href="/mag/cinque-questioni-su-david-bowie/" title="Cinque questioni su David Bowie">[...]</a>]]></description>
 		</item>
 		<item>
+		<title>Il tetto sopra Berlino</title>
+		<link>/mag/il-tetto-sopra-berlino/</link>
+		<pubDate>Sat, 08 Nov 2014 11:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[cinema]]></category>
+		<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[economia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Debord]]></category>
+		<category><![CDATA[Deleuze]]></category>
+		<category><![CDATA[Fukuyama]]></category>
+		<category><![CDATA[Germania]]></category>
+		<category><![CDATA[gnosi]]></category>
+		<category><![CDATA[Hitler]]></category>
+		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Marx]]></category>
+		<category><![CDATA[metropoli]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[Nietzsche]]></category>
+		<category><![CDATA[Sonderweg]]></category>
+		<category><![CDATA[Spengler]]></category>
+		<category><![CDATA[Stalin]]></category>
+
+		<guid isPermaLink="false">/?p=1219</guid>
+		<description><![CDATA[Il Muro, lo schermo, il mercato. Weimar: angosce oscure, luminose speranze. Il Nazismo: la natura come progetto. I Verdi: l’economia informale. Nazisti hippy e nazicomunsti. Nuovo Ordine del Mondo. Erosione degli stati nazionali, imporsi del capitale finanziario, eclisse delle ideologie. <a class="mh-excerpt-more" href="/mag/il-tetto-sopra-berlino/" title="Il tetto sopra Berlino">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Il tradire degli eventi</title>
 		<link>/mag/il-tradire-degli-eventi/</link>
 		<pubDate>Mon, 29 Sep 2014 10:00:27 +0000</pubDate>
@@ -227,100 +294,6 @@
 
 		<guid isPermaLink="false">/?p=1076</guid>
 		<description><![CDATA[Donne e religione. Lo Stato Islamico tra comunicazione e realtà. Gli Yazidi da prima della creazione ad oggi. Nubi luminose, presenza divina e tre monoteismi. Veli e ombre in Averroè e Giordano Bruno. Delillo e l&#8217;attimo prima del crollo. Breve <a class="mh-excerpt-more" href="/mag/il-tradire-degli-eventi/" title="Il tradire degli eventi">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>«Conscientia mea»: Ratzinger e noi</title>
-		<link>/mag/conscientia-mea-ratzinger-e-noi/</link>
-		<pubDate>Wed, 27 Feb 2013 11:00:57 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[cinema]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Agamben]]></category>
-		<category><![CDATA[Calvi]]></category>
-		<category><![CDATA[cattolicesimo]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[contingenza]]></category>
-		<category><![CDATA[De Giori]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Erodoto]]></category>
-		<category><![CDATA[Ferdinando Imposimato]]></category>
-		<category><![CDATA[Ferraris]]></category>
-		<category><![CDATA[finanza tossica]]></category>
-		<category><![CDATA[Giovanni della Croce]]></category>
-		<category><![CDATA[Giovanni Paolo I]]></category>
-		<category><![CDATA[Giovanni Paolo II]]></category>
-		<category><![CDATA[Gotti Tedeschi]]></category>
-		<category><![CDATA[Herranz]]></category>
-		<category><![CDATA[Huntington]]></category>
-		<category><![CDATA[Ignazio da Loyola]]></category>
-		<category><![CDATA[Jonathan Levy]]></category>
-		<category><![CDATA[Jung]]></category>
-		<category><![CDATA[Kant]]></category>
-		<category><![CDATA[Licio Gelli]]></category>
-		<category><![CDATA[Marcinkus]]></category>
-		<category><![CDATA[Michele Sindona]]></category>
-		<category><![CDATA[Nanni Moretti]]></category>
-		<category><![CDATA[O' Brien]]></category>
-		<category><![CDATA[Origene]]></category>
-		<category><![CDATA[Parusia]]></category>
-		<category><![CDATA[Pavel Hnilica]]></category>
-		<category><![CDATA[Perniola]]></category>
-		<category><![CDATA[Philip Willan]]></category>
-		<category><![CDATA[Pio XII]]></category>
-		<category><![CDATA[Pistorius]]></category>
-		<category><![CDATA[Ratzinger]]></category>
-		<category><![CDATA[Roma]]></category>
-		<category><![CDATA[Schmitt]]></category>
-		<category><![CDATA[Simone Weil]]></category>
-		<category><![CDATA[Tao]]></category>
-		<category><![CDATA[Unamuno]]></category>
-		<category><![CDATA[Upanisad]]></category>
-		<category><![CDATA[Voltaire]]></category>
-		<category><![CDATA[Žižek]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=269</guid>
-		<description><![CDATA[Abdicare in latino. La storia al tempo dei media. Erodoto: vedere e presente. Kant e S. Giovanni della Croce: fede e ragione. Simone Weil: ripensare la fede nella libertà dell’intelligenza. I candidati del Conclave. La rinuncia del cardinale O’Brien, accusato di <a class="mh-excerpt-more" href="/mag/conscientia-mea-ratzinger-e-noi/" title="«Conscientia mea»: Ratzinger e noi">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Le colpe di Batman. L&#8217;informazione, i fumetti e le stragi</title>
-		<link>/mag/batman-informazione-fumetti-stragi/</link>
-		<pubDate>Tue, 24 Jul 2012 10:00:54 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[cinema]]></category>
-		<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[fumetti]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Alan Moore]]></category>
-		<category><![CDATA[Alessandro Di Nocera]]></category>
-		<category><![CDATA[Angelo Aquaro]]></category>
-		<category><![CDATA[Batman]]></category>
-		<category><![CDATA[Christofer Nolan]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[DC]]></category>
-		<category><![CDATA[Frank Miller]]></category>
-		<category><![CDATA[Fredric Werthan]]></category>
-		<category><![CDATA[Garth Ennis]]></category>
-		<category><![CDATA[Hellblazer]]></category>
-		<category><![CDATA[Internet]]></category>
-		<category><![CDATA[James Holmes]]></category>
-		<category><![CDATA[Mike Carey]]></category>
-		<category><![CDATA[Neil Gaiman]]></category>
-		<category><![CDATA[Pasquale Cinquemani]]></category>
-		<category><![CDATA[Preacher]]></category>
-		<category><![CDATA[pulp]]></category>
-		<category><![CDATA[Sandman]]></category>
-		<category><![CDATA[Simon Bisley]]></category>
-		<category><![CDATA[Vertigo]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=402</guid>
-		<description><![CDATA[Strage in un cinema di Colorado alla prima del film su Batman di Christopher Nolan. Gravi svarioni giornalistici sull’attribuzione della paternità del personaggio e della responsabilità del fatto. Breve profilo di James Holmes, autore delle strage, e dinamica dell’accaduto. “The <a class="mh-excerpt-more" href="/mag/batman-informazione-fumetti-stragi/" title="Le colpe di Batman. L&#8217;informazione, i fumetti e le stragi">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

@@ -13,12 +13,46 @@
 	<atom:link href="/mag/category/rivista/economia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Mon, 12 Dec 2016 17:19:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Dec 2016 20:40:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.4</generator>
 	<item>
+		<title>Berlino dopo l’unione</title>
+		<link>/mag/berlino-dopo-lunione/</link>
+		<pubDate>Sun, 30 Oct 2016 11:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[cinema]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[economia]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Derrida]]></category>
+		<category><![CDATA[Fukuyama]]></category>
+		<category><![CDATA[Germania]]></category>
+		<category><![CDATA[Guerra Fredda]]></category>
+		<category><![CDATA[Hegel]]></category>
+		<category><![CDATA[Huntington]]></category>
+		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Marx]]></category>
+		<category><![CDATA[metropoli]]></category>
+		<category><![CDATA[Naomi Klein]]></category>
+		<category><![CDATA[Nietzsche]]></category>
+		<category><![CDATA[rock]]></category>
+		<category><![CDATA[sessualità]]></category>
+
+		<guid isPermaLink="false">/?p=1211</guid>
+		<description><![CDATA[Benjamin: il paesaggio berlinese e l’orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e <a class="mh-excerpt-more" href="/mag/berlino-dopo-lunione/" title="Berlino dopo l’unione">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Il disgusto della democrazia</title>
 		<link>/mag/il-disgusto-della-democrazia/</link>
 		<pubDate>Sat, 02 Jul 2016 10:00:09 +0000</pubDate>
@@ -236,38 +270,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=253</guid>
 		<description><![CDATA[Alcune suggestioni su fantasmi e cacca in terra tedesca. La festa dell’unificazione, il Dieselgate e la Deutsch Bank, la protesta contro il TTIP. La sovranità popolare nella Costituzione della DDR. L’Islam in Germania: migrazioni e ospitalità. Libri e prigione: installazioni e <a class="mh-excerpt-more" href="/mag/fantasmi-a-berlino/" title="Fantasmi a Berlino">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>La Grecia, l’Europa e i conti della serva</title>
-		<link>/mag/la-grecia-leuropa-e-i-conti-della-serva/</link>
-		<pubDate>Mon, 27 Jul 2015 10:00:48 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[economia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[crisi]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[finanza]]></category>
-		<category><![CDATA[finanza tossica]]></category>
-		<category><![CDATA[Grecia]]></category>
-		<category><![CDATA[Huntington]]></category>
-		<category><![CDATA[neoliberismo]]></category>
-		<category><![CDATA[Oriana Fallaci]]></category>
-		<category><![CDATA[Paolo Barnard]]></category>
-		<category><![CDATA[Ronald Dore]]></category>
-		<category><![CDATA[Stiglitz]]></category>
-		<category><![CDATA[Varoufakis]]></category>
-		<category><![CDATA[Žižek]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=750</guid>
-		<description><![CDATA[La crisi greca tra neoliberismo e radicalismo razionale. Finanza, speculazioni, crolli: il ruolo dei derivati nell’intossicazione dell’economia. Syriza, il superamendo dell’austerity e la ridefinizione dell’Europa. Tsipras: strategie politiche e azione di governo. Debito, colpa e grazia tra Grecia e Germania. <a class="mh-excerpt-more" href="/mag/la-grecia-leuropa-e-i-conti-della-serva/" title="La Grecia, l’Europa e i conti della serva">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

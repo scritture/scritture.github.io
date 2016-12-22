@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/social-network/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Mon, 12 Dec 2016 17:19:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Dec 2016 20:40:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -144,6 +144,43 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=28</guid>
 		<description><![CDATA[Salvaguardare le scienze umanistiche da una visione riduttiva che vuole relegarle nell’archivio dell’inutile, emancipare la Rete dagli usi compulsivi che non permettono la diffusione dei saperi. Ricordava Italo Calvino che in un epoca di veloci cambiamenti è necessario essere come <a class="mh-excerpt-more" href="/mag/orizzonti-editoriali-mondo-digitale/" title="Orizzonti editoriali e mondo digitale">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>De neolingua</title>
+		<link>/mag/de-neolingua/</link>
+		<pubDate>Mon, 02 Jun 2014 10:00:44 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[editoria]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[11 settembre]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[cattolicesimo]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Germania]]></category>
+		<category><![CDATA[improvvisazione]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Manzoni]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[Neolingua]]></category>
+		<category><![CDATA[Nietzsche]]></category>
+		<category><![CDATA[Orwell]]></category>
+		<category><![CDATA[Perniola]]></category>
+		<category><![CDATA[sessualità]]></category>
+		<category><![CDATA[social network]]></category>
+		<category><![CDATA[Sonderweg]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">/?p=1204</guid>
+		<description><![CDATA[I tre vocabolari della neolingua. L&#8217;associazione di sostantivo e verbo e altri sistemi per paralizzare l&#8217;intelletto. Rettifica della storia e mutabilità del passato. Guerra infinita e conflitto in Crimea. Codici giovanili, burocratici e scientifici. Materialismo dialettico e radicalismi di maniera. <a class="mh-excerpt-more" href="/mag/de-neolingua/" title="De neolingua">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>La Siria, la guerra e l’informazione</title>
@@ -284,23 +321,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=273</guid>
 		<description><![CDATA[Nuove sollevazioni nel mondo islamico e “The Innocence of Muslim”. L’assalto all’ambasciata libica. Conseguenze in divenire. La sparizione di guerra e pace e le nuove forme di conflitto. Qiao Liang e Wang Xiang: strategie cinesi. Hard-Negri, De Benoist, Galli: simmetria <a class="mh-excerpt-more" href="/mag/al-qaeda-network-fondamentalismo-islamico/" title="Al Qaeda network. Il fondamentalismo islamico e le strategie reticolari">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Facebook, la borsa e le relazioni</title>
-		<link>/mag/facebook-borsa-relazioni/</link>
-		<pubDate>Tue, 22 May 2012 10:00:22 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[economia]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[finanza tossica]]></category>
-		<category><![CDATA[Perniola]]></category>
-		<category><![CDATA[social network]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=248</guid>
-		<description><![CDATA[Relazioni e utenti. Borsa e social network. Contatti e amicizie. Differenza tra new economy e social business. Similiarità tra net economy e old economy. I primi tre giorni di contrattazioni. La Morgan Stanley gioca d’azzardo. Società cognitiva e inibizione di giudizio. <a class="mh-excerpt-more" href="/mag/facebook-borsa-relazioni/" title="Facebook, la borsa e le relazioni">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

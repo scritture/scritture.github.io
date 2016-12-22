@@ -13,12 +13,27 @@
 	<atom:link href="/mag/category/umorismo/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Mon, 12 Dec 2016 17:19:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Dec 2016 20:40:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.4</generator>
 	<item>
+		<title>La famiglia Signoretti</title>
+		<link>/mag/la-famiglia-signoretti/</link>
+		<pubDate>Sun, 20 Nov 2016 11:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[Basso impero]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Frascati]]></category>
+
+		<guid isPermaLink="false">/?p=1200</guid>
+		<description><![CDATA[Dove facciamo la conoscenza di una gran bella famiglia di stronzi, alla quale apparteniamo tutti. Un&#8217;altro edificante episodio del nostro Basso Impero quotidiano.   Nella famiglia Signoretti non c’era mai stato un giorno di felicità. Al limite si erano sfogati <a class="mh-excerpt-more" href="/mag/la-famiglia-signoretti/" title="La famiglia Signoretti">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Sisma all&#8217;italiana e altri terremoti</title>
 		<link>/mag/sisma-italiana/</link>
 		<pubDate>Mon, 12 Sep 2016 19:00:26 +0000</pubDate>
@@ -220,62 +235,38 @@
 		<description><![CDATA[Le galline sanno contare fino a tre, l’uomo fino a due: Giovani Marmotte e Gurdjieff a confronto. Neolingua, principio di non contraddizione, insignificanza: Orwell, Aristotele, il politically correct. La matematica secondo l’induzione totale e il giudizio sintetico a priori: Poincaré <a class="mh-excerpt-more" href="/mag/luomo-e-la-gallina/" title="L&#8217;uomo e la gallina">[...]</a>]]></description>
 		</item>
 		<item>
-		<title>Lacrime e barche. Sanremo e la politica</title>
-		<link>/mag/lacrime-e-barche-sanremo-e-la-politica/</link>
-		<pubDate>Sat, 16 Feb 2013 11:00:48 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[umorismo]]></category>
-		<category><![CDATA[Berlusconi]]></category>
-		<category><![CDATA[Bersani]]></category>
-		<category><![CDATA[Bobby Solo]]></category>
-		<category><![CDATA[Boniver]]></category>
-		<category><![CDATA[Casini]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Craxi]]></category>
-		<category><![CDATA[Domenico De Masi]]></category>
-		<category><![CDATA[Elio e le Storie Tese]]></category>
-		<category><![CDATA[Fabio Fazio]]></category>
-		<category><![CDATA[Festival di Sanremo]]></category>
-		<category><![CDATA[Gianni Borgna]]></category>
-		<category><![CDATA[Giorgio Colli]]></category>
-		<category><![CDATA[Giovanni Scrofani]]></category>
-		<category><![CDATA[Grillo]]></category>
-		<category><![CDATA[Luigi Tenco]]></category>
-		<category><![CDATA[Mastella]]></category>
-		<category><![CDATA[Maurizio Crozza]]></category>
-		<category><![CDATA[Michele Serra]]></category>
-		<category><![CDATA[Mogol]]></category>
-		<category><![CDATA[Monti]]></category>
-		<category><![CDATA[Orietta Berti]]></category>
-		<category><![CDATA[psicologia]]></category>
-		<category><![CDATA[Roma]]></category>
-		<category><![CDATA[Salvatore Quasimodo]]></category>
-		<category><![CDATA[social network]]></category>
-		<category><![CDATA[Toto Cotugno]]></category>
-		<category><![CDATA[Un disco per l'estate]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=396</guid>
-		<description><![CDATA[Il Festival di Sanremo da specchio del costume a modello della classe politica. Digressione sull’essere datati oggi. Esempi eccellenti dall’edizione 2010. Cantanti, politici e verità. Bersani, Orietta Berti e l’eredità della DC. La Boniver, Bobby Solo e le lacrime d’amore. <a class="mh-excerpt-more" href="/mag/lacrime-e-barche-sanremo-e-la-politica/" title="Lacrime e barche. Sanremo e la politica">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Il pianeta dei famosi</title>
-		<link>/mag/il-pianeta-dei-famosi/</link>
-		<pubDate>Fri, 04 May 2012 10:00:08 +0000</pubDate>
+		<title>La clonazione dalle pecore a Dio (passando per Berlusconi)</title>
+		<link>/mag/la-clonazione/</link>
+		<pubDate>Mon, 27 May 2013 10:00:59 +0000</pubDate>
 		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
 				<category><![CDATA[comunicazione]]></category>
 		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[fumetti]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[scienza]]></category>
 		<category><![CDATA[società]]></category>
 		<category><![CDATA[umorismo]]></category>
-		<category><![CDATA[Andy Warhol]]></category>
+		<category><![CDATA[Agamben]]></category>
+		<category><![CDATA[Berlusconi]]></category>
+		<category><![CDATA[Bisanzio]]></category>
 		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[informazione]]></category>
+		<category><![CDATA[Cristianesimo]]></category>
+		<category><![CDATA[Derrida]]></category>
+		<category><![CDATA[Ebrei]]></category>
+		<category><![CDATA[Husserl]]></category>
+		<category><![CDATA[integralismo]]></category>
+		<category><![CDATA[Marvel]]></category>
+		<category><![CDATA[Parusia]]></category>
+		<category><![CDATA[Reagan]]></category>
+		<category><![CDATA[Sindone]]></category>
+		<category><![CDATA[Spider-man]]></category>
+		<category><![CDATA[USA]]></category>
 
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=190</guid>
-		<description><![CDATA[Andy Warhol e 96 famosi al giorno. Caccole e pane. Smarrire la dignità. &#160; Ormai ci sono festival per tutto, premi per ogni cosa, manifestazioni e trasmissioni per qualsiasi prurito. I quindici minuti di celebrità procapite di cui Andy Warhol <a class="mh-excerpt-more" href="/mag/il-pianeta-dei-famosi/" title="Il pianeta dei famosi">[...]</a>]]></description>
+		<guid isPermaLink="false">/?p=1223</guid>
+		<description><![CDATA[La notte in cui fu clonato il presidente. Un controverso concorso letterario. Berlusconi, la biopolitica e il corpo immortale del sovrano. La clonazione come meccanismo istituzionale. Breve descrizione dei quindici racconti pubblicati. Semantica e pratica della clonazione. La riproduzione per <a class="mh-excerpt-more" href="/mag/la-clonazione/" title="La clonazione dalle pecore a Dio (passando per Berlusconi)">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
