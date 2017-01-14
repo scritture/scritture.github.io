@@ -13,12 +13,27 @@
 	<atom:link href="/mag/tag/frascati/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Sun, 11 Dec 2016 21:19:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Dec 2016 13:23:42 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.4</generator>
 	<item>
+		<title>La famiglia Signoretti</title>
+		<link>/mag/la-famiglia-signoretti/</link>
+		<pubDate>Sun, 20 Nov 2016 11:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[Basso impero]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Frascati]]></category>
+
+		<guid isPermaLink="false">/?p=1200</guid>
+		<description><![CDATA[Dove facciamo la conoscenza di una gran bella famiglia di stronzi, alla quale apparteniamo tutti. Un&#8217;altro edificante episodio del nostro Basso Impero quotidiano.   Nella famiglia Signoretti non c’era mai stato un giorno di felicità. Al limite si erano sfogati <a class="mh-excerpt-more" href="/mag/la-famiglia-signoretti/" title="La famiglia Signoretti">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>La storia e i giorni. Le bombe su Frascati e la distruzione di Tuscolo</title>
 		<link>/mag/storia-bombe-frascati-distruzione-tuscolo/</link>
 		<pubDate>Wed, 07 Sep 2016 10:00:46 +0000</pubDate>

@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/gnosi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Sun, 11 Dec 2016 21:19:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Dec 2016 13:23:42 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -111,6 +111,39 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=266</guid>
 		<description><![CDATA[Attraversando la mescolanza bulgara: città, treni, ragazze e zingari.  E musica. &#160; 1. Odi alla Sapienza «Essa si estende, con potenza, da un capo all’altro del mondo, e con bontà governa ogni cosa. Io l’ho amata e cercata fin dalla <a class="mh-excerpt-more" href="/mag/cocktail-bulgaro/" title="Cocktail bulgaro">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Il tetto sopra Berlino</title>
+		<link>/mag/il-tetto-sopra-berlino/</link>
+		<pubDate>Sat, 08 Nov 2014 11:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[cinema]]></category>
+		<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[economia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Debord]]></category>
+		<category><![CDATA[Deleuze]]></category>
+		<category><![CDATA[Fukuyama]]></category>
+		<category><![CDATA[Germania]]></category>
+		<category><![CDATA[gnosi]]></category>
+		<category><![CDATA[Hitler]]></category>
+		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Marx]]></category>
+		<category><![CDATA[metropoli]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[Nietzsche]]></category>
+		<category><![CDATA[Sonderweg]]></category>
+		<category><![CDATA[Spengler]]></category>
+		<category><![CDATA[Stalin]]></category>
+
+		<guid isPermaLink="false">/?p=1219</guid>
+		<description><![CDATA[Il Muro, lo schermo, il mercato. Weimar: angosce oscure, luminose speranze. Il Nazismo: la natura come progetto. I Verdi: l’economia informale. Nazisti hippy e nazicomunsti. Nuovo Ordine del Mondo. Erosione degli stati nazionali, imporsi del capitale finanziario, eclisse delle ideologie. <a class="mh-excerpt-more" href="/mag/il-tetto-sopra-berlino/" title="Il tetto sopra Berlino">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>L&#8217;uomo e la gallina</title>
