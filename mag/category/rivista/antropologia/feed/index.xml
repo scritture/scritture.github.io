@@ -13,12 +13,38 @@
 	<atom:link href="/mag/category/rivista/antropologia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 22 Dec 2016 13:23:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jan 2017 18:10:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>Momenti della fine: tre religioni a confronto</title>
+		<link>/mag/momenti-della-fine/</link>
+		<pubDate>Sat, 31 Dec 2016 11:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Agamben]]></category>
+		<category><![CDATA[Apocalisse]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Cristianesimo]]></category>
+		<category><![CDATA[Ebrei]]></category>
+		<category><![CDATA[guerra globale]]></category>
+		<category><![CDATA[integralismo]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Jihad]]></category>
+
+		<guid isPermaLink="false">/?p=1265</guid>
+		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Donne e uomini: pregiudizi e dati di fatto</title>
 		<link>/mag/donne-e-uomini-pregiudizi-e-dati-di-fatto/</link>
 		<pubDate>Fri, 09 Dec 2016 11:00:02 +0000</pubDate>
@@ -197,37 +223,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=19</guid>
 		<description><![CDATA[Il lavoro di antropologo e filosofo di Marc Augé (Poitiers, 1935), ampio e diversificato, presenta al suo interno una profonda coerenza di pensiero e indagine, ed è proprio l’intreccio tra le diverse tematiche a permettere di esplicare le costanti della <a class="mh-excerpt-more" href="/mag/lideologia-del-presente/" title="L&#8217;ideologia del presente">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Cocktail bulgaro</title>
-		<link>/mag/cocktail-bulgaro/</link>
-		<pubDate>Fri, 28 Aug 2015 10:00:40 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Bulgaria]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[De André]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Ebrei]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[gnosi]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Rolling Stones]]></category>
-		<category><![CDATA[Sapienza]]></category>
-		<category><![CDATA[Sofia]]></category>
-		<category><![CDATA[Stara Zagora]]></category>
-		<category><![CDATA[Tracia]]></category>
-		<category><![CDATA[viaggi]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=266</guid>
-		<description><![CDATA[Attraversando la mescolanza bulgara: città, treni, ragazze e zingari.  E musica. &#160; 1. Odi alla Sapienza «Essa si estende, con potenza, da un capo all’altro del mondo, e con bontà governa ogni cosa. Io l’ho amata e cercata fin dalla <a class="mh-excerpt-more" href="/mag/cocktail-bulgaro/" title="Cocktail bulgaro">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

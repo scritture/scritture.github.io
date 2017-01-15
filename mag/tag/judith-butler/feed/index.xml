@@ -13,12 +13,31 @@
 	<atom:link href="/mag/tag/judith-butler/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 22 Dec 2016 13:23:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jan 2017 18:10:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>La “Theory”: una filosofia sintetica low cost</title>
+		<link>/mag/theory-filosofia-low-cost/</link>
+		<pubDate>Wed, 21 Dec 2016 11:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[Barbara Carnevali]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Agamben]]></category>
+		<category><![CDATA[Barbara Carnevali]]></category>
+		<category><![CDATA[Derrida]]></category>
+		<category><![CDATA[François Cusset]]></category>
+		<category><![CDATA[Judith Butler]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1261</guid>
+		<description><![CDATA[Il radicalismo di maniera e la falsa anarchia rappresentano ormai il nuovo conformismo e, nonostante la loro inafferrabile e proteiforme imbecillità, hanno a supporto addirittura uno straccio di teoria: anzi, hanno dalla loro proprio quella macedonia di mezze idee rubacchiate <a class="mh-excerpt-more" href="/mag/theory-filosofia-low-cost/" title="La “Theory”: una filosofia sintetica low cost">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Gender theories. Riflessioni a margine</title>
 		<link>/mag/gender-theories-riflessioni-a-margine/</link>
 		<pubDate>Fri, 10 Jun 2016 10:00:13 +0000</pubDate>

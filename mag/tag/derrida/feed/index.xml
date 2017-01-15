@@ -13,12 +13,31 @@
 	<atom:link href="/mag/tag/derrida/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 22 Dec 2016 13:23:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jan 2017 18:10:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>La “Theory”: una filosofia sintetica low cost</title>
+		<link>/mag/theory-filosofia-low-cost/</link>
+		<pubDate>Wed, 21 Dec 2016 11:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[Barbara Carnevali]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Agamben]]></category>
+		<category><![CDATA[Barbara Carnevali]]></category>
+		<category><![CDATA[Derrida]]></category>
+		<category><![CDATA[François Cusset]]></category>
+		<category><![CDATA[Judith Butler]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1261</guid>
+		<description><![CDATA[Il radicalismo di maniera e la falsa anarchia rappresentano ormai il nuovo conformismo e, nonostante la loro inafferrabile e proteiforme imbecillità, hanno a supporto addirittura uno straccio di teoria: anzi, hanno dalla loro proprio quella macedonia di mezze idee rubacchiate <a class="mh-excerpt-more" href="/mag/theory-filosofia-low-cost/" title="La “Theory”: una filosofia sintetica low cost">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Berlino dopo l’unione</title>
 		<link>/mag/berlino-dopo-lunione/</link>
 		<pubDate>Sun, 30 Oct 2016 11:00:58 +0000</pubDate>
@@ -412,36 +431,6 @@
 
 		<guid isPermaLink="false">/?p=1223</guid>
 		<description><![CDATA[La notte in cui fu clonato il presidente. Un controverso concorso letterario. Berlusconi, la biopolitica e il corpo immortale del sovrano. La clonazione come meccanismo istituzionale. Breve descrizione dei quindici racconti pubblicati. Semantica e pratica della clonazione. La riproduzione per <a class="mh-excerpt-more" href="/mag/la-clonazione/" title="La clonazione dalle pecore a Dio (passando per Berlusconi)">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Maschile e femminile: sessualità e scrittura nel “Basso impero”</title>
-		<link>/mag/maschile-femminile-sessualita-scrittura-basso-impero/</link>
-		<pubDate>Sun, 05 May 2013 10:00:43 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[Aleister Crowley]]></category>
-		<category><![CDATA[Baader]]></category>
-		<category><![CDATA[Basso impero]]></category>
-		<category><![CDATA[Borges]]></category>
-		<category><![CDATA[Cabala]]></category>
-		<category><![CDATA[castelli romani]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Frascati]]></category>
-		<category><![CDATA[Freud]]></category>
-		<category><![CDATA[Kant]]></category>
-		<category><![CDATA[Perniola]]></category>
-		<category><![CDATA[Platone]]></category>
-		<category><![CDATA[pornografia]]></category>
-		<category><![CDATA[Roma]]></category>
-		<category><![CDATA[sessualità]]></category>
-		<category><![CDATA[Tuscolo]]></category>
-		<category><![CDATA[Weininger]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=328</guid>
-		<description><![CDATA[Gli incontri nelle vicende della vita e dello scrivere. Cabala e candele. La polarità maschile/femminile da Platone a Weininger. Il dogma contemporaneo della masturbazione. La stesura del romanzo “Basso Impero” e la realizzazione della sua colonna sonora. “Viaggio allucinante di <a class="mh-excerpt-more" href="/mag/maschile-femminile-sessualita-scrittura-basso-impero/" title="Maschile e femminile: sessualità e scrittura nel “Basso impero”">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

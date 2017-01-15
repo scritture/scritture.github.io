@@ -13,12 +13,38 @@
 	<atom:link href="/mag/tag/integralismo/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 22 Dec 2016 13:23:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jan 2017 18:10:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.4</generator>
+	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>Momenti della fine: tre religioni a confronto</title>
+		<link>/mag/momenti-della-fine/</link>
+		<pubDate>Sat, 31 Dec 2016 11:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Agamben]]></category>
+		<category><![CDATA[Apocalisse]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Cristianesimo]]></category>
+		<category><![CDATA[Ebrei]]></category>
+		<category><![CDATA[guerra globale]]></category>
+		<category><![CDATA[integralismo]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Jihad]]></category>
+
+		<guid isPermaLink="false">/?p=1265</guid>
+		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Brian Eno, la guerra in Palestina e la perdita della civiltà</title>
 		<link>/mag/palestina-civilta-eno/</link>
 		<pubDate>Tue, 20 Sep 2016 10:00:12 +0000</pubDate>
@@ -318,42 +344,6 @@
 
 		<guid isPermaLink="false">/?p=1223</guid>
 		<description><![CDATA[La notte in cui fu clonato il presidente. Un controverso concorso letterario. Berlusconi, la biopolitica e il corpo immortale del sovrano. La clonazione come meccanismo istituzionale. Breve descrizione dei quindici racconti pubblicati. Semantica e pratica della clonazione. La riproduzione per <a class="mh-excerpt-more" href="/mag/la-clonazione/" title="La clonazione dalle pecore a Dio (passando per Berlusconi)">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Soundcentral: come divertirsi a Kabul</title>
-		<link>/mag/soundcentral-come-divertirsi-a-kabul/</link>
-		<pubDate>Tue, 09 Oct 2012 10:00:33 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[Adorno]]></category>
-		<category><![CDATA[Al Jabri]]></category>
-		<category><![CDATA[Cheb Khaled]]></category>
-		<category><![CDATA[Edward Said]]></category>
-		<category><![CDATA[Franco Fabbri]]></category>
-		<category><![CDATA[improvvisazione]]></category>
-		<category><![CDATA[integralismo]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Kabul]]></category>
-		<category><![CDATA[Kabul Dreams]]></category>
-		<category><![CDATA[Lloyd Miller]]></category>
-		<category><![CDATA[Nasida Ria]]></category>
-		<category><![CDATA[Nusrat Fathe Ali Kanh]]></category>
-		<category><![CDATA[Pit Panther Party]]></category>
-		<category><![CDATA[Ring of Steel]]></category>
-		<category><![CDATA[Soundcentral]]></category>
-		<category><![CDATA[tambuir]]></category>
-		<category><![CDATA[Tears of Sun]]></category>
-		<category><![CDATA[Travis Beard]]></category>
-		<category><![CDATA[Uhm Khultum]]></category>
-		<category><![CDATA[Unknown District]]></category>
-		<category><![CDATA[White City]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=340</guid>
-		<description><![CDATA[Situazione attuale in Afghanistan e fine dei negoziati Usa con i Talebani. Soundcentral, festival di musica alternativa a Kabul. Golpe e dominazioni. Al Jabri: modernismo dell’Islam. Derrida: divenire “altro” dell’Occidente. Said: critica all’orientalismo di maniera. Lloyd Miller e i concerti <a class="mh-excerpt-more" href="/mag/soundcentral-come-divertirsi-a-kabul/" title="Soundcentral: come divertirsi a Kabul">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
