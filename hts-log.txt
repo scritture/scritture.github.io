@@ -1,0 +1,143 @@
+HTTrack3.48-21 launched on Sun, 15 Jan 2017 01:44:29 at http://ciliegia.local
+(httrack -O /var/www/scritture-static/ -iC2 -c16 -a -d http://ciliegia.local )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:44:29	Warning: 	* security warning: maximum number of simultaneous connections limited to 8 to avoid server overload
+01:44:29	Warning: 	Note: due to ciliegia.local remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:46:15	Error: 	Exit requested by shell or user
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2014/09/nuvola-di-luce-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2014/08/descende-et-imperium-coepit-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/palude-di-citta-887x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2014/06/athenapop.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2014/06/neolingue.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/strada-di-fener-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/duplicazione-800x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/10/la-maschera-e-il-gallo-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/strutture-precarie-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/07/stella-del-cavalierato.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/05/riflessi.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/accoppiarsi-alla-cieca-324x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/il_cavallo_di_marco-aurelio-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/intensita-640x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/02/sulle-spalle-il-mondo-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/relitto-e-magnificenza-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/02/autore-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/il-cammino-inverso-della-pace-783x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/vestitinudi-968x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/santa-sofia-riflessa-nelle-acque-806x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2012/10/Hirisci-Satura-from-Tokyo-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/questo_non_e_degrado-640x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/frattura-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/mit-aderen-mitteln-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/09/il-cielo-sopra-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/impressioni-di-un-porto-perduto-640x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/incomunicazioni-1030x438.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/Calendari_Atles_catala-466x509.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/non-vedere-la-citta-326x245.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/Europa-al-vento-326x245.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/laboratorio-326x245.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/felicita-promesse-326x245.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/06/finita-la-carta-80x60.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/06/amore_nazista-80x60.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/05/Disturbo-80x60.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/Spider-man-is-watching-you-80x60.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/03/save-our_planet-80x60.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/tromba-parlante-80x60.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/01/portrait_of_a_star-80x60.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2015/12/il_maschietto_di_frascati-80x60.png
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/strada-bloccata-80x60.jpg
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/fantasma-di-un-futuro-passato-80x60.jpg
+01:46:17	Error: 	"Method Not Allowed" (405) at link ciliegia.local/xmlrpc.php (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/feed/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/feed/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/images/bg_direction_nav.png
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?v=4.5.0
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff2?v=4.5.0
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff?v=4.5.0
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.ttf?v=4.5.0
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.svg?v=4.5.0
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-json/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/wp-json/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/claudio-comandini/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/claudio-comandini/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/progetto/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/progetto/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/pubblicazioni/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/pubblicazioni/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/supplementi/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/supplementi/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/appuntamenti/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/appuntamenti/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/theory-filosofia-low-cost/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/theory-filosofia-low-cost/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/donne-e-uomini-pregiudizi-e-dati-di-fatto/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/donne-e-uomini-pregiudizi-e-dati-di-fatto/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/democrazia-critica-habermas/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/democrazia-critica-habermas/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/horror-epica-dialogo/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/horror-epica-dialogo/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/palestina-civilta-eno/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/palestina-civilta-eno/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/facendo-video-tiziana-cantone/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/facendo-video-tiziana-cantone/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/sisma-italiana/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/sisma-italiana/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/il-burkini-e-lo-scandalo-del-coprirsi/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/il-burkini-e-lo-scandalo-del-coprirsi/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/compiti-per-le-vacanze/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/compiti-per-le-vacanze/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/nuova-chiesa-e-nuova-politica/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/nuova-chiesa-e-nuova-politica/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/antropologia/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/antropologia/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/arte/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/arte/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/cinema/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/cinema/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/comunicazione/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/comunicazione/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/diario/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/diario/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/economia/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/economia/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/editoria/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/editoria/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/filosofia/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/filosofia/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/fumetti/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/fumetti/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/geopolitica/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/geopolitica/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/letteratura/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/letteratura/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/musica/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/musica/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/narrazioni/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/narrazioni/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/poesia/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/poesia/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/politica/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/politica/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/religioni/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/religioni/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/scienza/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/scienza/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/societa/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/societa/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/storia/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/storia/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/umorismo/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/umorismo/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/momenti-della-fine/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/momenti-della-fine/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/la-famiglia-signoretti/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/la-famiglia-signoretti/ (from ciliegia.local/)
+01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/berlino-dopo-lunione/
+01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/berlino-dopo-lunione/ (from ciliegia.local/)

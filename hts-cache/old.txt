@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:44:07	308/308	---M--	403	error ('Forbidden')	text/html	date:Sun,%2015%20Jan%202017%2000:44:06%20GMT	http://redazione.scritture.net/robots.txt		(from )
+01:44:07	298/298	---M--	403	error ('Forbidden')	text/html	date:Sun,%2015%20Jan%202017%2000:44:07%20GMT	http://redazione.scritture.net/	/var/www/scritture-static/redazione.scritture.net/index.html	(from )
