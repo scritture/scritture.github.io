@@ -1,7 +1,0 @@
-Mirror in progress since Sun, 15 Jan 2017 01:44:29 .. please wait!
-httrack -O /var/www/scritture-static/ -iC2 -c16 -a -d http://ciliegia.local 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=11512
-UID=1000
-GID=1000
-START=1484441069

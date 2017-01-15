@@ -1,4 +1,4 @@
-HTTrack3.48-21 launched on Sun, 15 Jan 2017 01:44:29 at http://ciliegia.local
+HTTrack3.48-21 launched on Sun, 15 Jan 2017 01:51:05 at http://ciliegia.local
 (httrack -O /var/www/scritture-static/ -iC2 -c16 -a -d http://ciliegia.local )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,138 +6,343 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-01:44:29	Warning: 	* security warning: maximum number of simultaneous connections limited to 8 to avoid server overload
-01:44:29	Warning: 	Note: due to ciliegia.local remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
-01:46:15	Error: 	Exit requested by shell or user
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2014/09/nuvola-di-luce-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2014/08/descende-et-imperium-coepit-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/palude-di-citta-887x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2014/06/athenapop.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2014/06/neolingue.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/strada-di-fener-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/duplicazione-800x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/10/la-maschera-e-il-gallo-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/strutture-precarie-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/07/stella-del-cavalierato.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/05/riflessi.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/accoppiarsi-alla-cieca-324x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/il_cavallo_di_marco-aurelio-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/intensita-640x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/02/sulle-spalle-il-mondo-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/relitto-e-magnificenza-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2013/02/autore-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/il-cammino-inverso-della-pace-783x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/vestitinudi-968x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/santa-sofia-riflessa-nelle-acque-806x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2012/10/Hirisci-Satura-from-Tokyo-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/questo_non_e_degrado-640x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/frattura-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/mit-aderen-mitteln-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/09/il-cielo-sopra-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/impressioni-di-un-porto-perduto-640x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/incomunicazioni-1030x438.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/Calendari_Atles_catala-466x509.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/non-vedere-la-citta-326x245.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/Europa-al-vento-326x245.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/laboratorio-326x245.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/08/felicita-promesse-326x245.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/06/finita-la-carta-80x60.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/06/amore_nazista-80x60.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/05/Disturbo-80x60.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/Spider-man-is-watching-you-80x60.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/03/save-our_planet-80x60.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/tromba-parlante-80x60.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/01/portrait_of_a_star-80x60.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2015/12/il_maschietto_di_frascati-80x60.png
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/strada-bloccata-80x60.jpg
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/uploads/2016/07/fantasma-di-un-futuro-passato-80x60.jpg
-01:46:17	Error: 	"Method Not Allowed" (405) at link ciliegia.local/xmlrpc.php (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/feed/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/feed/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/images/bg_direction_nav.png
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?v=4.5.0
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.eot?
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff2?v=4.5.0
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff?v=4.5.0
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.ttf?v=4.5.0
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.svg?v=4.5.0
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/wp-json/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/wp-json/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/claudio-comandini/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/claudio-comandini/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/progetto/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/progetto/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/pubblicazioni/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/pubblicazioni/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/supplementi/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/supplementi/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/appuntamenti/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/appuntamenti/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/theory-filosofia-low-cost/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/theory-filosofia-low-cost/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/donne-e-uomini-pregiudizi-e-dati-di-fatto/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/donne-e-uomini-pregiudizi-e-dati-di-fatto/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/democrazia-critica-habermas/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/democrazia-critica-habermas/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/horror-epica-dialogo/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/horror-epica-dialogo/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/palestina-civilta-eno/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/palestina-civilta-eno/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/facendo-video-tiziana-cantone/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/facendo-video-tiziana-cantone/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/sisma-italiana/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/sisma-italiana/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/il-burkini-e-lo-scandalo-del-coprirsi/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/il-burkini-e-lo-scandalo-del-coprirsi/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/compiti-per-le-vacanze/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/compiti-per-le-vacanze/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/nuova-chiesa-e-nuova-politica/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/nuova-chiesa-e-nuova-politica/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/antropologia/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/antropologia/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/arte/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/arte/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/cinema/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/cinema/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/comunicazione/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/comunicazione/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/diario/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/diario/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/economia/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/economia/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/editoria/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/editoria/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/filosofia/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/filosofia/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/fumetti/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/fumetti/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/geopolitica/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/geopolitica/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/letteratura/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/letteratura/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/musica/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/musica/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/narrazioni/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/narrazioni/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/poesia/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/poesia/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/politica/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/politica/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/religioni/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/religioni/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/scienza/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/scienza/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/societa/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/societa/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/rivista/storia/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/rivista/storia/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/category/umorismo/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/category/umorismo/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/momenti-della-fine/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/momenti-della-fine/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/la-famiglia-signoretti/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/la-famiglia-signoretti/ (from ciliegia.local/)
-01:46:17	Warning: 	File not added due to mirror cancel: ciliegia.local/mag/berlino-dopo-lunione/
-01:46:17	Error: 	"mirror stopped by user" (-1) at link ciliegia.local/mag/berlino-dopo-lunione/ (from ciliegia.local/)
+01:51:05	Warning: 	* security warning: maximum number of simultaneous connections limited to 8 to avoid server overload
+01:51:05	Warning: 	Cache: damaged cache, trying to repair
+01:51:05	Warning: 	Cache: 42055 bytes successfully recovered in 47 entries
+01:51:07	Warning: 	Note: due to ciliegia.local remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:53:17	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/feed/
+01:53:21	Error: 	"Method Not Allowed" (405) at link ciliegia.local/xmlrpc.php (from ciliegia.local/)
+01:53:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/wp-json/
+01:53:37	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/claudio-comandini/
+01:53:47	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/progetto/
+01:53:48	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/pubblicazioni/
+01:53:51	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/supplementi/
+01:53:51	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/appuntamenti/
+01:53:56	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/
+01:53:59	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/theory-filosofia-low-cost/
+01:53:59	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/donne-e-uomini-pregiudizi-e-dati-di-fatto/
+01:53:59	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/democrazia-critica-habermas/
+01:54:00	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/horror-epica-dialogo/
+01:54:11	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/palestina-civilta-eno/
+01:54:12	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/facendo-video-tiziana-cantone/
+01:54:13	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/sisma-italiana/
+01:54:17	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/il-burkini-e-lo-scandalo-del-coprirsi/
+01:54:18	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/compiti-per-le-vacanze/
+01:54:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/nuova-chiesa-e-nuova-politica/
+01:54:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/antropologia/
+01:54:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/arte/
+01:54:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/cinema/
+01:54:28	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/comunicazione/
+01:54:30	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/diario/
+01:54:40	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/economia/
+01:54:45	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/editoria/
+01:54:47	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/filosofia/
+01:54:57	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/fumetti/
+01:54:58	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/geopolitica/
+01:55:04	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/letteratura/
+01:55:09	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/musica/
+01:55:13	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/narrazioni/
+01:55:36	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/poesia/
+01:55:50	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/politica/
+01:55:55	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/religioni/
+01:56:07	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/scienza/
+01:56:17	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/societa/
+01:56:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/rivista/storia/
+01:56:34	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/category/umorismo/
+01:56:45	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/momenti-della-fine/
+01:56:58	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/la-famiglia-signoretti/
+01:57:12	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: ciliegia.local/mag/berlino-dopo-lunione/
+02:08:09	Warning: 	File not parsed, looks like binary: ciliegia.local/wp-content/themes/mh-magazine-lite/fonts/fontawesome-webfont.woff2?v=4.5.0
+02:08:09	Warning: 	Moved Permanently for ciliegia.local/?p=937
+02:08:09	Warning: 	File has moved from ciliegia.local/?p=937 to http://ciliegia.local/claudio-comandini/
+02:08:10	Warning: 	Moved Permanently for ciliegia.local/?p=2
+02:08:10	Warning: 	File has moved from ciliegia.local/?p=2 to http://ciliegia.local/progetto/
+02:08:10	Warning: 	Moved Permanently for ciliegia.local/?p=486
+02:08:10	Warning: 	File has moved from ciliegia.local/?p=486 to http://ciliegia.local/pubblicazioni/
+02:08:10	Warning: 	Moved Permanently for ciliegia.local/?p=710
+02:08:10	Warning: 	File has moved from ciliegia.local/?p=710 to http://ciliegia.local/supplementi/
+02:08:10	Warning: 	Moved Permanently for ciliegia.local/?p=929
+02:08:10	Warning: 	File has moved from ciliegia.local/?p=929 to http://ciliegia.local/appuntamenti/
+02:08:14	Warning: 	Moved Permanently for ciliegia.local/?p=1261
+02:08:14	Warning: 	File has moved from ciliegia.local/?p=1261 to http://ciliegia.local/mag/theory-filosofia-low-cost/
+02:08:16	Warning: 	Moved Permanently for ciliegia.local/?p=1186
+02:08:16	Warning: 	File has moved from ciliegia.local/?p=1186 to http://ciliegia.local/mag/donne-e-uomini-pregiudizi-e-dati-di-fatto/
+02:08:18	Warning: 	Moved Permanently for ciliegia.local/?p=1174
+02:08:18	Warning: 	File has moved from ciliegia.local/?p=1174 to http://ciliegia.local/mag/democrazia-critica-habermas/
+02:08:20	Warning: 	Moved Permanently for ciliegia.local/?p=1165
+02:08:20	Warning: 	File has moved from ciliegia.local/?p=1165 to http://ciliegia.local/mag/horror-epica-dialogo/
+02:08:22	Warning: 	Moved Permanently for ciliegia.local/?p=1154
+02:08:22	Warning: 	File has moved from ciliegia.local/?p=1154 to http://ciliegia.local/mag/palestina-civilta-eno/
+02:08:24	Warning: 	Moved Permanently for ciliegia.local/?p=1147
+02:08:24	Warning: 	File has moved from ciliegia.local/?p=1147 to http://ciliegia.local/mag/facendo-video-tiziana-cantone/
+02:08:25	Warning: 	Moved Permanently for ciliegia.local/?p=1129
+02:08:25	Warning: 	File has moved from ciliegia.local/?p=1129 to http://ciliegia.local/mag/sisma-italiana/
+02:08:30	Warning: 	Moved Permanently for ciliegia.local/?p=1116
+02:08:30	Warning: 	File has moved from ciliegia.local/?p=1116 to http://ciliegia.local/mag/il-burkini-e-lo-scandalo-del-coprirsi/
+02:08:33	Warning: 	Moved Permanently for ciliegia.local/?p=216
+02:08:33	Warning: 	File has moved from ciliegia.local/?p=216 to http://ciliegia.local/mag/compiti-per-le-vacanze/
+02:08:35	Warning: 	Moved Permanently for ciliegia.local/?p=213
+02:08:35	Warning: 	File has moved from ciliegia.local/?p=213 to http://ciliegia.local/mag/nuova-chiesa-e-nuova-politica/
+02:10:02	Warning: 	Moved Permanently for ciliegia.local/?p=1265
+02:10:02	Warning: 	File has moved from ciliegia.local/?p=1265 to http://ciliegia.local/mag/momenti-della-fine/
+02:10:02	Error: 	"Not Found" (404) at link ciliegia.local/mag/momenti-della-fine/webkit-fake-url:/E46587AC-8F9A-4066-9017-98F3FD334860/pastedGraphic.png (from ciliegia.local/mag/momenti-della-fine/)
+02:10:04	Warning: 	Moved Permanently for ciliegia.local/?p=1200
+02:10:04	Warning: 	File has moved from ciliegia.local/?p=1200 to http://ciliegia.local/mag/la-famiglia-signoretti/
+02:10:05	Warning: 	Moved Permanently for ciliegia.local/?p=1211
+02:10:05	Warning: 	File has moved from ciliegia.local/?p=1211 to http://ciliegia.local/mag/berlino-dopo-lunione/
+02:10:07	Warning: 	Moved Permanently for ciliegia.local/?p=1191
+02:10:07	Warning: 	File has moved from ciliegia.local/?p=1191 to http://ciliegia.local/mag/il-continuo-ritorno-della-dama-bianca/
+02:10:15	Warning: 	Moved Permanently for ciliegia.local/?p=1137
+02:10:15	Warning: 	File has moved from ciliegia.local/?p=1137 to http://ciliegia.local/mag/11-settembre-vuoto-cielo/
+02:10:24	Warning: 	Moved Permanently for ciliegia.local/?p=1087
+02:10:24	Warning: 	File has moved from ciliegia.local/?p=1087 to http://ciliegia.local/mag/storia-bombe-frascati-distruzione-tuscolo/
+02:10:32	Warning: 	Moved Permanently for ciliegia.local/?p=773
+02:10:32	Warning: 	File has moved from ciliegia.local/?p=773 to http://ciliegia.local/mag/cose-turche/
+02:10:34	Warning: 	Moved Permanently for ciliegia.local/?p=410
+02:10:34	Warning: 	File has moved from ciliegia.local/?p=410 to http://ciliegia.local/mag/brexit-come-perdere-contro-se-stessi/
+02:10:37	Warning: 	Moved Permanently for ciliegia.local/?p=415
+02:10:37	Warning: 	File has moved from ciliegia.local/?p=415 to http://ciliegia.local/mag/bisogna-saper-vincere/
+02:10:42	Warning: 	Moved Permanently for ciliegia.local/?p=418
+02:10:42	Warning: 	File has moved from ciliegia.local/?p=418 to http://ciliegia.local/mag/mein-kampf-per-tutti/
+02:10:44	Warning: 	Moved Permanently for ciliegia.local/?p=356
+02:10:44	Warning: 	File has moved from ciliegia.local/?p=356 to http://ciliegia.local/mag/spam-poetry/
+02:10:45	Warning: 	Moved Permanently for ciliegia.local/?p=283
+02:10:45	Warning: 	File has moved from ciliegia.local/?p=283 to http://ciliegia.local/mag/dark-reign-politica-e-religione-tra-i-fumetti-e-la-gnosi/
+02:10:59	Warning: 	Moved Permanently for ciliegia.local/?p=766
+02:10:59	Warning: 	File has moved from ciliegia.local/?p=766 to http://ciliegia.local/mag/rovine-deuropa/
+02:11:03	Warning: 	Moved Permanently for ciliegia.local/?p=297
+02:11:03	Warning: 	File has moved from ciliegia.local/?p=297 to http://ciliegia.local/mag/variazioni-della-differenza-derrida-e-coleman/
+02:11:08	Warning: 	Moved Permanently for ciliegia.local/?p=56
+02:11:08	Warning: 	File has moved from ciliegia.local/?p=56 to http://ciliegia.local/mag/cinque-questioni-su-david-bowie/
+02:11:17	Warning: 	Moved Permanently for ciliegia.local/?p=203
+02:11:17	Warning: 	File has moved from ciliegia.local/?p=203 to http://ciliegia.local/mag/le-guerre-di-marcantonio-colonna-e-lo-statuto-di-frascati-del-1515/
+02:11:22	Warning: 	Moved Permanently for ciliegia.local/?p=258
+02:11:22	Warning: 	File has moved from ciliegia.local/?p=258 to http://ciliegia.local/mag/cul-de-sac/
+02:11:25	Warning: 	Moved Permanently for ciliegia.local/?p=253
+02:11:25	Warning: 	File has moved from ciliegia.local/?p=253 to http://ciliegia.local/mag/fantasmi-a-berlino/
+02:11:42	Warning: 	Moved Permanently for ciliegia.local/?p=261
+02:11:42	Warning: 	File has moved from ciliegia.local/?p=261 to http://ciliegia.local/mag/istanbul-diario-di-bordo/
+02:11:53	Warning: 	Moved Permanently for ciliegia.local/?p=266
+02:11:53	Warning: 	File has moved from ciliegia.local/?p=266 to http://ciliegia.local/mag/cocktail-bulgaro/
+02:11:53	Error: 	"Not Found" (404) at link ciliegia.local/mag/cocktail-bulgaro/webkit-fake-url:/3BB1B833-7B68-46E1-BFB1-6A96F7CBBFDE/trans.gif (from ciliegia.local/mag/cocktail-bulgaro/)
+02:12:00	Warning: 	Moved Permanently for ciliegia.local/?p=750
+02:12:00	Warning: 	File has moved from ciliegia.local/?p=750 to http://ciliegia.local/mag/la-grecia-leuropa-e-i-conti-della-serva/
+02:12:03	Warning: 	Moved Permanently for ciliegia.local/?p=1242
+02:12:03	Warning: 	File has moved from ciliegia.local/?p=1242 to http://ciliegia.local/mag/montale-novecento/
+02:12:15	Warning: 	Moved Permanently for ciliegia.local/?p=336
+02:12:15	Warning: 	File has moved from ciliegia.local/?p=336 to http://ciliegia.local/mag/siamo-morti-da-sempre/
+02:12:15	Warning: 	Moved Permanently for ciliegia.local/?p=404
+02:12:15	Warning: 	File has moved from ciliegia.local/?p=404 to http://ciliegia.local/mag/i-colori-del-noir/
+02:12:34	Warning: 	Moved Permanently for ciliegia.local/?p=279
+02:12:34	Warning: 	File has moved from ciliegia.local/?p=279 to http://ciliegia.local/mag/charlie-hebdo-e-la-satira-integrale/
+02:12:43	Warning: 	Moved Permanently for ciliegia.local/?p=1235
+02:12:43	Warning: 	File has moved from ciliegia.local/?p=1235 to http://ciliegia.local/mag/le-parole-del-sesso-taciuto/
+02:12:43	Error: 	"Not Found" (404) at link ciliegia.local/mag/le-parole-del-sesso-taciuto/webkit-fake-url:/86B5E4E4-BD37-4AC2-BEEA-4012B8BC10B3/pastedGraphic.png (from ciliegia.local/mag/le-parole-del-sesso-taciuto/)
+02:12:44	Error: 	"Not Found" (404) at link ciliegia.local/mag/le-parole-del-sesso-taciuto/webkit-fake-url:/86B5E4E4-BD37-4AC2-BEEA-4012B8BC10B3/pastedGraphic_1.png (from ciliegia.local/mag/le-parole-del-sesso-taciuto/)
+02:13:10	Warning: 	Moved Permanently for ciliegia.local/?p=301
+02:13:10	Warning: 	File has moved from ciliegia.local/?p=301 to http://ciliegia.local/mag/il-premio-frascati-poesia-provincia/
+02:13:28	Warning: 	Moved Permanently for ciliegia.local/?p=393
+02:13:28	Warning: 	File has moved from ciliegia.local/?p=393 to http://ciliegia.local/mag/halloween-dietro-le-quinte/
+02:13:35	Warning: 	Moved Permanently for ciliegia.local/?p=1076
+02:13:35	Warning: 	File has moved from ciliegia.local/?p=1076 to http://ciliegia.local/mag/il-tradire-degli-eventi/
+02:13:38	Warning: 	Moved Permanently for ciliegia.local/?p=406
+02:13:38	Warning: 	File has moved from ciliegia.local/?p=406 to http://ciliegia.local/mag/padre-padrino/
+02:13:38	Warning: 	Moved Permanently for ciliegia.local/?p=308
+02:13:38	Warning: 	File has moved from ciliegia.local/?p=308 to http://ciliegia.local/mag/la-palude-letteraria/
+02:14:02	Warning: 	Moved Permanently for ciliegia.local/?p=1231
+02:14:02	Warning: 	File has moved from ciliegia.local/?p=1231 to http://ciliegia.local/mag/popsophia-greci-presente/
+02:14:07	Warning: 	Moved Permanently for ciliegia.local/?p=1204
+02:14:07	Warning: 	File has moved from ciliegia.local/?p=1204 to http://ciliegia.local/mag/de-neolingua/
+02:14:08	Error: 	"Not Found" (404) at link ciliegia.local/mag/de-neolingua/webkit-fake-url:/1112D51E-8A14-4C51-9417-7AFE595DF5C3/pastedGraphic.png (from ciliegia.local/mag/de-neolingua/)
+02:14:08	Warning: 	Moved Permanently for ciliegia.local/?p=343
+02:14:08	Warning: 	File has moved from ciliegia.local/?p=343 to http://ciliegia.local/mag/strade-di-fener/
+02:14:13	Warning: 	Moved Permanently for ciliegia.local/?p=346
+02:14:13	Warning: 	File has moved from ciliegia.local/?p=346 to http://ciliegia.local/mag/virus/
+02:14:13	Warning: 	Moved Permanently for ciliegia.local/?p=408
+02:14:13	Warning: 	File has moved from ciliegia.local/?p=408 to http://ciliegia.local/mag/luomo-e-la-gallina/
+02:14:19	Warning: 	Moved Permanently for ciliegia.local/?p=324
+02:14:19	Warning: 	File has moved from ciliegia.local/?p=324 to http://ciliegia.local/mag/siria-guerra-informazione/
+02:14:38	Warning: 	Moved Permanently for ciliegia.local/?p=1215
+02:14:38	Warning: 	File has moved from ciliegia.local/?p=1215 to http://ciliegia.local/mag/il-cavaliere/
+02:14:38	Error: 	"Not Found" (404) at link ciliegia.local/mag/il-cavaliere/webkit-fake-url:/21D3F5C7-A99F-41DF-BA7A-5AA462F83810/trans.gif (from ciliegia.local/mag/il-cavaliere/)
+02:14:39	Warning: 	Moved Permanently for ciliegia.local/?p=1223
+02:14:39	Warning: 	File has moved from ciliegia.local/?p=1223 to http://ciliegia.local/mag/la-clonazione/
+02:14:39	Warning: 	Moved Permanently for ciliegia.local/?p=328
+02:14:39	Warning: 	File has moved from ciliegia.local/?p=328 to http://ciliegia.local/mag/maschile-femminile-sessualita-scrittura-basso-impero/
+02:14:41	Warning: 	Moved Permanently for ciliegia.local/?p=276
+02:14:41	Warning: 	File has moved from ciliegia.local/?p=276 to http://ciliegia.local/mag/i-tre-pontificati-di-benedetto-ix/
+02:14:45	Warning: 	Moved Permanently for ciliegia.local/?p=331
+02:14:45	Warning: 	File has moved from ciliegia.local/?p=331 to http://ciliegia.local/mag/poesie-per-un-giorno-di-primavera/
+02:14:46	Warning: 	Moved Permanently for ciliegia.local/?p=269
+02:14:46	Warning: 	File has moved from ciliegia.local/?p=269 to http://ciliegia.local/mag/conscientia-mea-ratzinger-e-noi/
+02:14:55	Warning: 	Moved Permanently for ciliegia.local/?p=396
+02:14:55	Warning: 	File has moved from ciliegia.local/?p=396 to http://ciliegia.local/mag/lacrime-e-barche-sanremo-e-la-politica/
+02:15:07	Warning: 	Moved Permanently for ciliegia.local/?p=413
+02:15:07	Warning: 	File has moved from ciliegia.local/?p=413 to http://ciliegia.local/mag/declinazioni-dellautore/
+02:15:08	Warning: 	Moved Permanently for ciliegia.local/?p=293
+02:15:08	Warning: 	File has moved from ciliegia.local/?p=293 to http://ciliegia.local/mag/dentro-le-foibe/
+02:15:28	Warning: 	Moved Permanently for ciliegia.local/?p=365
+02:15:28	Warning: 	File has moved from ciliegia.local/?p=365 to http://ciliegia.local/mag/il-tredicesimo-mese-aforismi/
+02:15:28	Warning: 	Moved Permanently for ciliegia.local/?p=784
+02:15:28	Warning: 	File has moved from ciliegia.local/?p=784 to http://ciliegia.local/mag/spazi-vuoti/
+02:15:29	Warning: 	Moved Permanently for ciliegia.local/?p=386
+02:15:29	Warning: 	File has moved from ciliegia.local/?p=386 to http://ciliegia.local/mag/contingenze-paesaggio-grizzana-morandi-metropoli/
+02:15:34	Warning: 	Moved Permanently for ciliegia.local/?p=353
+02:15:34	Warning: 	File has moved from ciliegia.local/?p=353 to http://ciliegia.local/mag/leopardi-e-manzoni-il-degrado-dellitalia-e-della-sua-letteratura/
+02:15:50	Warning: 	Moved Permanently for ciliegia.local/?p=340
+02:15:50	Warning: 	File has moved from ciliegia.local/?p=340 to http://ciliegia.local/mag/soundcentral-come-divertirsi-a-kabul/
+02:15:55	Warning: 	Moved Permanently for ciliegia.local/?p=273
+02:15:55	Warning: 	File has moved from ciliegia.local/?p=273 to http://ciliegia.local/mag/al-qaeda-network-fondamentalismo-islamico/
+02:15:58	Warning: 	Moved Permanently for ciliegia.local/?p=1111
+02:15:58	Warning: 	File has moved from ciliegia.local/?p=1111 to http://ciliegia.local/mag/undici-volte-11-settembre/
+02:15:58	Warning: 	Moved Permanently for ciliegia.local/?p=371
+02:15:58	Warning: 	File has moved from ciliegia.local/?p=371 to http://ciliegia.local/mag/bologna-porte-zodiaco-musica/
+02:16:00	Warning: 	Moved Permanently for ciliegia.local/?p=377
+02:16:00	Warning: 	File has moved from ciliegia.local/?p=377 to http://ciliegia.local/mag/comunicare-e-vivere/
+02:16:02	Warning: 	Moved Permanently for ciliegia.local/?p=724
+02:16:02	Warning: 	File has moved from ciliegia.local/?p=724 to http://ciliegia.local/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/
+02:16:02	Warning: 	Moved Permanently for ciliegia.local/?p=119
+02:16:02	Warning: 	File has moved from ciliegia.local/?p=119 to http://ciliegia.local/mag/il-contagio-della-violenza/
+02:16:03	Warning: 	Moved Permanently for ciliegia.local/?p=115
+02:16:03	Warning: 	File has moved from ciliegia.local/?p=115 to http://ciliegia.local/mag/il-disgusto-della-democrazia/
+02:16:03	Warning: 	Moved Permanently for ciliegia.local/?p=104
+02:16:03	Warning: 	File has moved from ciliegia.local/?p=104 to http://ciliegia.local/mag/hikikomori-leibniz/
+02:16:04	Warning: 	Moved Permanently for ciliegia.local/?p=112
+02:16:04	Warning: 	File has moved from ciliegia.local/?p=112 to http://ciliegia.local/mag/gli-spacciatori-di-felicita/
+02:16:20	Warning: 	Moved Permanently for ciliegia.local/?p=26
+02:16:20	Warning: 	File has moved from ciliegia.local/?p=26 to http://ciliegia.local/mag/storie-dalla-jihad/
+02:16:21	Warning: 	Moved Permanently for ciliegia.local/?p=39
+02:16:21	Warning: 	File has moved from ciliegia.local/?p=39 to http://ciliegia.local/mag/sottoproletariato-cognitivo-italia/
+02:16:22	Warning: 	Moved Permanently for ciliegia.local/?p=30
+02:16:22	Warning: 	File has moved from ciliegia.local/?p=30 to http://ciliegia.local/mag/philip-k-dick-il-filosofo-mascherato/
+02:16:23	Warning: 	Moved Permanently for ciliegia.local/?p=71
+02:16:23	Warning: 	File has moved from ciliegia.local/?p=71 to http://ciliegia.local/mag/un-monocameralismo-imperfetto-per-una-perfetta-autocrazia/
+02:16:23	Warning: 	Moved Permanently for ciliegia.local/?p=78
+02:16:23	Warning: 	File has moved from ciliegia.local/?p=78 to http://ciliegia.local/mag/jeeg-robot-contro-i-kattivi/
+02:16:24	Warning: 	Moved Permanently for ciliegia.local/?p=98
+02:16:24	Warning: 	File has moved from ciliegia.local/?p=98 to http://ciliegia.local/mag/proposte-didattiche-per-una-scuola-meticcia/
+02:16:25	Warning: 	Moved Permanently for ciliegia.local/?p=100
+02:16:25	Warning: 	File has moved from ciliegia.local/?p=100 to http://ciliegia.local/mag/gender-theories-riflessioni-a-margine/
+02:16:26	Warning: 	Moved Permanently for ciliegia.local/?p=108
+02:16:26	Warning: 	File has moved from ciliegia.local/?p=108 to http://ciliegia.local/mag/invano/
+02:16:27	Warning: 	Moved Permanently for ciliegia.local/?p=74
+02:16:27	Warning: 	File has moved from ciliegia.local/?p=74 to http://ciliegia.local/mag/scorre-il-sangue-fertile-la-terra-la-pasola-di-sumba/
+02:16:28	Warning: 	Moved Permanently for ciliegia.local/?p=16
+02:16:28	Warning: 	File has moved from ciliegia.local/?p=16 to http://ciliegia.local/mag/manicomio-italia-un-quadro-clinico/
+02:16:29	Warning: 	Moved Permanently for ciliegia.local/?p=92
+02:16:29	Warning: 	File has moved from ciliegia.local/?p=92 to http://ciliegia.local/mag/il-neoliberismo-lideologia-senza-nome/
+02:16:29	Warning: 	Moved Permanently for ciliegia.local/?p=184
+02:16:29	Warning: 	File has moved from ciliegia.local/?p=184 to http://ciliegia.local/mag/tutti-contro-il-ttip/
+02:16:30	Warning: 	Moved Permanently for ciliegia.local/?p=88
+02:16:30	Warning: 	File has moved from ciliegia.local/?p=88 to http://ciliegia.local/mag/un-rosario-per-pannella/
+02:16:30	Warning: 	Moved Permanently for ciliegia.local/?p=59
+02:16:30	Warning: 	File has moved from ciliegia.local/?p=59 to http://ciliegia.local/mag/colonizzazione-dellimmaginario-e-controllo-sociale/
+02:16:31	Warning: 	Moved Permanently for ciliegia.local/?p=102
+02:16:31	Warning: 	File has moved from ciliegia.local/?p=102 to http://ciliegia.local/mag/chi-paga-per-la-condivisione/
+02:16:31	Warning: 	Moved Permanently for ciliegia.local/?p=96
+02:16:31	Warning: 	File has moved from ciliegia.local/?p=96 to http://ciliegia.local/mag/il-cane-nella-casa-degli-europei/
+02:16:31	Warning: 	Moved Permanently for ciliegia.local/?p=37
+02:16:31	Warning: 	File has moved from ciliegia.local/?p=37 to http://ciliegia.local/mag/larte-egocentrica-mondiale-sta-uccidendo-larte/
+02:16:33	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/page/1/
+02:16:33	Warning: 	File has moved from ciliegia.local/mag/category/rivista/page/1/ to http://ciliegia.local/mag/category/rivista/
+02:16:33	Warning: 	Moved Permanently for ciliegia.local/?p=210
+02:16:33	Warning: 	File has moved from ciliegia.local/?p=210 to http://ciliegia.local/mag/omicidio-varani-nuove-identita-del-male/
+02:16:33	Warning: 	Moved Permanently for ciliegia.local/?p=28
+02:16:33	Warning: 	File has moved from ciliegia.local/?p=28 to http://ciliegia.local/mag/orizzonti-editoriali-mondo-digitale/
+02:16:33	Warning: 	Moved Permanently for ciliegia.local/?p=80
+02:16:33	Warning: 	File has moved from ciliegia.local/?p=80 to http://ciliegia.local/mag/unioni-incivili-e-strutture-parentali-dopo-levi-strauss/
+02:16:34	Warning: 	Moved Permanently for ciliegia.local/?p=19
+02:16:34	Warning: 	File has moved from ciliegia.local/?p=19 to http://ciliegia.local/mag/lideologia-del-presente/
+02:16:35	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/antropologia/page/1/
+02:16:35	Warning: 	File has moved from ciliegia.local/mag/category/rivista/antropologia/page/1/ to http://ciliegia.local/mag/category/rivista/antropologia/
+02:16:35	Warning: 	Moved Permanently for ciliegia.local/?p=82
+02:16:35	Warning: 	File has moved from ciliegia.local/?p=82 to http://ciliegia.local/mag/aaa-industria-filosofica-nel-salento/
+02:16:35	Warning: 	Moved Permanently for ciliegia.local/?p=61
+02:16:35	Warning: 	File has moved from ciliegia.local/?p=61 to http://ciliegia.local/mag/il-codice-del-mondo/
+02:16:35	Warning: 	Moved Permanently for ciliegia.local/?p=1219
+02:16:35	Warning: 	File has moved from ciliegia.local/?p=1219 to http://ciliegia.local/mag/il-tetto-sopra-berlino/
+02:16:36	Warning: 	Moved Permanently for ciliegia.local/?p=402
+02:16:36	Warning: 	File has moved from ciliegia.local/?p=402 to http://ciliegia.local/mag/batman-informazione-fumetti-stragi/
+02:16:37	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/comunicazione/page/1/
+02:16:37	Warning: 	File has moved from ciliegia.local/mag/category/rivista/comunicazione/page/1/ to http://ciliegia.local/mag/category/rivista/comunicazione/
+02:16:37	Warning: 	Moved Permanently for ciliegia.local/mag/category/diario/page/1/
+02:16:37	Warning: 	File has moved from ciliegia.local/mag/category/diario/page/1/ to http://ciliegia.local/mag/category/diario/
+02:16:38	Warning: 	Moved Permanently for ciliegia.local/?p=33
+02:16:38	Warning: 	File has moved from ciliegia.local/?p=33 to http://ciliegia.local/mag/leuropa-e-i-limiti-della-retorica-antitedesca/
+02:16:38	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/economia/page/1/
+02:16:38	Warning: 	File has moved from ciliegia.local/mag/category/rivista/economia/page/1/ to http://ciliegia.local/mag/category/rivista/economia/
+02:16:39	Warning: 	Moved Permanently for ciliegia.local/?p=181
+02:16:39	Warning: 	File has moved from ciliegia.local/?p=181 to http://ciliegia.local/mag/gianni-celati-e-la-fuga-dalla-letteratura/
+02:16:39	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/filosofia/page/1/
+02:16:39	Warning: 	File has moved from ciliegia.local/mag/category/rivista/filosofia/page/1/ to http://ciliegia.local/mag/category/rivista/filosofia/
+02:16:39	Warning: 	Moved Permanently for ciliegia.local/?p=360
+02:16:39	Warning: 	File has moved from ciliegia.local/?p=360 to http://ciliegia.local/mag/2012-apocalissi-su-misura/
+02:16:41	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/geopolitica/page/1/
+02:16:41	Warning: 	File has moved from ciliegia.local/mag/category/rivista/geopolitica/page/1/ to http://ciliegia.local/mag/category/rivista/geopolitica/
+02:16:41	Warning: 	Moved Permanently for ciliegia.local/?p=76
+02:16:41	Warning: 	File has moved from ciliegia.local/?p=76 to http://ciliegia.local/mag/la-luce-il-paesaggio-e-il-confine-in-francesco-biamonti/
+02:16:41	Warning: 	Moved Permanently for ciliegia.local/?p=63
+02:16:41	Warning: 	File has moved from ciliegia.local/?p=63 to http://ciliegia.local/mag/il-largo-sguardo-deuropa-e-la-poesia-di-faraon-meteoses/
+02:16:41	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/letteratura/page/1/
+02:16:41	Warning: 	File has moved from ciliegia.local/mag/category/rivista/letteratura/page/1/ to http://ciliegia.local/mag/category/rivista/letteratura/
+02:16:41	Warning: 	Moved Permanently for ciliegia.local/?p=86
+02:16:41	Warning: 	File has moved from ciliegia.local/?p=86 to http://ciliegia.local/mag/macht-und-denken-slam-di-filosofia-a-lipsia/
+02:16:42	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/musica/page/1/
+02:16:42	Warning: 	File has moved from ciliegia.local/mag/category/rivista/musica/page/1/ to http://ciliegia.local/mag/category/rivista/musica/
+02:16:42	Warning: 	Moved Permanently for ciliegia.local/?p=94
+02:16:42	Warning: 	File has moved from ciliegia.local/?p=94 to http://ciliegia.local/mag/indagini-scientifiche-il-giallo-e-la-matematica/
+02:16:42	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/narrazioni/page/1/
+02:16:42	Warning: 	File has moved from ciliegia.local/mag/category/rivista/narrazioni/page/1/ to http://ciliegia.local/mag/category/rivista/narrazioni/
+02:16:43	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/poesia/page/1/
+02:16:43	Warning: 	File has moved from ciliegia.local/mag/category/rivista/poesia/page/1/ to http://ciliegia.local/mag/category/rivista/poesia/
+02:16:43	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/politica/page/1/
+02:16:43	Warning: 	File has moved from ciliegia.local/mag/category/rivista/politica/page/1/ to http://ciliegia.local/mag/category/rivista/politica/
+02:16:43	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/religioni/page/1/
+02:16:43	Warning: 	File has moved from ciliegia.local/mag/category/rivista/religioni/page/1/ to http://ciliegia.local/mag/category/rivista/religioni/
+02:16:43	Warning: 	Moved Permanently for ciliegia.local/?p=65
+02:16:43	Warning: 	File has moved from ciliegia.local/?p=65 to http://ciliegia.local/mag/montale-natura-innocenza-linguaggio/
+02:16:43	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/societa/page/1/
+02:16:43	Warning: 	File has moved from ciliegia.local/mag/category/rivista/societa/page/1/ to http://ciliegia.local/mag/category/rivista/societa/
+02:16:44	Warning: 	Moved Permanently for ciliegia.local/mag/category/rivista/storia/page/1/
+02:16:44	Warning: 	File has moved from ciliegia.local/mag/category/rivista/storia/page/1/ to http://ciliegia.local/mag/category/rivista/storia/
+02:16:44	Warning: 	Moved Permanently for ciliegia.local/?p=190
+02:16:44	Warning: 	File has moved from ciliegia.local/?p=190 to http://ciliegia.local/mag/il-pianeta-dei-famosi/
+02:16:44	Warning: 	Moved Permanently for ciliegia.local/?p=54
+02:16:44	Warning: 	File has moved from ciliegia.local/?p=54 to http://ciliegia.local/mag/niente-da-dire/
+02:17:48	Warning: 	Moved Permanently for ciliegia.local/?p=305
+02:17:48	Warning: 	File has moved from ciliegia.local/?p=305 to http://ciliegia.local/mag/litalia-ha-vinto/
+02:17:53	Warning: 	Moved Permanently for ciliegia.local/?p=238
+02:17:53	Warning: 	File has moved from ciliegia.local/?p=238 to http://ciliegia.local/mag/monopoli-risiko-guerre-globali-crisi-finanziarie/
+02:18:29	Warning: 	Moved Permanently for ciliegia.local/?p=399
+02:18:29	Warning: 	File has moved from ciliegia.local/?p=399 to http://ciliegia.local/mag/musica-e-contemporanei/
+02:18:31	Warning: 	Moved Permanently for ciliegia.local/?p=69
+02:18:31	Warning: 	File has moved from ciliegia.local/?p=69 to http://ciliegia.local/mag/ballate-e-danze-dal-basso-impero/
+02:18:31	Warning: 	Moved Permanently for ciliegia.local/?p=244
+02:18:31	Warning: 	File has moved from ciliegia.local/?p=244 to http://ciliegia.local/mag/dalla-nuvolari-sesso-angeli/
+02:18:31	Warning: 	Moved Permanently for ciliegia.local/mag/tag/claudio-comandini/page/1/
+02:18:31	Warning: 	File has moved from ciliegia.local/mag/tag/claudio-comandini/page/1/ to http://ciliegia.local/mag/tag/claudio-comandini/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/mag/tag/derrida/page/1/
+02:18:32	Warning: 	File has moved from ciliegia.local/mag/tag/derrida/page/1/ to http://ciliegia.local/mag/tag/derrida/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/mag/tag/europa/page/1/
+02:18:32	Warning: 	File has moved from ciliegia.local/mag/tag/europa/page/1/ to http://ciliegia.local/mag/tag/europa/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/?p=248
+02:18:32	Warning: 	File has moved from ciliegia.local/?p=248 to http://ciliegia.local/mag/facebook-borsa-relazioni/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/?p=67
+02:18:32	Warning: 	File has moved from ciliegia.local/?p=67 to http://ciliegia.local/mag/possedimenti-memorie-tuscolo/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/mag/tag/islam/page/1/
+02:18:32	Warning: 	File has moved from ciliegia.local/mag/tag/islam/page/1/ to http://ciliegia.local/mag/tag/islam/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/mag/tag/perniola/page/1/
+02:18:32	Warning: 	File has moved from ciliegia.local/mag/tag/perniola/page/1/ to http://ciliegia.local/mag/tag/perniola/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/?p=756
+02:18:32	Warning: 	File has moved from ciliegia.local/?p=756 to http://ciliegia.local/mag/spiragli-sulleuropa-quattro-poesie/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/?p=194
+02:18:32	Warning: 	File has moved from ciliegia.local/?p=194 to http://ciliegia.local/mag/zone-di-transito/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/mag/tag/roma/page/1/
+02:18:32	Warning: 	File has moved from ciliegia.local/mag/tag/roma/page/1/ to http://ciliegia.local/mag/tag/roma/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/mag/tag/scritture/page/1/
+02:18:32	Warning: 	File has moved from ciliegia.local/mag/tag/scritture/page/1/ to http://ciliegia.local/mag/tag/scritture/
+02:18:32	Warning: 	Moved Permanently for ciliegia.local/mag/author/claudio/page/1/
+02:18:32	Warning: 	File has moved from ciliegia.local/mag/author/claudio/page/1/ to http://ciliegia.local/mag/author/claudio/
+
+HTTrack Website Copier/3.48-21 mirror complete in 27 minutes 40 seconds : 2949 links scanned, 2799 files written (69303987 bytes overall), 2767 files updated [41516721 bytes received at 25010 bytes/sec], 36544350 bytes transferred using HTTP compression in 2079 files, ratio 27%, 6.9 requests per connection
+(7 errors, 330 warnings, 0 messages)
