@@ -13,12 +13,35 @@
 	<atom:link href="/mag/tag/informazione/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 20 Jan 2017 16:50:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jan 2017 18:48:35 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>La verità disturbata della tecnologia</title>
+		<link>/mag/la-verita-disturbata-della-tecnologia/</link>
+		<pubDate>Wed, 25 Jan 2017 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[editoria]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[giornalismo]]></category>
+		<category><![CDATA[Habermas]]></category>
+		<category><![CDATA[informazione]]></category>
+		<category><![CDATA[Inghilterra]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Katharine Viner]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[social network]]></category>
+
+		<guid isPermaLink="false">/?p=1278</guid>
+		<description><![CDATA[I social media hanno fagocitato le notizie &#8211; minacciando il consolidamento delle cronache giornalistiche di pubblico interesse e inaugurando un’era nella quale ognuno rivendica la creazione di fatti a proprio arbitrio. Questo tradisce del tutto il modello originario, aperto e <a class="mh-excerpt-more" href="/mag/la-verita-disturbata-della-tecnologia/" title="La verità disturbata della tecnologia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Rovine d&#8217;Europa</title>
 		<link>/mag/rovine-deuropa/</link>
 		<pubDate>Sat, 05 Mar 2016 11:00:52 +0000</pubDate>

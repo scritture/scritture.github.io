@@ -13,12 +13,35 @@
 	<atom:link href="/mag/tag/social-network/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 20 Jan 2017 16:50:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jan 2017 18:48:35 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>La verità disturbata della tecnologia</title>
+		<link>/mag/la-verita-disturbata-della-tecnologia/</link>
+		<pubDate>Wed, 25 Jan 2017 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[editoria]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[giornalismo]]></category>
+		<category><![CDATA[Habermas]]></category>
+		<category><![CDATA[informazione]]></category>
+		<category><![CDATA[Inghilterra]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Katharine Viner]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[social network]]></category>
+
+		<guid isPermaLink="false">/?p=1278</guid>
+		<description><![CDATA[I social media hanno fagocitato le notizie &#8211; minacciando il consolidamento delle cronache giornalistiche di pubblico interesse e inaugurando un’era nella quale ognuno rivendica la creazione di fatti a proprio arbitrio. Questo tradisce del tutto il modello originario, aperto e <a class="mh-excerpt-more" href="/mag/la-verita-disturbata-della-tecnologia/" title="La verità disturbata della tecnologia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Il contagio della violenza</title>
 		<link>/mag/il-contagio-della-violenza/</link>
 		<pubDate>Mon, 18 Jul 2016 10:00:04 +0000</pubDate>
@@ -281,46 +304,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=396</guid>
 		<description><![CDATA[Il Festival di Sanremo da specchio del costume a modello della classe politica. Digressione sull’essere datati oggi. Esempi eccellenti dall’edizione 2010. Cantanti, politici e verità. Bersani, Orietta Berti e l’eredità della DC. La Boniver, Bobby Solo e le lacrime d’amore. <a class="mh-excerpt-more" href="/mag/lacrime-e-barche-sanremo-e-la-politica/" title="Lacrime e barche. Sanremo e la politica">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Al Qaeda network. Il fondamentalismo islamico e le strategie reticolari</title>
-		<link>/mag/al-qaeda-network-fondamentalismo-islamico/</link>
-		<pubDate>Sat, 15 Sep 2012 10:00:15 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[economia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[11 settembre]]></category>
-		<category><![CDATA[Baudrillard]]></category>
-		<category><![CDATA[Brzezinski]]></category>
-		<category><![CDATA[Caracciolo]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Clausewitz]]></category>
-		<category><![CDATA[De Benoist]]></category>
-		<category><![CDATA[Deleuze]]></category>
-		<category><![CDATA[Fratelli musulmani]]></category>
-		<category><![CDATA[Galli]]></category>
-		<category><![CDATA[Guattari]]></category>
-		<category><![CDATA[Hard]]></category>
-		<category><![CDATA[Henzesberger]]></category>
-		<category><![CDATA[integralismo]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Jihad]]></category>
-		<category><![CDATA[Loretta Napoleoni]]></category>
-		<category><![CDATA[Marocco]]></category>
-		<category><![CDATA[Mini]]></category>
-		<category><![CDATA[Negri]]></category>
-		<category><![CDATA[Pakistan]]></category>
-		<category><![CDATA[Settembre Nero]]></category>
-		<category><![CDATA[social network]]></category>
-		<category><![CDATA[Tanzania]]></category>
-		<category><![CDATA[Wang Xiangsui]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=273</guid>
-		<description><![CDATA[Nuove sollevazioni nel mondo islamico e “The Innocence of Muslim”. L’assalto all’ambasciata libica. Conseguenze in divenire. La sparizione di guerra e pace e le nuove forme di conflitto. Qiao Liang e Wang Xiang: strategie cinesi. Hard-Negri, De Benoist, Galli: simmetria <a class="mh-excerpt-more" href="/mag/al-qaeda-network-fondamentalismo-islamico/" title="Al Qaeda network. Il fondamentalismo islamico e le strategie reticolari">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

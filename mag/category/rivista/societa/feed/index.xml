@@ -13,12 +13,35 @@
 	<atom:link href="/mag/category/rivista/societa/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 20 Jan 2017 16:50:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jan 2017 18:48:35 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>La verità disturbata della tecnologia</title>
+		<link>/mag/la-verita-disturbata-della-tecnologia/</link>
+		<pubDate>Wed, 25 Jan 2017 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[editoria]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[giornalismo]]></category>
+		<category><![CDATA[Habermas]]></category>
+		<category><![CDATA[informazione]]></category>
+		<category><![CDATA[Inghilterra]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Katharine Viner]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[social network]]></category>
+
+		<guid isPermaLink="false">/?p=1278</guid>
+		<description><![CDATA[I social media hanno fagocitato le notizie &#8211; minacciando il consolidamento delle cronache giornalistiche di pubblico interesse e inaugurando un’era nella quale ognuno rivendica la creazione di fatti a proprio arbitrio. Questo tradisce del tutto il modello originario, aperto e <a class="mh-excerpt-more" href="/mag/la-verita-disturbata-della-tecnologia/" title="La verità disturbata della tecnologia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Momenti della fine: tre religioni a confronto</title>
 		<link>/mag/momenti-della-fine/</link>
 		<pubDate>Sat, 31 Dec 2016 11:00:49 +0000</pubDate>
@@ -207,34 +230,6 @@
 
 		<guid isPermaLink="false">/?p=1129</guid>
 		<description><![CDATA[Il terremoto è una brutta cosa, e non bada né alle date, né alle norme: possiamo soltanto tenerci pronti al verificarsi delle scosse, inevitabili in molti parti del territorio nazionale. Alle vittime è dovuta ogni forma di solidarietà: tuttavia, bisogna onestamente riconoscere <a class="mh-excerpt-more" href="/mag/sisma-italiana/" title="Sisma all&#8217;italiana e altri terremoti">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Qualcosa di vuoto nel cielo</title>
-		<link>/mag/11-settembre-vuoto-cielo/</link>
-		<pubDate>Sun, 11 Sep 2016 10:00:52 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[cinema]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[fumetti]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[11 settembre]]></category>
-		<category><![CDATA[Alexadro Gonzales]]></category>
-		<category><![CDATA[America]]></category>
-		<category><![CDATA[Art Spiegelman]]></category>
-		<category><![CDATA[Bush]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[DC]]></category>
-		<category><![CDATA[Don Delillo]]></category>
-		<category><![CDATA[Peter Milligan]]></category>
-		<category><![CDATA[Vertigo]]></category>
-		<category><![CDATA[Will Eisner]]></category>
-
-		<guid isPermaLink="false">/?p=1137</guid>
-		<description><![CDATA[11 settembre: immagini di un giorno. Delillo: le rovine del futuro e la scrittura del presente. Gonzales: lo schermo nero e la luce di Dio. Spiegelman: l’ombra di quello che non c’è più. Eisner: la realtà e i fumetti. Human <a class="mh-excerpt-more" href="/mag/11-settembre-vuoto-cielo/" title="Qualcosa di vuoto nel cielo">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

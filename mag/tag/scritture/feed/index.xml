@@ -13,12 +13,35 @@
 	<atom:link href="/mag/tag/scritture/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 20 Jan 2017 16:50:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jan 2017 18:48:35 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>La verità disturbata della tecnologia</title>
+		<link>/mag/la-verita-disturbata-della-tecnologia/</link>
+		<pubDate>Wed, 25 Jan 2017 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[editoria]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[giornalismo]]></category>
+		<category><![CDATA[Habermas]]></category>
+		<category><![CDATA[informazione]]></category>
+		<category><![CDATA[Inghilterra]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Katharine Viner]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[social network]]></category>
+
+		<guid isPermaLink="false">/?p=1278</guid>
+		<description><![CDATA[I social media hanno fagocitato le notizie &#8211; minacciando il consolidamento delle cronache giornalistiche di pubblico interesse e inaugurando un’era nella quale ognuno rivendica la creazione di fatti a proprio arbitrio. Questo tradisce del tutto il modello originario, aperto e <a class="mh-excerpt-more" href="/mag/la-verita-disturbata-della-tecnologia/" title="La verità disturbata della tecnologia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>La “Theory”: una filosofia sintetica low cost</title>
 		<link>/mag/theory-filosofia-low-cost/</link>
 		<pubDate>Wed, 21 Dec 2016 11:00:55 +0000</pubDate>
@@ -179,23 +202,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=216</guid>
 		<description><![CDATA[I bambini delle elementari alle prese con la lingua italiana. Un simpatico repertorio di evidenti errori e poesia possibile, gentilmente fornito da una maestra di una zona imprecisata dello stivale. &#160; Prima ora: geografia Gli adulti lavorano per arricchire l&#8217;Italia, <a class="mh-excerpt-more" href="/mag/compiti-per-le-vacanze/" title="Compiti per le vacanze">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Nuova Chiesa e nuova politica</title>
-		<link>/mag/nuova-chiesa-e-nuova-politica/</link>
-		<pubDate>Wed, 27 Jul 2016 10:00:12 +0000</pubDate>
-		<dc:creator><![CDATA[George Weigel]]></dc:creator>
-				<category><![CDATA[politica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[cattolicesimo]]></category>
-		<category><![CDATA[George Weigel]]></category>
-		<category><![CDATA[riforme]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=213</guid>
-		<description><![CDATA[Le sfide dei cambiamenti e la riforma cattolica. Il definitivo tramonto dell’era della Controriforma e il dispiegarsi del Concilio Vaticano II permette di approfondire quanto la storia ha già modellato nella Chiesa voluta da Cristo: potremmo anche scoprire che il <a class="mh-excerpt-more" href="/mag/nuova-chiesa-e-nuova-politica/" title="Nuova Chiesa e nuova politica">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

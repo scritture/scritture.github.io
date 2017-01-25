@@ -13,12 +13,35 @@
 	<atom:link href="/mag/category/rivista/comunicazione/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 20 Jan 2017 16:50:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jan 2017 18:48:35 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
+		<title>La verità disturbata della tecnologia</title>
+		<link>/mag/la-verita-disturbata-della-tecnologia/</link>
+		<pubDate>Wed, 25 Jan 2017 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[editoria]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[giornalismo]]></category>
+		<category><![CDATA[Habermas]]></category>
+		<category><![CDATA[informazione]]></category>
+		<category><![CDATA[Inghilterra]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Katharine Viner]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[social network]]></category>
+
+		<guid isPermaLink="false">/?p=1278</guid>
+		<description><![CDATA[I social media hanno fagocitato le notizie &#8211; minacciando il consolidamento delle cronache giornalistiche di pubblico interesse e inaugurando un’era nella quale ognuno rivendica la creazione di fatti a proprio arbitrio. Questo tradisce del tutto il modello originario, aperto e <a class="mh-excerpt-more" href="/mag/la-verita-disturbata-della-tecnologia/" title="La verità disturbata della tecnologia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>La “Theory”: una filosofia sintetica low cost</title>
 		<link>/mag/theory-filosofia-low-cost/</link>
 		<pubDate>Wed, 21 Dec 2016 11:00:55 +0000</pubDate>
@@ -197,29 +220,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=28</guid>
 		<description><![CDATA[Salvaguardare le scienze umanistiche da una visione riduttiva che vuole relegarle nell’archivio dell’inutile, emancipare la Rete dagli usi compulsivi che non permettono la diffusione dei saperi. Ricordava Italo Calvino che in un epoca di veloci cambiamenti è necessario essere come <a class="mh-excerpt-more" href="/mag/orizzonti-editoriali-mondo-digitale/" title="Orizzonti editoriali e mondo digitale">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Variazioni della differenza: Derrida e Coleman</title>
-		<link>/mag/variazioni-della-differenza-derrida-e-coleman/</link>
-		<pubDate>Thu, 25 Feb 2016 11:00:53 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[arte]]></category>
-		<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Don Cherry]]></category>
-		<category><![CDATA[Heidegger]]></category>
-		<category><![CDATA[improvvisazione]]></category>
-		<category><![CDATA[Jackson Pollock]]></category>
-		<category><![CDATA[Leibniz]]></category>
-		<category><![CDATA[Ornette Coleman]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=297</guid>
-		<description><![CDATA[Nuova comunicazione e territori culturali. Il tono oltre il messaggio. Impossibilità ed editing. Armolodia e decostruzione. Libri e dischi. Assenza di confini e molteplicità organizzata. Accenni alla struttura armonica dell&#8217;universo di Leibniz. Improvvisazione e archiscrittura. Altermondialismo. Differenza e benedizione. Coltrane <a class="mh-excerpt-more" href="/mag/variazioni-della-differenza-derrida-e-coleman/" title="Variazioni della differenza: Derrida e Coleman">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
