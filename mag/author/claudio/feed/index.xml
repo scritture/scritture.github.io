@@ -13,35 +13,12 @@
 	<atom:link href="/mag/author/claudio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 25 Jan 2017 18:48:35 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jan 2017 19:12:14 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.5</generator>
 	<item>
-		<title>La verità disturbata della tecnologia</title>
-		<link>/mag/la-verita-disturbata-della-tecnologia/</link>
-		<pubDate>Wed, 25 Jan 2017 11:00:17 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[editoria]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[giornalismo]]></category>
-		<category><![CDATA[Habermas]]></category>
-		<category><![CDATA[informazione]]></category>
-		<category><![CDATA[Inghilterra]]></category>
-		<category><![CDATA[Internet]]></category>
-		<category><![CDATA[Katharine Viner]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[social network]]></category>
-
-		<guid isPermaLink="false">/?p=1278</guid>
-		<description><![CDATA[I social media hanno fagocitato le notizie &#8211; minacciando il consolidamento delle cronache giornalistiche di pubblico interesse e inaugurando un’era nella quale ognuno rivendica la creazione di fatti a proprio arbitrio. Questo tradisce del tutto il modello originario, aperto e <a class="mh-excerpt-more" href="/mag/la-verita-disturbata-della-tecnologia/" title="La verità disturbata della tecnologia">[...]</a>]]></description>
-		</item>
-		<item>
 		<title>Momenti della fine: tre religioni a confronto</title>
 		<link>/mag/momenti-della-fine/</link>
 		<pubDate>Sat, 31 Dec 2016 11:00:49 +0000</pubDate>
@@ -272,6 +249,27 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=415</guid>
 		<description><![CDATA[Elezioni amministrative in Italia: deciso cambio di rotta oppure semplice smottamento dell&#8217;esistente? Quali gli obiettivi minimi per una politica capace di ritrovare dignità e funzione? &#160; La Raggi è come un treno che è stato aspettato pur non sapendo dove porta: il <a class="mh-excerpt-more" href="/mag/bisogna-saper-vincere/" title="Bisogna saper vincere">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Mein Kampf per tutti</title>
+		<link>/mag/mein-kampf-per-tutti/</link>
+		<pubDate>Mon, 13 Jun 2016 10:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Ebrei]]></category>
+		<category><![CDATA[Germania]]></category>
+		<category><![CDATA[Hitler]]></category>
+		<category><![CDATA[II Guerra Mondiale]]></category>
+		<category><![CDATA[Primo Levi]]></category>
+		<category><![CDATA[Trump]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=418</guid>
+		<description><![CDATA[Leggere tra le righe nei libri e nelle società: anche dove sono impresentabili. Prendere le distanze dagli indignati da tastiera e dalle paternali moralistiche. Comprendere, per non morire. &#160; Come a molti è noto, la pubblicazione in epoca postbellica dello <a class="mh-excerpt-more" href="/mag/mein-kampf-per-tutti/" title="Mein Kampf per tutti">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
