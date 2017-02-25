@@ -1,0 +1,44 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>droga</title>
+	<atom:link href="/mag/tag/droga/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Sat, 25 Feb 2017 12:22:06 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.6</generator>
+	<item>
+		<title>In memoria di un ragazzo suicidato dalla madre</title>
+		<link>/mag/in-memoria-di-un-ragazzo-suicidato-dalla-madre/</link>
+		<pubDate>Sun, 19 Feb 2017 11:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Diego Cerretti]]></dc:creator>
+				<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Antonella Riccardi]]></category>
+		<category><![CDATA[Crepet]]></category>
+		<category><![CDATA[Diego Cerretti]]></category>
+		<category><![CDATA[droga]]></category>
+		<category><![CDATA[Francesco Cozzi]]></category>
+		<category><![CDATA[Giovanni Bianchi]]></category>
+		<category><![CDATA[psichiatria]]></category>
+		<category><![CDATA[Renzo Nisi]]></category>
+		<category><![CDATA[Saviano]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Simone Cosimi]]></category>
+
+		<guid isPermaLink="false">/?p=1311</guid>
+		<description><![CDATA[Vogliono farci credere che è normale chiamare le forze dell&#8217;ordine se qualcuno che conosciamo si fa una canna, che è normale permettere che un nostro congiunto muoia per nostra responsabilità, che è normale risolvere tutto in una passerella autoassolutoria, che è <a class="mh-excerpt-more" href="/mag/in-memoria-di-un-ragazzo-suicidato-dalla-madre/" title="In memoria di un ragazzo suicidato dalla madre">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -13,12 +13,32 @@
 	<atom:link href="/mag/tag/psichedelia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 25 Jan 2017 19:24:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 12:22:06 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.6</generator>
 	<item>
+		<title>Le avventure di Saro e Giambologna</title>
+		<link>/mag/le-avventure-di-saro-e-giambologna/</link>
+		<pubDate>Thu, 02 Feb 2017 11:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Roberto Vannucci]]></dc:creator>
+				<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[animali]]></category>
+		<category><![CDATA[Appennino]]></category>
+		<category><![CDATA[Bologna]]></category>
+		<category><![CDATA[Jung]]></category>
+		<category><![CDATA[psichedelia]]></category>
+		<category><![CDATA[Roberto Vannucci]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1293</guid>
+		<description><![CDATA[Esistono autori che inventano nuovi procedimenti di scrittura, altri ancora che si astengono dal pubblicare, Se la prima tipologia è attualmente particolarmente fiorente, l’esistenza della seconda è invece piuttosto a rischio: infatti, dove la tecnologia digitale ha favorito varie e <a class="mh-excerpt-more" href="/mag/le-avventure-di-saro-e-giambologna/" title="Le avventure di Saro e Giambologna">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Cose turche</title>
 		<link>/mag/cose-turche/</link>
 		<pubDate>Tue, 09 Aug 2016 10:00:33 +0000</pubDate>

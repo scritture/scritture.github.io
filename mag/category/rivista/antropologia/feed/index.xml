@@ -13,12 +13,57 @@
 	<atom:link href="/mag/category/rivista/antropologia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 25 Jan 2017 19:24:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 12:22:06 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.6</generator>
 	<item>
+		<title>Animali e uomini tra malattia e guarigione</title>
+		<link>/mag/animali-uomini-malattia-guarigione/</link>
+		<pubDate>Fri, 10 Feb 2017 11:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[arte]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[scienza]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Agamben]]></category>
+		<category><![CDATA[animali]]></category>
+		<category><![CDATA[animalisti]]></category>
+		<category><![CDATA[Barbara Carnevali]]></category>
+		<category><![CDATA[Beatrix Potter]]></category>
+		<category><![CDATA[Bruno]]></category>
+		<category><![CDATA[Cartesio]]></category>
+		<category><![CDATA[cinici]]></category>
+		<category><![CDATA[Galilei]]></category>
+		<category><![CDATA[Giancarlo Mancori]]></category>
+		<category><![CDATA[Heidegger]]></category>
+		<category><![CDATA[Hume]]></category>
+		<category><![CDATA[Leibniz]]></category>
+		<category><![CDATA[Lorenz]]></category>
+		<category><![CDATA[magia]]></category>
+		<category><![CDATA[Massimo Pamio]]></category>
+		<category><![CDATA[Menandro]]></category>
+		<category><![CDATA[Milan Kundera]]></category>
+		<category><![CDATA[Nietzsche]]></category>
+		<category><![CDATA[Orwell]]></category>
+		<category><![CDATA[pellerossa]]></category>
+		<category><![CDATA[Perniola]]></category>
+		<category><![CDATA[Pink Floyd]]></category>
+		<category><![CDATA[punkabbestia]]></category>
+		<category><![CDATA[Spinoza]]></category>
+		<category><![CDATA[stoici]]></category>
+		<category><![CDATA[Walt Disney]]></category>
+		<category><![CDATA[Zenone]]></category>
+
+		<guid isPermaLink="false">/?p=1290</guid>
+		<description><![CDATA[Teorie varie, vita vera e immagini ideali degli animali dai cinici ai punkabbestia, dal riduzionismo all&#8217;animalismo, dai pellerossa al pensiero contemporaneo.  &#160; È strano scoprire come gli animali esistano di per sé: constatare quanto la loro vita sia indipendente dalla <a class="mh-excerpt-more" href="/mag/animali-uomini-malattia-guarigione/" title="Animali e uomini tra malattia e guarigione">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Momenti della fine: tre religioni a confronto</title>
 		<link>/mag/momenti-della-fine/</link>
 		<pubDate>Sat, 31 Dec 2016 11:00:49 +0000</pubDate>
@@ -200,29 +245,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=80</guid>
 		<description><![CDATA[Laddove le leggi definiscono i contesti sociali, l’ossessione contemporanea di legiferare su tutto rischia di annullare tanto il diritto, quanto la società. Al riguardo, non è consolante constatare che la legge sulle unioni civili, approvata dal parlamento italiano verso la fine <a class="mh-excerpt-more" href="/mag/unioni-incivili-e-strutture-parentali-dopo-levi-strauss/" title="Unioni incivili e strutture parentali: dopo Lévi-Strauss">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>L&#8217;ideologia del presente</title>
-		<link>/mag/lideologia-del-presente/</link>
-		<pubDate>Tue, 02 Feb 2016 11:00:42 +0000</pubDate>
-		<dc:creator><![CDATA[Marc Augé]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[scienza]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[11 settembre]]></category>
-		<category><![CDATA[Augé]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Costa D'Avorio]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[Fukuyama]]></category>
-		<category><![CDATA[genetica]]></category>
-		<category><![CDATA[Paul Virilio]]></category>
-		<category><![CDATA[Scritture]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=19</guid>
-		<description><![CDATA[Il lavoro di antropologo e filosofo di Marc Augé (Poitiers, 1935), ampio e diversificato, presenta al suo interno una profonda coerenza di pensiero e indagine, ed è proprio l’intreccio tra le diverse tematiche a permettere di esplicare le costanti della <a class="mh-excerpt-more" href="/mag/lideologia-del-presente/" title="L&#8217;ideologia del presente">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

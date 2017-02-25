@@ -1,0 +1,42 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Roberto Vannucci</title>
+	<atom:link href="/mag/tag/roberto-vannucci/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Sat, 25 Feb 2017 12:22:06 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.6</generator>
+	<item>
+		<title>Le avventure di Saro e Giambologna</title>
+		<link>/mag/le-avventure-di-saro-e-giambologna/</link>
+		<pubDate>Thu, 02 Feb 2017 11:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Roberto Vannucci]]></dc:creator>
+				<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[animali]]></category>
+		<category><![CDATA[Appennino]]></category>
+		<category><![CDATA[Bologna]]></category>
+		<category><![CDATA[Jung]]></category>
+		<category><![CDATA[psichedelia]]></category>
+		<category><![CDATA[Roberto Vannucci]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1293</guid>
+		<description><![CDATA[Esistono autori che inventano nuovi procedimenti di scrittura, altri ancora che si astengono dal pubblicare, Se la prima tipologia è attualmente particolarmente fiorente, l’esistenza della seconda è invece piuttosto a rischio: infatti, dove la tecnologia digitale ha favorito varie e <a class="mh-excerpt-more" href="/mag/le-avventure-di-saro-e-giambologna/" title="Le avventure di Saro e Giambologna">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

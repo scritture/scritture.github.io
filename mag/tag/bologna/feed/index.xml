@@ -13,12 +13,32 @@
 	<atom:link href="/mag/tag/bologna/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 25 Jan 2017 19:24:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 12:22:06 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.6</generator>
 	<item>
+		<title>Le avventure di Saro e Giambologna</title>
+		<link>/mag/le-avventure-di-saro-e-giambologna/</link>
+		<pubDate>Thu, 02 Feb 2017 11:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Roberto Vannucci]]></dc:creator>
+				<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[animali]]></category>
+		<category><![CDATA[Appennino]]></category>
+		<category><![CDATA[Bologna]]></category>
+		<category><![CDATA[Jung]]></category>
+		<category><![CDATA[psichedelia]]></category>
+		<category><![CDATA[Roberto Vannucci]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1293</guid>
+		<description><![CDATA[Esistono autori che inventano nuovi procedimenti di scrittura, altri ancora che si astengono dal pubblicare, Se la prima tipologia è attualmente particolarmente fiorente, l’esistenza della seconda è invece piuttosto a rischio: infatti, dove la tecnologia digitale ha favorito varie e <a class="mh-excerpt-more" href="/mag/le-avventure-di-saro-e-giambologna/" title="Le avventure di Saro e Giambologna">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Bisogna saper vincere</title>
 		<link>/mag/bisogna-saper-vincere/</link>
 		<pubDate>Sun, 26 Jun 2016 10:00:56 +0000</pubDate>
@@ -372,34 +392,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=371</guid>
 		<description><![CDATA[Le mura e le porte di Bologna. Corrispondenze: porte della città, segni zodiacali, tonalità musicali. Porta Lame, il Porto di Navile, la Manifattura Tabacchi, l’Archivio Notarile. La battaglia del 7 novembre 1944. L’asteroide Bonomia. Metafisica e impressionismo. Le forme retoriche <a class="mh-excerpt-more" href="/mag/bologna-porte-zodiaco-musica/" title="Bologna e le dodici chiavi dello zodiaco. Porta Lame, in Fa maggiore">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>«Quando passa Nuvolari». Sulla morte di Lucia Dalla e il sesso degli angeli</title>
-		<link>/mag/dalla-nuvolari-sesso-angeli/</link>
-		<pubDate>Thu, 17 May 2012 10:00:46 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Adorno]]></category>
-		<category><![CDATA[Bologna]]></category>
-		<category><![CDATA[Byron]]></category>
-		<category><![CDATA[Chiesa]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Freud]]></category>
-		<category><![CDATA[Israele]]></category>
-		<category><![CDATA[Lacan]]></category>
-		<category><![CDATA[Lucio Dalla]]></category>
-		<category><![CDATA[pinkwashing]]></category>
-		<category><![CDATA[Roberto Roversi]]></category>
-		<category><![CDATA[sessualità]]></category>
-		<category><![CDATA[Voltaire]]></category>
-		<category><![CDATA[Weininger]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=244</guid>
-		<description><![CDATA[L’arte sghemba di Lucio Dalla. Il vizio di dichiarare gli altri. La cultura gay e l’ecumenismo. Il pinkwashing. Pensare il diverso: Byron, Weininger, Adorno, Lacan. Omoerotofobia ed eterofobia. Leggi e basso ventre. Sessualità fluida e polarità di genere. Nuovo patto di socialità. <a class="mh-excerpt-more" href="/mag/dalla-nuvolari-sesso-angeli/" title="«Quando passa Nuvolari». Sulla morte di Lucia Dalla e il sesso degli angeli">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

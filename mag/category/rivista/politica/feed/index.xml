@@ -13,12 +13,30 @@
 	<atom:link href="/mag/category/rivista/politica/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 25 Jan 2017 19:24:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 12:22:06 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.6</generator>
 	<item>
+		<title>Dimettersi da frocio</title>
+		<link>/mag/dimettersi-da-frocio/</link>
+		<pubDate>Thu, 23 Feb 2017 11:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Nino Spirli]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[Nino Spirli]]></category>
+		<category><![CDATA[politically correct]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[sessualità]]></category>
+
+		<guid isPermaLink="false">/?p=1307</guid>
+		<description><![CDATA[Le tematiche del mondo LGBT, dopo aver conosciuto una diffusione che ha sorpreso tanto per l’apertura mentale generalmente dimostrata dalla popolazione civile, quanto per una chiusura propagandistica non particolarmente incline al dibattito scientifico, sembrano ora conoscere alcune battute d’arresto. Infatti, <a class="mh-excerpt-more" href="/mag/dimettersi-da-frocio/" title="Dimettersi da frocio">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>La verità disturbata della tecnologia</title>
 		<link>/mag/la-verita-disturbata-della-tecnologia/</link>
 		<pubDate>Wed, 25 Jan 2017 11:00:17 +0000</pubDate>
@@ -219,24 +237,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=213</guid>
 		<description><![CDATA[Le sfide dei cambiamenti e la riforma cattolica. Il definitivo tramonto dell’era della Controriforma e il dispiegarsi del Concilio Vaticano II permette di approfondire quanto la storia ha già modellato nella Chiesa voluta da Cristo: potremmo anche scoprire che il <a class="mh-excerpt-more" href="/mag/nuova-chiesa-e-nuova-politica/" title="Nuova Chiesa e nuova politica">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Il giorno in cui combinammo qualcosa di buono</title>
-		<link>/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/</link>
-		<pubDate>Sat, 23 Jul 2016 10:00:51 +0000</pubDate>
-		<dc:creator><![CDATA[Massimo Pamio]]></dc:creator>
-				<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[umorismo]]></category>
-		<category><![CDATA[calendari]]></category>
-		<category><![CDATA[giorno della memoria]]></category>
-		<category><![CDATA[Massimo Pamio]]></category>
-		<category><![CDATA[Scritture]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=724</guid>
-		<description><![CDATA[Ogni giorno rappresenta ormai una celebrazione di qualcosa che fatichiamo a ricordare: quasi sempre, qualche cosa di atroce. Tuttavia, come ricorda lo scrittore Massimo Pamio (Tollo, 1958), sarebbe il caso di tenere a mente ogni giorno qualcosa di importante. &#160; <a class="mh-excerpt-more" href="/mag/il-giorno-in-cui-combinammo-qualcosa-di-buono/" title="Il giorno in cui combinammo qualcosa di buono">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

@@ -13,12 +13,57 @@
 	<atom:link href="/mag/author/claudio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 25 Jan 2017 19:24:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 12:22:06 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.6</generator>
 	<item>
+		<title>Animali e uomini tra malattia e guarigione</title>
+		<link>/mag/animali-uomini-malattia-guarigione/</link>
+		<pubDate>Fri, 10 Feb 2017 11:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[arte]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[scienza]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Agamben]]></category>
+		<category><![CDATA[animali]]></category>
+		<category><![CDATA[animalisti]]></category>
+		<category><![CDATA[Barbara Carnevali]]></category>
+		<category><![CDATA[Beatrix Potter]]></category>
+		<category><![CDATA[Bruno]]></category>
+		<category><![CDATA[Cartesio]]></category>
+		<category><![CDATA[cinici]]></category>
+		<category><![CDATA[Galilei]]></category>
+		<category><![CDATA[Giancarlo Mancori]]></category>
+		<category><![CDATA[Heidegger]]></category>
+		<category><![CDATA[Hume]]></category>
+		<category><![CDATA[Leibniz]]></category>
+		<category><![CDATA[Lorenz]]></category>
+		<category><![CDATA[magia]]></category>
+		<category><![CDATA[Massimo Pamio]]></category>
+		<category><![CDATA[Menandro]]></category>
+		<category><![CDATA[Milan Kundera]]></category>
+		<category><![CDATA[Nietzsche]]></category>
+		<category><![CDATA[Orwell]]></category>
+		<category><![CDATA[pellerossa]]></category>
+		<category><![CDATA[Perniola]]></category>
+		<category><![CDATA[Pink Floyd]]></category>
+		<category><![CDATA[punkabbestia]]></category>
+		<category><![CDATA[Spinoza]]></category>
+		<category><![CDATA[stoici]]></category>
+		<category><![CDATA[Walt Disney]]></category>
+		<category><![CDATA[Zenone]]></category>
+
+		<guid isPermaLink="false">/?p=1290</guid>
+		<description><![CDATA[Teorie varie, vita vera e immagini ideali degli animali dai cinici ai punkabbestia, dal riduzionismo all&#8217;animalismo, dai pellerossa al pensiero contemporaneo.  &#160; È strano scoprire come gli animali esistano di per sé: constatare quanto la loro vita sia indipendente dalla <a class="mh-excerpt-more" href="/mag/animali-uomini-malattia-guarigione/" title="Animali e uomini tra malattia e guarigione">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Momenti della fine: tre religioni a confronto</title>
 		<link>/mag/momenti-della-fine/</link>
 		<pubDate>Sat, 31 Dec 2016 11:00:49 +0000</pubDate>
@@ -249,27 +294,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=415</guid>
 		<description><![CDATA[Elezioni amministrative in Italia: deciso cambio di rotta oppure semplice smottamento dell&#8217;esistente? Quali gli obiettivi minimi per una politica capace di ritrovare dignità e funzione? &#160; La Raggi è come un treno che è stato aspettato pur non sapendo dove porta: il <a class="mh-excerpt-more" href="/mag/bisogna-saper-vincere/" title="Bisogna saper vincere">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Mein Kampf per tutti</title>
-		<link>/mag/mein-kampf-per-tutti/</link>
-		<pubDate>Mon, 13 Jun 2016 10:00:13 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Ebrei]]></category>
-		<category><![CDATA[Germania]]></category>
-		<category><![CDATA[Hitler]]></category>
-		<category><![CDATA[II Guerra Mondiale]]></category>
-		<category><![CDATA[Primo Levi]]></category>
-		<category><![CDATA[Trump]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=418</guid>
-		<description><![CDATA[Leggere tra le righe nei libri e nelle società: anche dove sono impresentabili. Prendere le distanze dagli indignati da tastiera e dalle paternali moralistiche. Comprendere, per non morire. &#160; Come a molti è noto, la pubblicazione in epoca postbellica dello <a class="mh-excerpt-more" href="/mag/mein-kampf-per-tutti/" title="Mein Kampf per tutti">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
