@@ -13,12 +13,27 @@
 	<atom:link href="/mag/category/diario/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Sat, 25 Feb 2017 16:37:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Mar 2017 10:03:41 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.7</generator>
 	<item>
+		<title>Il settimo uomo (nuove rivelazioni sul caso Moro)</title>
+		<link>/mag/il-settimo-uomo-nuove-rivelazioni-sul-caso-moro/</link>
+		<pubDate>Thu, 16 Mar 2017 11:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+
+		<guid isPermaLink="false">/?p=1361</guid>
+		<description><![CDATA[Aldo Moro fu rapito dalle Brigate Rosse il 16 marzo 1978. Aveva in tasca un nuovo governo, che nessuno vide mai. L’Italia perse il futuro; ancora oggi, regna un presente assente a se stesso. L’unica “rivelazione” effettiva con la quale <a class="mh-excerpt-more" href="/mag/il-settimo-uomo-nuove-rivelazioni-sul-caso-moro/" title="Il settimo uomo (nuove rivelazioni sul caso Moro)">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Animali e uomini tra malattia e guarigione</title>
 		<link>/mag/animali-uomini-malattia-guarigione/</link>
 		<pubDate>Fri, 10 Feb 2017 11:00:03 +0000</pubDate>
@@ -119,6 +134,7 @@
 		<category><![CDATA[poesia]]></category>
 		<category><![CDATA[società]]></category>
 		<category><![CDATA[storia]]></category>
+		<category><![CDATA[architettura]]></category>
 		<category><![CDATA[Berlino]]></category>
 		<category><![CDATA[Claudio Comandini]]></category>
 		<category><![CDATA[Derrida]]></category>
@@ -128,12 +144,14 @@
 		<category><![CDATA[Hegel]]></category>
 		<category><![CDATA[Huntington]]></category>
 		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Libeskind]]></category>
 		<category><![CDATA[Marx]]></category>
 		<category><![CDATA[metropoli]]></category>
 		<category><![CDATA[Naomi Klein]]></category>
 		<category><![CDATA[Nietzsche]]></category>
 		<category><![CDATA[rock]]></category>
 		<category><![CDATA[sessualità]]></category>
+		<category><![CDATA[urbanistica]]></category>
 
 		<guid isPermaLink="false">/?p=1211</guid>
 		<description><![CDATA[Benjamin: il paesaggio berlinese e l’orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e <a class="mh-excerpt-more" href="/mag/berlino-dopo-lunione/" title="Berlino dopo l’unione">[...]</a>]]></description>
@@ -270,30 +288,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=410</guid>
 		<description><![CDATA[Quali segnali cogliere dall&#8217;esito del referendum inglese? Quali prospettive per un&#8217;Europa incerta e per l&#8217;incertezza di ogni sua nazione? Il paese è ancora in vendita un tanto alla libbra? &#160; 1. Dettagli e decisioni Ogni mondo cresce con un’architettura. Il <a class="mh-excerpt-more" href="/mag/brexit-come-perdere-contro-se-stessi/" title="Brexit: come perdere contro se stessi">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Bisogna saper vincere</title>
-		<link>/mag/bisogna-saper-vincere/</link>
-		<pubDate>Sun, 26 Jun 2016 10:00:56 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Bologna]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Grillo]]></category>
-		<category><![CDATA[M5S]]></category>
-		<category><![CDATA[Milano]]></category>
-		<category><![CDATA[Napoli]]></category>
-		<category><![CDATA[PD]]></category>
-		<category><![CDATA[Renzi]]></category>
-		<category><![CDATA[riforme]]></category>
-		<category><![CDATA[Roma]]></category>
-		<category><![CDATA[Torino]]></category>
-		<category><![CDATA[Virginia Raggi]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=415</guid>
-		<description><![CDATA[Elezioni amministrative in Italia: deciso cambio di rotta oppure semplice smottamento dell&#8217;esistente? Quali gli obiettivi minimi per una politica capace di ritrovare dignità e funzione? &#160; La Raggi è come un treno che è stato aspettato pur non sapendo dove porta: il <a class="mh-excerpt-more" href="/mag/bisogna-saper-vincere/" title="Bisogna saper vincere">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

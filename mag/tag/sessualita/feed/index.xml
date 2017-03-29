@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/sessualita/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Sat, 25 Feb 2017 16:37:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Mar 2017 10:03:41 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -70,6 +70,7 @@
 		<category><![CDATA[poesia]]></category>
 		<category><![CDATA[società]]></category>
 		<category><![CDATA[storia]]></category>
+		<category><![CDATA[architettura]]></category>
 		<category><![CDATA[Berlino]]></category>
 		<category><![CDATA[Claudio Comandini]]></category>
 		<category><![CDATA[Derrida]]></category>
@@ -79,12 +80,14 @@
 		<category><![CDATA[Hegel]]></category>
 		<category><![CDATA[Huntington]]></category>
 		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Libeskind]]></category>
 		<category><![CDATA[Marx]]></category>
 		<category><![CDATA[metropoli]]></category>
 		<category><![CDATA[Naomi Klein]]></category>
 		<category><![CDATA[Nietzsche]]></category>
 		<category><![CDATA[rock]]></category>
 		<category><![CDATA[sessualità]]></category>
+		<category><![CDATA[urbanistica]]></category>
 
 		<guid isPermaLink="false">/?p=1211</guid>
 		<description><![CDATA[Benjamin: il paesaggio berlinese e l’orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e <a class="mh-excerpt-more" href="/mag/berlino-dopo-lunione/" title="Berlino dopo l’unione">[...]</a>]]></description>
@@ -160,7 +163,7 @@
 		<category><![CDATA[sessualità]]></category>
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=210</guid>
-		<description><![CDATA[Rivendicare confuse identità e non essere mai nati, scopare per festeggiare un omicidio, fare uno snuff movie degli ultimi istanti della vittima mentre uno degli assassini è in posa vestito da donna. Tutto questo, per vedere l&#8217;effetto che fa. Nicola <a class="mh-excerpt-more" href="/mag/omicidio-varani-nuove-identita-del-male/" title="L&#8217;omicidio Varani e le nuove identità del male">[...]</a>]]></description>
+		<description><![CDATA[Rivendicare confuse identità e non essere mai nati, scopare per festeggiare un omicidio, fare uno snuff movie degli ultimi istanti della vittima: tutto questo, per vedere l&#8217;effetto che fa. Marco Prato e Manuel Foffo durante un festino a base di droghe <a class="mh-excerpt-more" href="/mag/omicidio-varani-nuove-identita-del-male/" title="L&#8217;omicidio Varani e le nuove identità del male">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Unioni incivili e strutture parentali: dopo Lévi-Strauss</title>

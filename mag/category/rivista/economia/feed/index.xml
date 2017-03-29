@@ -13,12 +13,32 @@
 	<atom:link href="/mag/category/rivista/economia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Sat, 25 Feb 2017 16:37:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Mar 2017 10:03:41 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.7</generator>
 	<item>
+		<title>Trump no-global contro il mondo</title>
+		<link>/mag/trump-no-global-contro-il-mondo/</link>
+		<pubDate>Fri, 10 Mar 2017 11:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[Matteo Cavallito]]></dc:creator>
+				<category><![CDATA[economia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[finanza]]></category>
+		<category><![CDATA[Matteo Cavallitto]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[populismo]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Trump]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">/?p=1352</guid>
+		<description><![CDATA[Mentre per i Paesi emergenti si profila il rischio di una pericolosa crisi debitoria, l&#8217;isolazionismo del nuovo presidente americano sembra incapace di proporre soluzioni, tanto per i flussi migratori, quanto per le nuove povertà interne, restando così confinato, oltre che ad un apprezzamento <a class="mh-excerpt-more" href="/mag/trump-no-global-contro-il-mondo/" title="Trump no-global contro il mondo">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Berlino dopo l’unione</title>
 		<link>/mag/berlino-dopo-lunione/</link>
 		<pubDate>Sun, 30 Oct 2016 11:00:58 +0000</pubDate>
@@ -33,6 +53,7 @@
 		<category><![CDATA[poesia]]></category>
 		<category><![CDATA[società]]></category>
 		<category><![CDATA[storia]]></category>
+		<category><![CDATA[architettura]]></category>
 		<category><![CDATA[Berlino]]></category>
 		<category><![CDATA[Claudio Comandini]]></category>
 		<category><![CDATA[Derrida]]></category>
@@ -42,12 +63,14 @@
 		<category><![CDATA[Hegel]]></category>
 		<category><![CDATA[Huntington]]></category>
 		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Libeskind]]></category>
 		<category><![CDATA[Marx]]></category>
 		<category><![CDATA[metropoli]]></category>
 		<category><![CDATA[Naomi Klein]]></category>
 		<category><![CDATA[Nietzsche]]></category>
 		<category><![CDATA[rock]]></category>
 		<category><![CDATA[sessualità]]></category>
+		<category><![CDATA[urbanistica]]></category>
 
 		<guid isPermaLink="false">/?p=1211</guid>
 		<description><![CDATA[Benjamin: il paesaggio berlinese e l’orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e <a class="mh-excerpt-more" href="/mag/berlino-dopo-lunione/" title="Berlino dopo l’unione">[...]</a>]]></description>
@@ -163,7 +186,7 @@
 		<category><![CDATA[social network]]></category>
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=59</guid>
-		<description><![CDATA[L&#8217;esigenza di mantenere un pensiero critico forse non è sentita da molti, ma è prioritaria sopratutto rispetto agli strumenti finanziari e digitali che ormai strutturano la nostra vita lavorativa e relazionale, troppo spesso accettati in modo passivo. Un protagonista controverso ma attento <a class="mh-excerpt-more" href="/mag/colonizzazione-dellimmaginario-e-controllo-sociale/" title="Colonizzazione dell’immaginario e controllo sociale">[...]</a>]]></description>
+		<description><![CDATA[L&#8217;esigenza di mantenere un pensiero critico forse non è sentita da molti, ma è prioritaria sopratutto rispetto agli strumenti finanziari e digitali che ormai strutturano la nostra vita lavorativa e relazionale, troppo spesso accettati in modo passivo. Un protagonista controverso e attento <a class="mh-excerpt-more" href="/mag/colonizzazione-dellimmaginario-e-controllo-sociale/" title="Colonizzazione dell’immaginario e controllo sociale">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Chi paga per la condivisione?</title>
@@ -203,7 +226,7 @@
 		<title>L&#8217;Europa e i limiti della retorica antitedesca</title>
 		<link>/mag/leuropa-e-i-limiti-della-retorica-antitedesca/</link>
 		<pubDate>Fri, 12 Feb 2016 11:00:51 +0000</pubDate>
-		<dc:creator><![CDATA[Matteo Cavallino]]></dc:creator>
+		<dc:creator><![CDATA[Matteo Cavallito]]></dc:creator>
 				<category><![CDATA[economia]]></category>
 		<category><![CDATA[geopolitica]]></category>
 		<category><![CDATA[Rivista]]></category>
@@ -219,57 +242,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=33</guid>
 		<description><![CDATA[Oltre a quelli relativi allo scandalo Volkswagen, altri dati poco rassicuranti arrivano dalla Germania: stipendi bloccati, infrastrutture che invecchiano, consumi in ristagno, crescenti tensioni sociali. E nonostante il mercato europeo da anni ne denunci le ripercussioni negative, la locomotiva del <a class="mh-excerpt-more" href="/mag/leuropa-e-i-limiti-della-retorica-antitedesca/" title="L&#8217;Europa e i limiti della retorica antitedesca">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Fantasmi a Berlino</title>
-		<link>/mag/fantasmi-a-berlino/</link>
-		<pubDate>Sat, 31 Oct 2015 11:00:32 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[economia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Berlino]]></category>
-		<category><![CDATA[Boris Groys]]></category>
-		<category><![CDATA[Christa Wolf]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[DDR]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Deutsch Bank]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[Fromm]]></category>
-		<category><![CDATA[gentrification]]></category>
-		<category><![CDATA[Hause der Kulturen der Welt]]></category>
-		<category><![CDATA[Hitler]]></category>
-		<category><![CDATA[Hohenzollern]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Jimena Canalis]]></category>
-		<category><![CDATA[Jules Régis Debray]]></category>
-		<category><![CDATA[Mark B. N. Hansen]]></category>
-		<category><![CDATA[Marlen Obrack]]></category>
-		<category><![CDATA[Oktoberklub]]></category>
-		<category><![CDATA[Peter Michel]]></category>
-		<category><![CDATA[Rainer Rupp]]></category>
-		<category><![CDATA[S. Løchlann Jain]]></category>
-		<category><![CDATA[Scorpions]]></category>
-		<category><![CDATA[Speer]]></category>
-		<category><![CDATA[Stasi]]></category>
-		<category><![CDATA[tecnosfera]]></category>
-		<category><![CDATA[Tempelhof]]></category>
-		<category><![CDATA[TTIP]]></category>
-		<category><![CDATA[Varoufakis]]></category>
-		<category><![CDATA[viaggi]]></category>
-		<category><![CDATA[Will Opitz]]></category>
-		<category><![CDATA[William Gibson]]></category>
-		<category><![CDATA[Wolf Biermann]]></category>
-		<category><![CDATA[Yeyena Atesya]]></category>
-		<category><![CDATA[Žižek]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=253</guid>
-		<description><![CDATA[Alcune suggestioni su fantasmi e cacca in terra tedesca. La festa dell’unificazione, il Dieselgate e la Deutsch Bank, la protesta contro il TTIP. La sovranità popolare nella Costituzione della DDR. L’Islam in Germania: migrazioni e ospitalità. Libri e prigione: installazioni e <a class="mh-excerpt-more" href="/mag/fantasmi-a-berlino/" title="Fantasmi a Berlino">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

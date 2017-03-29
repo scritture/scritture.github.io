@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/spagnoletti/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Sat, 25 Feb 2017 16:37:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Mar 2017 10:03:41 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -45,6 +45,7 @@
 		<category><![CDATA[Fabiani]]></category>
 		<category><![CDATA[Fiore]]></category>
 		<category><![CDATA[Frabotta]]></category>
+		<category><![CDATA[Frascati]]></category>
 		<category><![CDATA[Gatto]]></category>
 		<category><![CDATA[Giulio Ferroni]]></category>
 		<category><![CDATA[Grillandi]]></category>
