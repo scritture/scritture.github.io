@@ -13,11 +13,11 @@
 	<atom:link href="/mag/tag/lorella-natalizi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 12 Apr 2017 10:13:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Apr 2017 16:13:24 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.7</generator>
+	<generator>https://wordpress.org/?v=4.5.8</generator>
 	<item>
 		<title>I colori del noir</title>
 		<link>/mag/i-colori-del-noir/</link>
@@ -50,6 +50,7 @@
 		<category><![CDATA[Matteo Fraccaro]]></category>
 		<category><![CDATA[Matteo Scandolin]]></category>
 		<category><![CDATA[Mirco Cantoro]]></category>
+		<category><![CDATA[noir]]></category>
 		<category><![CDATA[Oscar Montani]]></category>
 		<category><![CDATA[Paolo Agaraff]]></category>
 		<category><![CDATA[Piero Chiara]]></category>

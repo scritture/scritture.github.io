@@ -13,11 +13,11 @@
 	<atom:link href="/mag/category/rivista/poesia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 12 Apr 2017 10:13:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Apr 2017 16:13:24 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.7</generator>
+	<generator>https://wordpress.org/?v=4.5.8</generator>
 	<item>
 		<title>Il settimo uomo (nuove rivelazioni sul caso Moro)</title>
 		<link>/mag/il-settimo-uomo-nuove-rivelazioni-sul-caso-moro/</link>
@@ -32,6 +32,25 @@
 
 		<guid isPermaLink="false">/?p=1361</guid>
 		<description><![CDATA[Aldo Moro fu rapito dalle Brigate Rosse il 16 marzo 1978. Aveva in tasca un nuovo governo, che nessuno vide mai. L’Italia perse il futuro; ancora oggi, regna un presente assente a se stesso. L’unica “rivelazione” effettiva con la quale <a class="mh-excerpt-more" href="/mag/il-settimo-uomo-nuove-rivelazioni-sul-caso-moro/" title="Il settimo uomo (nuove rivelazioni sul caso Moro)">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Poetica espressiva e canzone americana</title>
+		<link>/mag/nobel-dylan/</link>
+		<pubDate>Fri, 06 Jan 2017 11:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Bob Dylan - Patti Smith]]></dc:creator>
+				<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Bob Dylan]]></category>
+		<category><![CDATA[Patti Smith]]></category>
+		<category><![CDATA[Premio Nobel]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">/?p=1442</guid>
+		<description><![CDATA[Bob Dylan ha ricevuto il Premio Nobel per la Letteratura per aver «creato una nuova poetica espressiva all&#8217;interno della canzone americana». Una sua lettera all’Accademia di Svezia, la partecipazione di Patti Smith alla cerimonia, il testo di “A Hard Rain’s <a class="mh-excerpt-more" href="/mag/nobel-dylan/" title="Poetica espressiva e canzone americana">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Berlino dopo l’unione</title>
@@ -222,38 +241,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=266</guid>
 		<description><![CDATA[Attraversando la mescolanza bulgara: città, treni, ragazze e zingari.  E musica. &#160; 1. Odi alla Sapienza «Essa si estende, con potenza, da un capo all’altro del mondo, e con bontà governa ogni cosa. Io l’ho amata e cercata fin dalla <a class="mh-excerpt-more" href="/mag/cocktail-bulgaro/" title="Cocktail bulgaro">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>La Grecia, l’Europa e i conti della serva</title>
-		<link>/mag/la-grecia-leuropa-e-i-conti-della-serva/</link>
-		<pubDate>Mon, 27 Jul 2015 10:00:48 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[economia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[crisi]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[finanza]]></category>
-		<category><![CDATA[finanza tossica]]></category>
-		<category><![CDATA[Grecia]]></category>
-		<category><![CDATA[Huntington]]></category>
-		<category><![CDATA[neoliberismo]]></category>
-		<category><![CDATA[Oriana Fallaci]]></category>
-		<category><![CDATA[Paolo Barnard]]></category>
-		<category><![CDATA[Ronald Dore]]></category>
-		<category><![CDATA[Stiglitz]]></category>
-		<category><![CDATA[Varoufakis]]></category>
-		<category><![CDATA[Žižek]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=750</guid>
-		<description><![CDATA[La crisi greca tra neoliberismo e radicalismo razionale. Finanza, speculazioni, crolli: il ruolo dei derivati nell’intossicazione dell’economia. Syriza, il superamendo dell’austerity e la ridefinizione dell’Europa. Tsipras: strategie politiche e azione di governo. Debito, colpa e grazia tra Grecia e Germania. <a class="mh-excerpt-more" href="/mag/la-grecia-leuropa-e-i-conti-della-serva/" title="La Grecia, l’Europa e i conti della serva">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

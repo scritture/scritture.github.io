@@ -13,12 +13,46 @@
 	<atom:link href="/mag/tag/neoliberismo/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 12 Apr 2017 10:13:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Apr 2017 16:13:24 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.7</generator>
+	<generator>https://wordpress.org/?v=4.5.8</generator>
 	<item>
+		<title>La Russia, l’Eurasia e il multipolarismo</title>
+		<link>/mag/la-russia-leurasia-e-il-multipolarismo/</link>
+		<pubDate>Mon, 24 Apr 2017 10:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander Dugin - Michael Millerman]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Alexander Dugin]]></category>
+		<category><![CDATA[Eurasia]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[Evgenij Zamjatin]]></category>
+		<category><![CDATA[Gor]]></category>
+		<category><![CDATA[guerra]]></category>
+		<category><![CDATA[John M. Hobson]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[Putin]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Schmitt]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Sholem Asch]]></category>
+		<category><![CDATA[Stalin]]></category>
+		<category><![CDATA[Ucraina]]></category>
+		<category><![CDATA[Zhanna Bichevskaya]]></category>
+
+		<guid isPermaLink="false">/?p=1390</guid>
+		<description><![CDATA[La Russia di oggi non è l’URSS di ieri, e nemmeno quella più remota dell’impero degli Zar. C’è uno scenario del tutto nuovo, profondamente diverso da quello delineato dalla cortina di ferro, caduta per il volontario ritrarsi dei sovietici dalle <a class="mh-excerpt-more" href="/mag/la-russia-leurasia-e-il-multipolarismo/" title="La Russia, l’Eurasia e il multipolarismo">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Trump no-global contro il mondo</title>
 		<link>/mag/trump-no-global-contro-il-mondo/</link>
 		<pubDate>Fri, 10 Mar 2017 11:00:29 +0000</pubDate>
@@ -276,43 +310,6 @@
 
 		<guid isPermaLink="false">/?p=1219</guid>
 		<description><![CDATA[Il Muro, lo schermo, il mercato. Weimar: angosce oscure, luminose speranze. Il Nazismo: la natura come progetto. I Verdi: l’economia informale. Nazisti hippy e nazicomunsti. Nuovo Ordine del Mondo. Erosione degli stati nazionali, imporsi del capitale finanziario, eclisse delle ideologie. <a class="mh-excerpt-more" href="/mag/il-tetto-sopra-berlino/" title="Il tetto sopra Berlino">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>De neolingua</title>
-		<link>/mag/de-neolingua/</link>
-		<pubDate>Mon, 02 Jun 2014 10:00:44 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[editoria]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[11 settembre]]></category>
-		<category><![CDATA[Berlino]]></category>
-		<category><![CDATA[cattolicesimo]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Germania]]></category>
-		<category><![CDATA[improvvisazione]]></category>
-		<category><![CDATA[Internet]]></category>
-		<category><![CDATA[Manzoni]]></category>
-		<category><![CDATA[neoliberismo]]></category>
-		<category><![CDATA[Neolingua]]></category>
-		<category><![CDATA[Nietzsche]]></category>
-		<category><![CDATA[Orwell]]></category>
-		<category><![CDATA[Perniola]]></category>
-		<category><![CDATA[sessualità]]></category>
-		<category><![CDATA[social network]]></category>
-		<category><![CDATA[Sonderweg]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">/?p=1204</guid>
-		<description><![CDATA[I tre vocabolari della neolingua. L&#8217;associazione di sostantivo e verbo e altri sistemi per paralizzare l&#8217;intelletto. Rettifica della storia e mutabilità del passato. Guerra infinita e conflitto in Crimea. Codici giovanili, burocratici e scientifici. Materialismo dialettico e radicalismi di maniera. <a class="mh-excerpt-more" href="/mag/de-neolingua/" title="De neolingua">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

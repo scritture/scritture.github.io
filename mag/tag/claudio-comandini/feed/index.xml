@@ -13,12 +13,30 @@
 	<atom:link href="/mag/tag/claudio-comandini/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 12 Apr 2017 10:13:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Apr 2017 16:13:24 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.7</generator>
+	<generator>https://wordpress.org/?v=4.5.8</generator>
 	<item>
+		<title>Miles Davis e Ferruccio Busoni: lontane risonanze</title>
+		<link>/mag/miles-davis-e-ferruccio-busoni-lontane-risonanze/</link>
+		<pubDate>Tue, 18 Apr 2017 10:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Ferruccio Busoni]]></category>
+		<category><![CDATA[Goethe]]></category>
+		<category><![CDATA[Leibniz]]></category>
+		<category><![CDATA[Miles Davis]]></category>
+
+		<guid isPermaLink="false">/?p=1426</guid>
+		<description><![CDATA[Percorsi e sfide nella musica di Miles Davis e quella di Ferruccio Busoni. Pratica, pensiero, stili, innovazioni, eredità, ascolti e sogni. Nella musica i cammini sono tanti e diversi: alcuni arrivano subito dove vogliono, altri cambiano sempre e non si <a class="mh-excerpt-more" href="/mag/miles-davis-e-ferruccio-busoni-lontane-risonanze/" title="Miles Davis e Ferruccio Busoni: lontane risonanze">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Il settimo uomo (nuove rivelazioni sul caso Moro)</title>
 		<link>/mag/il-settimo-uomo-nuove-rivelazioni-sul-caso-moro/</link>
 		<pubDate>Thu, 16 Mar 2017 11:00:09 +0000</pubDate>
@@ -55,6 +73,7 @@
 		<category><![CDATA[integralismo]]></category>
 		<category><![CDATA[Islam]]></category>
 		<category><![CDATA[Jihad]]></category>
+		<category><![CDATA[Tuscolo]]></category>
 
 		<guid isPermaLink="false">/?p=1265</guid>
 		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
@@ -243,30 +262,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=410</guid>
 		<description><![CDATA[Quali segnali cogliere dall&#8217;esito del referendum inglese? Quali prospettive per un&#8217;Europa incerta e per l&#8217;incertezza di ogni sua nazione? Il paese è ancora in vendita un tanto alla libbra? &#160; 1. Dettagli e decisioni Ogni mondo cresce con un’architettura. Il <a class="mh-excerpt-more" href="/mag/brexit-come-perdere-contro-se-stessi/" title="Brexit: come perdere contro se stessi">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Bisogna saper vincere</title>
-		<link>/mag/bisogna-saper-vincere/</link>
-		<pubDate>Sun, 26 Jun 2016 10:00:56 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Bologna]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Grillo]]></category>
-		<category><![CDATA[M5S]]></category>
-		<category><![CDATA[Milano]]></category>
-		<category><![CDATA[Napoli]]></category>
-		<category><![CDATA[PD]]></category>
-		<category><![CDATA[Renzi]]></category>
-		<category><![CDATA[riforme]]></category>
-		<category><![CDATA[Roma]]></category>
-		<category><![CDATA[Torino]]></category>
-		<category><![CDATA[Virginia Raggi]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=415</guid>
-		<description><![CDATA[Elezioni amministrative in Italia: deciso cambio di rotta oppure semplice smottamento dell&#8217;esistente? Quali gli obiettivi minimi per una politica capace di ritrovare dignità e funzione? &#160; La Raggi è come un treno che è stato aspettato pur non sapendo dove porta: il <a class="mh-excerpt-more" href="/mag/bisogna-saper-vincere/" title="Bisogna saper vincere">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

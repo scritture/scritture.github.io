@@ -13,12 +13,46 @@
 	<atom:link href="/mag/category/rivista/antropologia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 12 Apr 2017 10:13:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Apr 2017 16:13:24 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.7</generator>
+	<generator>https://wordpress.org/?v=4.5.8</generator>
 	<item>
+		<title>La Russia, l’Eurasia e il multipolarismo</title>
+		<link>/mag/la-russia-leurasia-e-il-multipolarismo/</link>
+		<pubDate>Mon, 24 Apr 2017 10:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander Dugin - Michael Millerman]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Alexander Dugin]]></category>
+		<category><![CDATA[Eurasia]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[Evgenij Zamjatin]]></category>
+		<category><![CDATA[Gor]]></category>
+		<category><![CDATA[guerra]]></category>
+		<category><![CDATA[John M. Hobson]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[Putin]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Schmitt]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Sholem Asch]]></category>
+		<category><![CDATA[Stalin]]></category>
+		<category><![CDATA[Ucraina]]></category>
+		<category><![CDATA[Zhanna Bichevskaya]]></category>
+
+		<guid isPermaLink="false">/?p=1390</guid>
+		<description><![CDATA[La Russia di oggi non è l’URSS di ieri, e nemmeno quella più remota dell’impero degli Zar. C’è uno scenario del tutto nuovo, profondamente diverso da quello delineato dalla cortina di ferro, caduta per il volontario ritrarsi dei sovietici dalle <a class="mh-excerpt-more" href="/mag/la-russia-leurasia-e-il-multipolarismo/" title="La Russia, l’Eurasia e il multipolarismo">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Animali e uomini tra malattia e guarigione</title>
 		<link>/mag/animali-uomini-malattia-guarigione/</link>
 		<pubDate>Fri, 10 Feb 2017 11:00:03 +0000</pubDate>
@@ -85,6 +119,7 @@
 		<category><![CDATA[integralismo]]></category>
 		<category><![CDATA[Islam]]></category>
 		<category><![CDATA[Jihad]]></category>
+		<category><![CDATA[Tuscolo]]></category>
 
 		<guid isPermaLink="false">/?p=1265</guid>
 		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
@@ -227,24 +262,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=28</guid>
 		<description><![CDATA[Salvaguardare le scienze umanistiche da una visione riduttiva che vuole relegarle nell’archivio dell’inutile, emancipare la Rete dagli usi compulsivi che non permettono la diffusione dei saperi. Ricordava Italo Calvino che in un epoca di veloci cambiamenti è necessario essere come <a class="mh-excerpt-more" href="/mag/orizzonti-editoriali-mondo-digitale/" title="Orizzonti editoriali e mondo digitale">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Unioni incivili e strutture parentali: dopo Lévi-Strauss</title>
-		<link>/mag/unioni-incivili-e-strutture-parentali-dopo-levi-strauss/</link>
-		<pubDate>Thu, 25 Feb 2016 11:00:32 +0000</pubDate>
-		<dc:creator><![CDATA[Antonio Gurrado]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Augé]]></category>
-		<category><![CDATA[Lévi-Strauss]]></category>
-		<category><![CDATA[Lorenzo Scillitani]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[sessualità]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=80</guid>
-		<description><![CDATA[Laddove le leggi definiscono i contesti sociali, l’ossessione contemporanea di legiferare su tutto rischia di annullare tanto il diritto, quanto la società. Al riguardo, non è consolante constatare che la legge sulle unioni civili, approvata dal parlamento italiano verso la fine <a class="mh-excerpt-more" href="/mag/unioni-incivili-e-strutture-parentali-dopo-levi-strauss/" title="Unioni incivili e strutture parentali: dopo Lévi-Strauss">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

@@ -13,12 +13,46 @@
 	<atom:link href="/mag/category/rivista/politica/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 12 Apr 2017 10:13:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Apr 2017 16:13:24 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.7</generator>
+	<generator>https://wordpress.org/?v=4.5.8</generator>
 	<item>
+		<title>La Russia, l’Eurasia e il multipolarismo</title>
+		<link>/mag/la-russia-leurasia-e-il-multipolarismo/</link>
+		<pubDate>Mon, 24 Apr 2017 10:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander Dugin - Michael Millerman]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Alexander Dugin]]></category>
+		<category><![CDATA[Eurasia]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[Evgenij Zamjatin]]></category>
+		<category><![CDATA[Gor]]></category>
+		<category><![CDATA[guerra]]></category>
+		<category><![CDATA[John M. Hobson]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[Putin]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Schmitt]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Sholem Asch]]></category>
+		<category><![CDATA[Stalin]]></category>
+		<category><![CDATA[Ucraina]]></category>
+		<category><![CDATA[Zhanna Bichevskaya]]></category>
+
+		<guid isPermaLink="false">/?p=1390</guid>
+		<description><![CDATA[La Russia di oggi non è l’URSS di ieri, e nemmeno quella più remota dell’impero degli Zar. C’è uno scenario del tutto nuovo, profondamente diverso da quello delineato dalla cortina di ferro, caduta per il volontario ritrarsi dei sovietici dalle <a class="mh-excerpt-more" href="/mag/la-russia-leurasia-e-il-multipolarismo/" title="La Russia, l’Eurasia e il multipolarismo">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Aspetti etici del Testamento biologico</title>
 		<link>/mag/aspetti-etici-del-testamento-biologico/</link>
 		<pubDate>Thu, 23 Mar 2017 11:00:51 +0000</pubDate>
@@ -159,6 +193,7 @@
 		<category><![CDATA[integralismo]]></category>
 		<category><![CDATA[Islam]]></category>
 		<category><![CDATA[Jihad]]></category>
+		<category><![CDATA[Tuscolo]]></category>
 
 		<guid isPermaLink="false">/?p=1265</guid>
 		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
@@ -202,24 +237,6 @@
 
 		<guid isPermaLink="false">/?p=1154</guid>
 		<description><![CDATA[La questione palestinese si trascina senza nessuna soluzione dal 1948: esattamente da quando fu proclamato lo stato d’Israele. Gli arabi rigettarono la proposta ONU di fondare due stati indipendenti e dichiararono guerra al nuovo paese, gli ebrei occuparono progressivamente le <a class="mh-excerpt-more" href="/mag/palestina-civilta-eno/" title="Brian Eno, la guerra in Palestina e la perdita della civiltà">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Sisma all&#8217;italiana e altri terremoti</title>
-		<link>/mag/sisma-italiana/</link>
-		<pubDate>Mon, 12 Sep 2016 19:00:26 +0000</pubDate>
-		<dc:creator><![CDATA[Stefano Ricchiuti]]></dc:creator>
-				<category><![CDATA[fumetti]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[umorismo]]></category>
-		<category><![CDATA[Charlie Hebdo]]></category>
-		<category><![CDATA[Lino Ricchiuti]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[terremoto]]></category>
-
-		<guid isPermaLink="false">/?p=1129</guid>
-		<description><![CDATA[Il terremoto è una brutta cosa, e non bada né alle date, né alle norme: possiamo soltanto tenerci pronti al verificarsi delle scosse, inevitabili in molti parti del territorio nazionale. Alle vittime è dovuta ogni forma di solidarietà: tuttavia, bisogna onestamente riconoscere <a class="mh-excerpt-more" href="/mag/sisma-italiana/" title="Sisma all&#8217;italiana e altri terremoti">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
