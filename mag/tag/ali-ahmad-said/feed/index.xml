@@ -1,0 +1,56 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ali Ahmad Sa’id</title>
+	<atom:link href="/mag/tag/ali-ahmad-said/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Etica del ribelle. La scienza e la storia tra fratture e continuità</title>
+		<link>/mag/etica-ribelle-scienza-giorello-donghi/</link>
+		<pubDate>Mon, 15 May 2017 10:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Giulio Giorello - Pino Donghi]]></dc:creator>
+				<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[scienza]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Ali Ahmad Sa’id]]></category>
+		<category><![CDATA[astronomia]]></category>
+		<category><![CDATA[Averroè]]></category>
+		<category><![CDATA[bosone]]></category>
+		<category><![CDATA[Enriques]]></category>
+		<category><![CDATA[fisica]]></category>
+		<category><![CDATA[Gadda]]></category>
+		<category><![CDATA[Geymonat]]></category>
+		<category><![CDATA[Giulio Giorello]]></category>
+		<category><![CDATA[illuminismo]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Kuhn]]></category>
+		<category><![CDATA[matematica]]></category>
+		<category><![CDATA[Pino Donghi]]></category>
+		<category><![CDATA[Popper]]></category>
+		<category><![CDATA[rivoluzione francese]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1472</guid>
+		<description><![CDATA[Il Ribelle è il singolo, l’uomo concreto che agisce nel caso concreto. […] Non gli servono teorie, né leggi escogitate da qualche giurista di partito». A Ludovico Geymonat (Galileo Galilei, 1957) fa controcanto Enrst Junger (Trattato del ribelle, 1980): «Soltanto <a class="mh-excerpt-more" href="/mag/etica-ribelle-scienza-giorello-donghi/" title="Etica del ribelle. La scienza e la storia tra fratture e continuità">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

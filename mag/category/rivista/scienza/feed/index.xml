@@ -13,12 +13,46 @@
 	<atom:link href="/mag/category/rivista/scienza/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 02 May 2017 18:12:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.9</generator>
 	<item>
+		<title>Etica del ribelle. La scienza e la storia tra fratture e continuità</title>
+		<link>/mag/etica-ribelle-scienza-giorello-donghi/</link>
+		<pubDate>Mon, 15 May 2017 10:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Giulio Giorello - Pino Donghi]]></dc:creator>
+				<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[scienza]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Ali Ahmad Sa’id]]></category>
+		<category><![CDATA[astronomia]]></category>
+		<category><![CDATA[Averroè]]></category>
+		<category><![CDATA[bosone]]></category>
+		<category><![CDATA[Enriques]]></category>
+		<category><![CDATA[fisica]]></category>
+		<category><![CDATA[Gadda]]></category>
+		<category><![CDATA[Geymonat]]></category>
+		<category><![CDATA[Giulio Giorello]]></category>
+		<category><![CDATA[illuminismo]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Kuhn]]></category>
+		<category><![CDATA[matematica]]></category>
+		<category><![CDATA[Pino Donghi]]></category>
+		<category><![CDATA[Popper]]></category>
+		<category><![CDATA[rivoluzione francese]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1472</guid>
+		<description><![CDATA[Il Ribelle è il singolo, l’uomo concreto che agisce nel caso concreto. […] Non gli servono teorie, né leggi escogitate da qualche giurista di partito». A Ludovico Geymonat (Galileo Galilei, 1957) fa controcanto Enrst Junger (Trattato del ribelle, 1980): «Soltanto <a class="mh-excerpt-more" href="/mag/etica-ribelle-scienza-giorello-donghi/" title="Etica del ribelle. La scienza e la storia tra fratture e continuità">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Aspetti etici del Testamento biologico</title>
 		<link>/mag/aspetti-etici-del-testamento-biologico/</link>
 		<pubDate>Thu, 23 Mar 2017 11:00:51 +0000</pubDate>
@@ -287,38 +321,6 @@
 
 		<guid isPermaLink="false">/?p=1223</guid>
 		<description><![CDATA[La notte in cui fu clonato il presidente. Un controverso concorso letterario. Berlusconi, la biopolitica e il corpo immortale del sovrano. La clonazione come meccanismo istituzionale. Breve descrizione dei quindici racconti pubblicati. Semantica e pratica della clonazione. La riproduzione per <a class="mh-excerpt-more" href="/mag/la-clonazione/" title="La clonazione dalle pecore a Dio (passando per Berlusconi)">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Spazi vuoti</title>
-		<link>/mag/spazi-vuoti/</link>
-		<pubDate>Sat, 03 Nov 2012 11:00:18 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[scienza]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Bibesco]]></category>
-		<category><![CDATA[Bisanzio]]></category>
-		<category><![CDATA[Byron]]></category>
-		<category><![CDATA[castelli romani]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Cristianesimo]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Flaubert]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Istanbul]]></category>
-		<category><![CDATA[James Frazer]]></category>
-		<category><![CDATA[Montale]]></category>
-		<category><![CDATA[Turchia]]></category>
-		<category><![CDATA[viaggi]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=784</guid>
-		<description><![CDATA[Lo spazio vuoto della storia e una santa mai esistita. La Turchia vista da Hagia Sofia. Ricorrenze del simbolo della mezzaluna tra l’Islam e Genzano di Roma. I nomi della dea. Principessa Bibesco e Flaubert: il tempio dell’idea, la capitale <a class="mh-excerpt-more" href="/mag/spazi-vuoti/" title="Spazi vuoti">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

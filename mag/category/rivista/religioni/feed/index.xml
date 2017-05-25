@@ -13,12 +13,46 @@
 	<atom:link href="/mag/category/rivista/religioni/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 02 May 2017 18:12:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.9</generator>
 	<item>
+		<title>Etica del ribelle. La scienza e la storia tra fratture e continuità</title>
+		<link>/mag/etica-ribelle-scienza-giorello-donghi/</link>
+		<pubDate>Mon, 15 May 2017 10:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Giulio Giorello - Pino Donghi]]></dc:creator>
+				<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[scienza]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Ali Ahmad Sa’id]]></category>
+		<category><![CDATA[astronomia]]></category>
+		<category><![CDATA[Averroè]]></category>
+		<category><![CDATA[bosone]]></category>
+		<category><![CDATA[Enriques]]></category>
+		<category><![CDATA[fisica]]></category>
+		<category><![CDATA[Gadda]]></category>
+		<category><![CDATA[Geymonat]]></category>
+		<category><![CDATA[Giulio Giorello]]></category>
+		<category><![CDATA[illuminismo]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Kant]]></category>
+		<category><![CDATA[Kuhn]]></category>
+		<category><![CDATA[matematica]]></category>
+		<category><![CDATA[Pino Donghi]]></category>
+		<category><![CDATA[Popper]]></category>
+		<category><![CDATA[rivoluzione francese]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1472</guid>
+		<description><![CDATA[Il Ribelle è il singolo, l’uomo concreto che agisce nel caso concreto. […] Non gli servono teorie, né leggi escogitate da qualche giurista di partito». A Ludovico Geymonat (Galileo Galilei, 1957) fa controcanto Enrst Junger (Trattato del ribelle, 1980): «Soltanto <a class="mh-excerpt-more" href="/mag/etica-ribelle-scienza-giorello-donghi/" title="Etica del ribelle. La scienza e la storia tra fratture e continuità">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Animali e uomini tra malattia e guarigione</title>
 		<link>/mag/animali-uomini-malattia-guarigione/</link>
 		<pubDate>Fri, 10 Feb 2017 11:00:03 +0000</pubDate>
@@ -236,27 +270,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=30</guid>
 		<description><![CDATA[Pubblicazione italiane recenti quali la sterminata teologia dell’&#8221;Esegesi&#8221; (edizione americana 2011) e il libro critico di John Carré &#8220;Io sono vivo voi siete morti&#8221; (edizione francese 1993) mantengono vive le attenzioni nei confronti di Philip Dick. Autore di opere decisive per la fantascienza contemporanea <a class="mh-excerpt-more" href="/mag/philip-k-dick-il-filosofo-mascherato/" title="Philip K. Dick, il filosofo mascherato">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Scorre il sangue, fertile la terra: la Pasola di Sumba</title>
-		<link>/mag/scorre-il-sangue-fertile-la-terra-la-pasola-di-sumba/</link>
-		<pubDate>Sun, 05 Jun 2016 10:00:23 +0000</pubDate>
-		<dc:creator><![CDATA[Daniele Giannotta - Elena Stefanin]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Cristianesimo]]></category>
-		<category><![CDATA[Indonesia]]></category>
-		<category><![CDATA[Marapu]]></category>
-		<category><![CDATA[paganesimo]]></category>
-		<category><![CDATA[Pasola]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[Sumba]]></category>
-		<category><![CDATA[viaggi]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=74</guid>
-		<description><![CDATA[Viaggiare in bicicletta attraverso il mondo: scoprendo così che quanto sfugge a calamità quali il turismo organizzato e le guerre globali è molto di più di quanto ci si possa aspettare. Daniele Giannotta (1982, sound designer, operatore culturale) ed Elena Stefanin (1984, laureata in Scienze <a class="mh-excerpt-more" href="/mag/scorre-il-sangue-fertile-la-terra-la-pasola-di-sumba/" title="Scorre il sangue, fertile la terra: la Pasola di Sumba">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
