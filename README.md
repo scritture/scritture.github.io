@@ -3,9 +3,9 @@
 Scritture &egrave;  una rivista diretta da Claudio Comandini.
 
 
-## Per contatti:
+### Per contatti:
 
-posta@claudiocomandini.net
+Claudio Comandini:  posta@claudiocomandini.net
 
 
 
