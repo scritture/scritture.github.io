@@ -13,7 +13,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 May 2017 15:33:09 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -23,7 +23,8 @@
 		<link>/mag/frascati-goethe/</link>
 		<pubDate>Sat, 20 May 2017 10:00:18 +0000</pubDate>
 		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[Diario]]></category>
 		<category><![CDATA[filosofia]]></category>
 		<category><![CDATA[letteratura]]></category>
 		<category><![CDATA[narrazioni]]></category>
@@ -39,7 +40,7 @@
 		<category><![CDATA[Stuart]]></category>
 		<category><![CDATA[viaggi]]></category>
 
-		<guid isPermaLink="false">/?p=1466</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1466</guid>
 		<description><![CDATA[«Bisogna scrivere come si vive, in primo luogo per noi stessi, e allora si esiste anche per chi ci è affine.» (Johann Wolfgang von Goethe, Viaggio in Italia &#8211; Corrispondenza, Albano 5 ottobre 1787). Nel 1776 Goethe, due anni dopo il <a class="mh-excerpt-more" href="/mag/frascati-goethe/" title="Ritorno a Frascati. La felicità del non più troppo giovane Goethe">[...]</a>]]></description>
 		</item>
 		<item>
@@ -73,7 +74,7 @@
 		<category><![CDATA[rivoluzione francese]]></category>
 		<category><![CDATA[Scritture]]></category>
 
-		<guid isPermaLink="false">/?p=1472</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1472</guid>
 		<description><![CDATA[Il Ribelle è il singolo, l’uomo concreto che agisce nel caso concreto. […] Non gli servono teorie, né leggi escogitate da qualche giurista di partito». A Ludovico Geymonat (Galileo Galilei, 1957) fa controcanto Enrst Junger (Trattato del ribelle, 1980): «Soltanto <a class="mh-excerpt-more" href="/mag/etica-ribelle-scienza-giorello-donghi/" title="Etica del ribelle. La scienza e la storia tra fratture e continuità">[...]</a>]]></description>
 		</item>
 		<item>
@@ -88,7 +89,7 @@
 		<category><![CDATA[Scritture]]></category>
 		<category><![CDATA[Serena Grizi]]></category>
 
-		<guid isPermaLink="false">/?p=1476</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1476</guid>
 		<description><![CDATA[«E l’acqua del lago appariva talmente calma da riflettere le luci della sponda opposta, tra cui brillava in lontananza il lume di casa mia.» Francesco Permunian ha esordito come poeta negli anni ottanta e come narratore alla fine degli anni novanta. Quattro opere per conoscere <a class="mh-excerpt-more" href="/mag/francesco-permunian/" title="Francesco Permunian in quattro libri. Incantarsi è un dono">[...]</a>]]></description>
 		</item>
 		<item>
@@ -112,7 +113,7 @@
 		<category><![CDATA[Napoli]]></category>
 		<category><![CDATA[Vivarium Novum]]></category>
 
-		<guid isPermaLink="false">/?p=1461</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1461</guid>
 		<description><![CDATA[Storia di una biblioteca in cerca di una sede, di un istituto di filosofia, del loro fondatore. Perché la ricerca continui a diffondersi. &#160; «Fondare biblioteche è come costruire ancora granai pubblici». Questa frase di Marguerute Yourcenar fa comprendere l’importanza <a class="mh-excerpt-more" href="/mag/gerardo-marotta-in-tre-atti/" title="Gerardo Marotta in tre atti">[...]</a>]]></description>
 		</item>
 		<item>
@@ -146,7 +147,7 @@
 		<category><![CDATA[Ucraina]]></category>
 		<category><![CDATA[Zhanna Bichevskaya]]></category>
 
-		<guid isPermaLink="false">/?p=1390</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1390</guid>
 		<description><![CDATA[La Russia di oggi non è l’URSS di ieri, e nemmeno quella più remota dell’impero degli Zar. C’è uno scenario del tutto nuovo, profondamente diverso da quello delineato dalla cortina di ferro, caduta per il volontario ritrarsi dei sovietici dalle <a class="mh-excerpt-more" href="/mag/la-russia-leurasia-e-il-multipolarismo/" title="La Russia, l’Eurasia e il multipolarismo">[...]</a>]]></description>
 		</item>
 		<item>
@@ -164,7 +165,7 @@
 		<category><![CDATA[Leibniz]]></category>
 		<category><![CDATA[Miles Davis]]></category>
 
-		<guid isPermaLink="false">/?p=1426</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1426</guid>
 		<description><![CDATA[Percorsi e sfide nella musica di Miles Davis e quella di Ferruccio Busoni. Pratica, pensiero, stili, innovazioni, eredità, ascolti e sogni. Nella musica i cammini sono tanti e diversi: alcuni arrivano subito dove vogliono, altri cambiano sempre e non si <a class="mh-excerpt-more" href="/mag/miles-davis-e-ferruccio-busoni-lontane-risonanze/" title="Miles Davis e Ferruccio Busoni: lontane risonanze">[...]</a>]]></description>
 		</item>
 		<item>
@@ -181,7 +182,7 @@
 		<category><![CDATA[Oscar Montani]]></category>
 		<category><![CDATA[Scritture]]></category>
 
-		<guid isPermaLink="false">/?p=1394</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1394</guid>
 		<description><![CDATA[Le narrazioni noir, gialle e affini, conoscono metropoli e provincie, eccellenze e mesterianti, e inoltre hanno poi tecniche per risolvere problemi nelle quali le preoccupazioni scientifiche e matematiche sono decisive. Oscar Montani, autore di romanzi (ultimo libro “La pazienza del gatto”, <a class="mh-excerpt-more" href="/mag/il-noir-e-il-giallo-e-il-thriller-come-arte/" title="Il noir (e il giallo e il thriller) come arte">[...]</a>]]></description>
 		</item>
 		<item>
@@ -202,7 +203,7 @@
 		<category><![CDATA[Scritture]]></category>
 		<category><![CDATA[testamento biologico]]></category>
 
-		<guid isPermaLink="false">/?p=1366</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1366</guid>
 		<description><![CDATA[È la linea dove poter decidere la vita e la morte a spostarsi avanti, oppure è la nostra capacità di sentirle quali dono a offuscarsi? Il caso di DJ Fabo (Fabiano Antoniani) ha riportato alle attenzione che, laddove la capacità <a class="mh-excerpt-more" href="/mag/aspetti-etici-del-testamento-biologico/" title="Aspetti etici del Testamento biologico">[...]</a>]]></description>
 		</item>
 		<item>
@@ -217,7 +218,7 @@
 		<category><![CDATA[storia]]></category>
 		<category><![CDATA[Claudio Comandini]]></category>
 
-		<guid isPermaLink="false">/?p=1361</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1361</guid>
 		<description><![CDATA[Aldo Moro fu rapito dalle Brigate Rosse il 16 marzo 1978. Aveva in tasca un nuovo governo, che nessuno vide mai. L’Italia perse il futuro; ancora oggi, regna un presente assente a se stesso. L’unica “rivelazione” effettiva con la quale <a class="mh-excerpt-more" href="/mag/il-settimo-uomo-nuove-rivelazioni-sul-caso-moro/" title="Il settimo uomo (nuove rivelazioni sul caso Moro)">[...]</a>]]></description>
 		</item>
 		<item>
@@ -237,7 +238,7 @@
 		<category><![CDATA[Trump]]></category>
 		<category><![CDATA[USA]]></category>
 
-		<guid isPermaLink="false">/?p=1352</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1352</guid>
 		<description><![CDATA[Mentre per i Paesi emergenti si profila il rischio di una pericolosa crisi debitoria, l&#8217;isolazionismo del nuovo presidente americano sembra incapace di proporre soluzioni, tanto per i flussi migratori, quanto per le nuove povertà interne, restando così confinato, oltre che ad un apprezzamento <a class="mh-excerpt-more" href="/mag/trump-no-global-contro-il-mondo/" title="Trump no-global contro il mondo">[...]</a>]]></description>
 		</item>
 	</channel>

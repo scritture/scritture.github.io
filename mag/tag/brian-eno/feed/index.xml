@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/brian-eno/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 May 2017 15:33:09 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -36,7 +36,7 @@
 		<category><![CDATA[Palestina]]></category>
 		<category><![CDATA[Scritture]]></category>
 
-		<guid isPermaLink="false">/?p=1154</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1154</guid>
 		<description><![CDATA[La questione palestinese si trascina senza nessuna soluzione dal 1948: esattamente da quando fu proclamato lo stato d’Israele. Gli arabi rigettarono la proposta ONU di fondare due stati indipendenti e dichiararono guerra al nuovo paese, gli ebrei occuparono progressivamente le <a class="mh-excerpt-more" href="/mag/palestina-civilta-eno/" title="Brian Eno, la guerra in Palestina e la perdita della civiltà">[...]</a>]]></description>
 		</item>
 	</channel>

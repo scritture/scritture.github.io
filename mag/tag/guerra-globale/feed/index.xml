@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/guerra-globale/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 May 2017 15:33:09 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -42,7 +42,7 @@
 		<category><![CDATA[Jihad]]></category>
 		<category><![CDATA[Tuscolo]]></category>
 
-		<guid isPermaLink="false">/?p=1265</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1265</guid>
 		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
 		</item>
 		<item>
@@ -78,7 +78,7 @@
 		<category><![CDATA[Perniola]]></category>
 		<category><![CDATA[USA]]></category>
 
-		<guid isPermaLink="false">/?p=1215</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1215</guid>
 		<description><![CDATA[Berlusconi e la giustizia. La corruzione dei poteri dello stato. Politica e teologia: il cieco e lo zoppo. Secolarizzazione e secolarismo. Pasolini e il romanzo delle stragi. Retroscena istituzionali e implicazioni internazionali degli attentati del 1969 e del 1974. Indagati, <a class="mh-excerpt-more" href="/mag/il-cavaliere/" title="Il cavaliere, le armi e gli amori (o giù di lì)">[...]</a>]]></description>
 		</item>
 	</channel>

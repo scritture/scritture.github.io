@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/germania/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 May 2017 15:33:09 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -23,7 +23,8 @@
 		<link>/mag/frascati-goethe/</link>
 		<pubDate>Sat, 20 May 2017 10:00:18 +0000</pubDate>
 		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[Diario]]></category>
 		<category><![CDATA[filosofia]]></category>
 		<category><![CDATA[letteratura]]></category>
 		<category><![CDATA[narrazioni]]></category>
@@ -39,7 +40,7 @@
 		<category><![CDATA[Stuart]]></category>
 		<category><![CDATA[viaggi]]></category>
 
-		<guid isPermaLink="false">/?p=1466</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1466</guid>
 		<description><![CDATA[«Bisogna scrivere come si vive, in primo luogo per noi stessi, e allora si esiste anche per chi ci è affine.» (Johann Wolfgang von Goethe, Viaggio in Italia &#8211; Corrispondenza, Albano 5 ottobre 1787). Nel 1776 Goethe, due anni dopo il <a class="mh-excerpt-more" href="/mag/frascati-goethe/" title="Ritorno a Frascati. La felicità del non più troppo giovane Goethe">[...]</a>]]></description>
 		</item>
 		<item>
@@ -76,7 +77,7 @@
 		<category><![CDATA[sessualità]]></category>
 		<category><![CDATA[urbanistica]]></category>
 
-		<guid isPermaLink="false">/?p=1211</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1211</guid>
 		<description><![CDATA[Benjamin: il paesaggio berlinese e l’orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e <a class="mh-excerpt-more" href="/mag/berlino-dopo-lunione/" title="Berlino dopo l’unione">[...]</a>]]></description>
 		</item>
 		<item>
@@ -104,7 +105,7 @@
 		<category><![CDATA[Roma]]></category>
 		<category><![CDATA[Tuscolo]]></category>
 
-		<guid isPermaLink="false">/?p=1087</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1087</guid>
 		<description><![CDATA[Il Vulcano Laziale e le anime dei morti. II Guerra Mondiale e storia di Roma nel medioevo. Le prime bombe su Frascati e l’ultimo assedio a Tusculum. Un&#8217;icona e i monumenti di una piazza. Douhet: legittimazione teorica delle stragi civili. <a class="mh-excerpt-more" href="/mag/storia-bombe-frascati-distruzione-tuscolo/" title="La storia e i giorni. Le bombe su Frascati e la distruzione di Tuscolo">[...]</a>]]></description>
 		</item>
 		<item>
@@ -200,7 +201,7 @@
 		<category><![CDATA[Spengler]]></category>
 		<category><![CDATA[Stalin]]></category>
 
-		<guid isPermaLink="false">/?p=1219</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1219</guid>
 		<description><![CDATA[Il Muro, lo schermo, il mercato. Weimar: angosce oscure, luminose speranze. Il Nazismo: la natura come progetto. I Verdi: l’economia informale. Nazisti hippy e nazicomunsti. Nuovo Ordine del Mondo. Erosione degli stati nazionali, imporsi del capitale finanziario, eclisse delle ideologie. <a class="mh-excerpt-more" href="/mag/il-tetto-sopra-berlino/" title="Il tetto sopra Berlino">[...]</a>]]></description>
 		</item>
 		<item>
@@ -237,7 +238,7 @@
 		<category><![CDATA[Sonderweg]]></category>
 		<category><![CDATA[USA]]></category>
 
-		<guid isPermaLink="false">/?p=1204</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1204</guid>
 		<description><![CDATA[I tre vocabolari della neolingua. L&#8217;associazione di sostantivo e verbo e altri sistemi per paralizzare l&#8217;intelletto. Rettifica della storia e mutabilità del passato. Guerra infinita e conflitto in Crimea. Codici giovanili, burocratici e scientifici. Materialismo dialettico e radicalismi di maniera. <a class="mh-excerpt-more" href="/mag/de-neolingua/" title="De neolingua">[...]</a>]]></description>
 		</item>
 	</channel>

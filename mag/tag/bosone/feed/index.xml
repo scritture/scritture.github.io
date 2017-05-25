@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/bosone/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 May 2017 15:33:09 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -49,7 +49,7 @@
 		<category><![CDATA[rivoluzione francese]]></category>
 		<category><![CDATA[Scritture]]></category>
 
-		<guid isPermaLink="false">/?p=1472</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1472</guid>
 		<description><![CDATA[Il Ribelle è il singolo, l’uomo concreto che agisce nel caso concreto. […] Non gli servono teorie, né leggi escogitate da qualche giurista di partito». A Ludovico Geymonat (Galileo Galilei, 1957) fa controcanto Enrst Junger (Trattato del ribelle, 1980): «Soltanto <a class="mh-excerpt-more" href="/mag/etica-ribelle-scienza-giorello-donghi/" title="Etica del ribelle. La scienza e la storia tra fratture e continuità">[...]</a>]]></description>
 		</item>
 	</channel>

@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/cinema/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 24 May 2017 13:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 May 2017 15:33:09 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,7 +31,7 @@
 		<category><![CDATA[Lidia Riviello]]></category>
 		<category><![CDATA[Scritture]]></category>
 
-		<guid isPermaLink="false">/?p=1165</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1165</guid>
 		<description><![CDATA[Cos’è l’orrore in una società che sembra fatta di mostri in lotta tra loro, in uno scontro continuo tra il male e il peggio? Come narrare storie fatte di promesse mancate e i dialoghi senza voce? La scrittrice Lidia Riviello <a class="mh-excerpt-more" href="/mag/horror-epica-dialogo/" title="L&#8217;epica stordita dell&#8217;horror americano">[...]</a>]]></description>
 		</item>
 		<item>
@@ -68,7 +68,7 @@
 		<category><![CDATA[sessualità]]></category>
 		<category><![CDATA[urbanistica]]></category>
 
-		<guid isPermaLink="false">/?p=1211</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1211</guid>
 		<description><![CDATA[Benjamin: il paesaggio berlinese e l’orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e <a class="mh-excerpt-more" href="/mag/berlino-dopo-lunione/" title="Berlino dopo l’unione">[...]</a>]]></description>
 		</item>
 		<item>
@@ -96,7 +96,7 @@
 		<category><![CDATA[Vertigo]]></category>
 		<category><![CDATA[Will Eisner]]></category>
 
-		<guid isPermaLink="false">/?p=1137</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1137</guid>
 		<description><![CDATA[11 settembre: immagini di un giorno. Delillo: le rovine del futuro e la scrittura del presente. Gonzales: lo schermo nero e la luce di Dio. Spiegelman: l’ombra di quello che non c’è più. Eisner: la realtà e i fumetti. Human <a class="mh-excerpt-more" href="/mag/11-settembre-vuoto-cielo/" title="Qualcosa di vuoto nel cielo">[...]</a>]]></description>
 		</item>
 		<item>
@@ -260,7 +260,7 @@
 		<category><![CDATA[Spengler]]></category>
 		<category><![CDATA[Stalin]]></category>
 
-		<guid isPermaLink="false">/?p=1219</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1219</guid>
 		<description><![CDATA[Il Muro, lo schermo, il mercato. Weimar: angosce oscure, luminose speranze. Il Nazismo: la natura come progetto. I Verdi: l’economia informale. Nazisti hippy e nazicomunsti. Nuovo Ordine del Mondo. Erosione degli stati nazionali, imporsi del capitale finanziario, eclisse delle ideologie. <a class="mh-excerpt-more" href="/mag/il-tetto-sopra-berlino/" title="Il tetto sopra Berlino">[...]</a>]]></description>
 		</item>
 		<item>
@@ -295,7 +295,7 @@
 		<category><![CDATA[Parusia]]></category>
 		<category><![CDATA[Roma]]></category>
 
-		<guid isPermaLink="false">/?p=1076</guid>
+		<guid isPermaLink="false">http://redazione.scritture.net/?p=1076</guid>
 		<description><![CDATA[Donne e religione. Lo Stato Islamico tra comunicazione e realtà. Gli Yazidi da prima della creazione ad oggi. Nubi luminose, presenza divina e tre monoteismi. Veli e ombre in Averroè e Giordano Bruno. Delillo e l&#8217;attimo prima del crollo. Breve <a class="mh-excerpt-more" href="/mag/il-tradire-degli-eventi/" title="Il tradire degli eventi">[...]</a>]]></description>
 		</item>
 	</channel>
