@@ -8,6 +8,7 @@ http://www.scritture.net
 ### Per contatti:
 
 Claudio Comandini:  posta@claudiocomandini.net
+Redazione:          redazione@scritture.net
 
 
 
