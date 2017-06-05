@@ -1,8 +1,0 @@
--O /var/www/scritture-static/ -iC2 -c16 -a -d http://ciliegia.local
-File generated automatically on Sun, 15 Jan 2017 01:51:05, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
