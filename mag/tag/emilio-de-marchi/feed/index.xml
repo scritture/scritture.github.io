@@ -1,0 +1,74 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Emilio De Marchi</title>
+	<atom:link href="/mag/tag/emilio-de-marchi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>I colori del noir</title>
+		<link>/mag/i-colori-del-noir/</link>
+		<pubDate>Sat, 28 Feb 2015 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Aleks Kuntz]]></category>
+		<category><![CDATA[Carlo Lucarelli]]></category>
+		<category><![CDATA[Cesare Battisti]]></category>
+		<category><![CDATA[Chiara Bertazzoni]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Daschiel Hammett]]></category>
+		<category><![CDATA[Davide Cammarone]]></category>
+		<category><![CDATA[Elena Vesnaver]]></category>
+		<category><![CDATA[Emilio De Marchi]]></category>
+		<category><![CDATA[Fabio Mazzoli]]></category>
+		<category><![CDATA[Fernando Fazzari]]></category>
+		<category><![CDATA[Giancarlo De Cataldo]]></category>
+		<category><![CDATA[Gianni Tetti]]></category>
+		<category><![CDATA[Igor De Amicis]]></category>
+		<category><![CDATA[Ivan Cotroneo]]></category>
+		<category><![CDATA[J. P. Rossano]]></category>
+		<category><![CDATA[Lorella Natalizi]]></category>
+		<category><![CDATA[M.Merisi]]></category>
+		<category><![CDATA[Marcello Fois]]></category>
+		<category><![CDATA[Marinella Lombardi]]></category>
+		<category><![CDATA[Matteo Fraccaro]]></category>
+		<category><![CDATA[Matteo Scandolin]]></category>
+		<category><![CDATA[Mirco Cantoro]]></category>
+		<category><![CDATA[noir]]></category>
+		<category><![CDATA[Oscar Montani]]></category>
+		<category><![CDATA[Paolo Agaraff]]></category>
+		<category><![CDATA[Piero Chiara]]></category>
+		<category><![CDATA[pulp]]></category>
+		<category><![CDATA[Raffaele Donnarumma]]></category>
+		<category><![CDATA[Renzo Saffi]]></category>
+		<category><![CDATA[Riccardo Strada]]></category>
+		<category><![CDATA[Sciascia]]></category>
+		<category><![CDATA[Serena Grizi]]></category>
+		<category><![CDATA[Sergio Saviane]]></category>
+		<category><![CDATA[Silvia Pantaleo]]></category>
+		<category><![CDATA[Simone Togneri]]></category>
+		<category><![CDATA[Stefano Santarsiere]]></category>
+		<category><![CDATA[Valerio Lucarelli]]></category>
+		<category><![CDATA[Valerio Varesi]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=404</guid>
+		<description><![CDATA[Noir e letteratura. Daschiel Hammett e “The Maltese Falcon”. I racconti di “Tutto il nero dell’Italia” e la provincia italiana. Paranoia e trastullo. Mistero ed eccellenze. &#160; 1. Il giallo e il nero Crimine e corruzione per le buie strade <a class="mh-excerpt-more" href="/mag/i-colori-del-noir/" title="I colori del noir">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

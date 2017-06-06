@@ -1,0 +1,50 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bruxelles</title>
+	<atom:link href="/mag/tag/bruxelles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Rovine d&#8217;Europa</title>
+		<link>/mag/rovine-deuropa/</link>
+		<pubDate>Sat, 05 Mar 2016 11:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Assange]]></category>
+		<category><![CDATA[Berlino]]></category>
+		<category><![CDATA[Bruxelles]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[finanza]]></category>
+		<category><![CDATA[guerra]]></category>
+		<category><![CDATA[informazione]]></category>
+		<category><![CDATA[integralismo]]></category>
+		<category><![CDATA[Jugoslavia]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[Roma]]></category>
+		<category><![CDATA[social network]]></category>
+		<category><![CDATA[Varoufakis]]></category>
+		<category><![CDATA[Žižek]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=766</guid>
+		<description><![CDATA[L&#8217;autodistruzione dei kamikaze e quella dell&#8217;Occidente. Torbidità e conoscenza. Le ambiguità di Avaaz e quelle di WikiLeaks. Forme del conflitto dalla Jugoslavia a Bruxelles. I generosi intenti di Varoufakis e le imbarazzanti performance del DiEM 25. Contro la spoliticizzazione e la <a class="mh-excerpt-more" href="/mag/rovine-deuropa/" title="Rovine d&#8217;Europa">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

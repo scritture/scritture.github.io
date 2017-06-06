@@ -1,0 +1,43 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>burkini</title>
+	<atom:link href="/mag/tag/burkini/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Il burkini e lo scandalo del coprirsi</title>
+		<link>/mag/il-burkini-e-lo-scandalo-del-coprirsi/</link>
+		<pubDate>Tue, 06 Sep 2016 10:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Rossana Miranda]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[burkini]]></category>
+		<category><![CDATA[integralismo]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Rossana Miranda]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[sessualità]]></category>
+
+		<guid isPermaLink="false">/?p=1116</guid>
+		<description><![CDATA[Oggi fa più scandalo coprirsi o scoprirsi? La polemica estiva sul burkini è rimasta perlopiù coinvolta da un&#8217;epidemica reattività emotiva che impedisce ogni sensato ragionamento, esasperando così uno scontro già piuttosto sterile tra uguaglianza obbligatoria e identificazioni aggressive. In questo come in <a class="mh-excerpt-more" href="/mag/il-burkini-e-lo-scandalo-del-coprirsi/" title="Il burkini e lo scandalo del coprirsi">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

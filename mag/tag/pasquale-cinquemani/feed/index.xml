@@ -1,0 +1,58 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pasquale Cinquemani</title>
+	<atom:link href="/mag/tag/pasquale-cinquemani/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Le colpe di Batman. L&#8217;informazione, i fumetti e le stragi</title>
+		<link>/mag/batman-informazione-fumetti-stragi/</link>
+		<pubDate>Tue, 24 Jul 2012 10:00:54 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[cinema]]></category>
+		<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[fumetti]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Alan Moore]]></category>
+		<category><![CDATA[Alessandro Di Nocera]]></category>
+		<category><![CDATA[Angelo Aquaro]]></category>
+		<category><![CDATA[Batman]]></category>
+		<category><![CDATA[Christofer Nolan]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[DC]]></category>
+		<category><![CDATA[Frank Miller]]></category>
+		<category><![CDATA[Fredric Werthan]]></category>
+		<category><![CDATA[Garth Ennis]]></category>
+		<category><![CDATA[Hellblazer]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[James Holmes]]></category>
+		<category><![CDATA[Mike Carey]]></category>
+		<category><![CDATA[Neil Gaiman]]></category>
+		<category><![CDATA[Pasquale Cinquemani]]></category>
+		<category><![CDATA[Preacher]]></category>
+		<category><![CDATA[pulp]]></category>
+		<category><![CDATA[Sandman]]></category>
+		<category><![CDATA[Simon Bisley]]></category>
+		<category><![CDATA[Vertigo]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=402</guid>
+		<description><![CDATA[Strage in un cinema di Colorado alla prima del film su Batman di Christopher Nolan. Gravi svarioni giornalistici sull’attribuzione della paternità del personaggio e della responsabilità del fatto. Breve profilo di James Holmes, autore delle strage, e dinamica dell’accaduto. “The <a class="mh-excerpt-more" href="/mag/batman-informazione-fumetti-stragi/" title="Le colpe di Batman. L&#8217;informazione, i fumetti e le stragi">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

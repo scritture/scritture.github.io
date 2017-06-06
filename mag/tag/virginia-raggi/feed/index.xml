@@ -1,0 +1,67 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Virginia Raggi</title>
+	<atom:link href="/mag/tag/virginia-raggi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Una Roma senza Torri</title>
+		<link>/mag/una-roma-senza-torri/</link>
+		<pubDate>Fri, 03 Mar 2017 11:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Massimiliano Tonelli]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[architettura]]></category>
+		<category><![CDATA[Libeskind]]></category>
+		<category><![CDATA[Massimiliano Tonelli]]></category>
+		<category><![CDATA[Roma]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Tomaso Montanari]]></category>
+		<category><![CDATA[urbanistica]]></category>
+		<category><![CDATA[Virginia Raggi]]></category>
+
+		<guid isPermaLink="false">/?p=1342</guid>
+		<description><![CDATA[Com’è possibile che in tutto il mondo l’architettura contemporanea realizza capolavori, mentre a Roma produce incompiute oppure aborti? Per rispondere, occorrere interrogarsi su cosa può permettere ad una metropoli di dare spazio al presente, senza cadere nelle illusioni di uno pseudo-ambientalismo arrivato <a class="mh-excerpt-more" href="/mag/una-roma-senza-torri/" title="Una Roma senza Torri">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Bisogna saper vincere</title>
+		<link>/mag/bisogna-saper-vincere/</link>
+		<pubDate>Sun, 26 Jun 2016 10:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Bologna]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Grillo]]></category>
+		<category><![CDATA[M5S]]></category>
+		<category><![CDATA[Milano]]></category>
+		<category><![CDATA[Napoli]]></category>
+		<category><![CDATA[PD]]></category>
+		<category><![CDATA[Renzi]]></category>
+		<category><![CDATA[riforme]]></category>
+		<category><![CDATA[Roma]]></category>
+		<category><![CDATA[Torino]]></category>
+		<category><![CDATA[Virginia Raggi]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=415</guid>
+		<description><![CDATA[Elezioni amministrative in Italia: deciso cambio di rotta oppure semplice smottamento dell&#8217;esistente? Quali gli obiettivi minimi per una politica capace di ritrovare dignità e funzione? &#160; La Raggi è come un treno che è stato aspettato pur non sapendo dove porta: il <a class="mh-excerpt-more" href="/mag/bisogna-saper-vincere/" title="Bisogna saper vincere">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wolff</title>
+	<atom:link href="/mag/tag/wolff/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Musica e contemporanei</title>
+		<link>/mag/musica-e-contemporanei/</link>
+		<pubDate>Wed, 06 Jun 2012 10:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[musica]]></category>
+		<category><![CDATA[Agamben]]></category>
+		<category><![CDATA[Arutiuniam]]></category>
+		<category><![CDATA[Butch Morris]]></category>
+		<category><![CDATA[Carisi]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Copland]]></category>
+		<category><![CDATA[Giancarlo Schiaffini]]></category>
+		<category><![CDATA[Günter Muller]]></category>
+		<category><![CDATA[Hindemit]]></category>
+		<category><![CDATA[improvvisazione]]></category>
+		<category><![CDATA[Istanbul]]></category>
+		<category><![CDATA[Jolivet]]></category>
+		<category><![CDATA[Otomo Yoshihide]]></category>
+		<category><![CDATA[Sauter]]></category>
+		<category><![CDATA[Thurston Moore]]></category>
+		<category><![CDATA[Walter Prati]]></category>
+		<category><![CDATA[Wiltgen]]></category>
+		<category><![CDATA[Wolff]]></category>
+		<category><![CDATA[Wolpe]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=399</guid>
+		<description><![CDATA[Contemporanei tra luci e ombre: Agamben. Musiche di Jolivet, Copland, Hindemit, Arutiuniam, Wiltgen, Carisi, Sauter, Wolff, Wolpe, Günter Muller-Otomo Yoshihide, Butch Morris-Istanbul conduction, Giancarlo Schiaffini-Thurston Moore-Walter Prati. &#160; «Può dirsi contemporaneo soltanto chi non si lascia accecare dalle luci del <a class="mh-excerpt-more" href="/mag/musica-e-contemporanei/" title="Musica e contemporanei">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

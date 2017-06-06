@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>George Weigel</title>
+	<atom:link href="/mag/tag/george-weigel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Nuova Chiesa e nuova politica</title>
+		<link>/mag/nuova-chiesa-e-nuova-politica/</link>
+		<pubDate>Wed, 27 Jul 2016 10:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[George Weigel]]></dc:creator>
+				<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[cattolicesimo]]></category>
+		<category><![CDATA[George Weigel]]></category>
+		<category><![CDATA[riforme]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=213</guid>
+		<description><![CDATA[Le sfide dei cambiamenti e la riforma cattolica. Il definitivo tramonto dell’era della Controriforma e il dispiegarsi del Concilio Vaticano II permette di approfondire quanto la storia ha già modellato nella Chiesa voluta da Cristo: potremmo anche scoprire che il <a class="mh-excerpt-more" href="/mag/nuova-chiesa-e-nuova-politica/" title="Nuova Chiesa e nuova politica">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

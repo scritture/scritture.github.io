@@ -1,0 +1,91 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Appennino</title>
+	<atom:link href="/mag/tag/appennino/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Le avventure di Saro e Giambologna</title>
+		<link>/mag/le-avventure-di-saro-e-giambologna/</link>
+		<pubDate>Thu, 02 Feb 2017 11:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Roberto Vannucci]]></dc:creator>
+				<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[animali]]></category>
+		<category><![CDATA[Appennino]]></category>
+		<category><![CDATA[Bologna]]></category>
+		<category><![CDATA[Jung]]></category>
+		<category><![CDATA[psichedelia]]></category>
+		<category><![CDATA[Roberto Vannucci]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1293</guid>
+		<description><![CDATA[Esistono autori che inventano nuovi procedimenti di scrittura, altri ancora che si astengono dal pubblicare. Se la prima tipologia è attualmente particolarmente fiorente, l’esistenza della seconda è invece piuttosto a rischio: infatti, dove la tecnologia digitale ha favorito varie e <a class="mh-excerpt-more" href="/mag/le-avventure-di-saro-e-giambologna/" title="Le avventure di Saro e Giambologna">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Virus</title>
+		<link>/mag/virus/</link>
+		<pubDate>Mon, 24 Feb 2014 11:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[umorismo]]></category>
+		<category><![CDATA[Appennino]]></category>
+		<category><![CDATA[Berlusconi]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=346</guid>
+		<description><![CDATA[Un virus tecnorganico diffuso dagli schermi televisivi e dagli ipermercati ha invaso la realtà. Un racconto sull’infinita sterile autoriproduzione della politica italiana, dove è facile dimenticare ma impossibile procedere. &#160; Sono rimasto solo io. Non ho potuto fare altro. In <a class="mh-excerpt-more" href="/mag/virus/" title="Virus">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Contingenze del paesaggio tra Grizzana Morandi e la metropoli globale</title>
+		<link>/mag/contingenze-paesaggio-grizzana-morandi-metropoli/</link>
+		<pubDate>Thu, 25 Oct 2012 10:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[Appennino]]></category>
+		<category><![CDATA[Ardengo Soffici]]></category>
+		<category><![CDATA[Bologna]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[contingenza]]></category>
+		<category><![CDATA[Dacia Manto]]></category>
+		<category><![CDATA[Derrida]]></category>
+		<category><![CDATA[Dino Borri]]></category>
+		<category><![CDATA[Eugenio Riccomi]]></category>
+		<category><![CDATA[Giorgio Morandi]]></category>
+		<category><![CDATA[Giulia Dall'Olio]]></category>
+		<category><![CDATA[Graziano Pompili]]></category>
+		<category><![CDATA[Joan M. Lukach]]></category>
+		<category><![CDATA[Laura Baldassarri]]></category>
+		<category><![CDATA[Massimo Ilardi]]></category>
+		<category><![CDATA[Maurizio Bottarelli]]></category>
+		<category><![CDATA[metropoli]]></category>
+		<category><![CDATA[Simmel]]></category>
+		<category><![CDATA[Thelonious Monk]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=386</guid>
+		<description><![CDATA[Pittura e pitture. Città e impronte in Claudio Cusatelli. Calanchi e necessità in Giorgio Morandi. La vocazione panoramica di Grizzana Morandi e i dettagli del paesaggio globale. Ilardi: l&#8217;orizzonte della metropoli. Simmel: la filosofia del paesaggio. Soffici: arte senza artificio. <a class="mh-excerpt-more" href="/mag/contingenze-paesaggio-grizzana-morandi-metropoli/" title="Contingenze del paesaggio tra Grizzana Morandi e la metropoli globale">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

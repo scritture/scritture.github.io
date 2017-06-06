@@ -1,0 +1,85 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>De Nardis</title>
+	<atom:link href="/mag/tag/de-nardis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<item>
+		<title>Il Premio Frascati: la poesia e la provincia del secolo passato</title>
+		<link>/mag/il-premio-frascati-poesia-provincia/</link>
+		<pubDate>Wed, 24 Dec 2014 11:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Barberi Squarotti]]></category>
+		<category><![CDATA[Berlusconi]]></category>
+		<category><![CDATA[Bertolucci]]></category>
+		<category><![CDATA[Betocchi]]></category>
+		<category><![CDATA[Bevilacqua]]></category>
+		<category><![CDATA[Bigiaretti]]></category>
+		<category><![CDATA[Caproni]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Contini]]></category>
+		<category><![CDATA[Cordelli]]></category>
+		<category><![CDATA[Croce]]></category>
+		<category><![CDATA[De Angelis]]></category>
+		<category><![CDATA[de Libero]]></category>
+		<category><![CDATA[De Nardis]]></category>
+		<category><![CDATA[Emerico Giachery]]></category>
+		<category><![CDATA[Fabiani]]></category>
+		<category><![CDATA[Fiore]]></category>
+		<category><![CDATA[Frabotta]]></category>
+		<category><![CDATA[Frascati]]></category>
+		<category><![CDATA[Gatto]]></category>
+		<category><![CDATA[Giulio Ferroni]]></category>
+		<category><![CDATA[Grillandi]]></category>
+		<category><![CDATA[Guidacci]]></category>
+		<category><![CDATA[Heidegger]]></category>
+		<category><![CDATA[Hölderlin]]></category>
+		<category><![CDATA[Leibniz]]></category>
+		<category><![CDATA[Montale]]></category>
+		<category><![CDATA[Moro]]></category>
+		<category><![CDATA[Pagliarani]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[Parronchi]]></category>
+		<category><![CDATA[Pasolini]]></category>
+		<category><![CDATA[Petroni]]></category>
+		<category><![CDATA[Petrucciani]]></category>
+		<category><![CDATA[Premi]]></category>
+		<category><![CDATA[Premio Montale]]></category>
+		<category><![CDATA[Raboni]]></category>
+		<category><![CDATA[Reale]]></category>
+		<category><![CDATA[Rebora]]></category>
+		<category><![CDATA[Riviello]]></category>
+		<category><![CDATA[Sanguineti]]></category>
+		<category><![CDATA[Santilli]]></category>
+		<category><![CDATA[Sciascia]]></category>
+		<category><![CDATA[Seccareccia]]></category>
+		<category><![CDATA[Simongini]]></category>
+		<category><![CDATA[Socrate]]></category>
+		<category><![CDATA[Spagnoletti]]></category>
+		<category><![CDATA[Spaziani]]></category>
+		<category><![CDATA[Vigolo]]></category>
+		<category><![CDATA[Zanzotto]]></category>
+
+		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=301</guid>
+		<description><![CDATA[La fondazione di un premio letterario nell’Italia della ricostruzione. La poesia di Giorgio Caproni. Testimonianza di Antonio Seccareccia. Il secondo novecento da Alfonso Gatto ad Andrea Zanzotto. La poesia e la comunicazione. Guardare la pioggia. &#160; 1. Poeti amici Un <a class="mh-excerpt-more" href="/mag/il-premio-frascati-poesia-provincia/" title="Il Premio Frascati: la poesia e la provincia del secolo passato">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>
