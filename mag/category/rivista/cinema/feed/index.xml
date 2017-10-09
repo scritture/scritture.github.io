@@ -13,12 +13,29 @@
 	<atom:link href="/mag/category/rivista/cinema/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Oct 2017 15:28:10 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<generator>https://wordpress.org/?v=4.5.10</generator>
 	<item>
+		<title>Brindisi mancati a Berlino</title>
+		<link>/mag/brindisi-mancati-berlino-metropolisi-superman/</link>
+		<pubDate>Sat, 15 Jul 2017 10:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[cinema]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[fumetti]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[storia]]></category>
+
+		<guid isPermaLink="false">/?p=1503</guid>
+		<description><![CDATA[Storia di un film, di un fumetto e di una separazione, nello scenario di una storia e di una città sempre separate. &#160; In un altro mondo possibile, nel salotto di una casa di Shöneberg, una coppia d’anziani guarda di <a class="mh-excerpt-more" href="/mag/brindisi-mancati-berlino-metropolisi-superman/" title="Brindisi mancati a Berlino">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>L&#8217;epica stordita dell&#8217;horror americano</title>
 		<link>/mag/horror-epica-dialogo/</link>
 		<pubDate>Mon, 31 Oct 2016 11:00:16 +0000</pubDate>
@@ -262,41 +279,6 @@
 
 		<guid isPermaLink="false">/?p=1219</guid>
 		<description><![CDATA[Il Muro, lo schermo, il mercato. Weimar: angosce oscure, luminose speranze. Il Nazismo: la natura come progetto. I Verdi: l’economia informale. Nazisti hippy e nazicomunsti. Nuovo Ordine del Mondo. Erosione degli stati nazionali, imporsi del capitale finanziario, eclisse delle ideologie. <a class="mh-excerpt-more" href="/mag/il-tetto-sopra-berlino/" title="Il tetto sopra Berlino">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Il tradire degli eventi</title>
-		<link>/mag/il-tradire-degli-eventi/</link>
-		<pubDate>Mon, 29 Sep 2014 10:00:27 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[cinema]]></category>
-		<category><![CDATA[comunicazione]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[11 settembre]]></category>
-		<category><![CDATA[Averroè]]></category>
-		<category><![CDATA[Bush]]></category>
-		<category><![CDATA[Cassirer]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Costantinopoli]]></category>
-		<category><![CDATA[Cristianesimo]]></category>
-		<category><![CDATA[Ebrei]]></category>
-		<category><![CDATA[Gerusalemme]]></category>
-		<category><![CDATA[Giordano Bruno]]></category>
-		<category><![CDATA[Graal]]></category>
-		<category><![CDATA[integralismo]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Jihad]]></category>
-		<category><![CDATA[New York]]></category>
-		<category><![CDATA[Parusia]]></category>
-		<category><![CDATA[Roma]]></category>
-
-		<guid isPermaLink="false">/?p=1076</guid>
-		<description><![CDATA[Donne e religione. Lo Stato Islamico tra comunicazione e realtà. Gli Yazidi da prima della creazione ad oggi. Nubi luminose, presenza divina e tre monoteismi. Veli e ombre in Averroè e Giordano Bruno. Delillo e l&#8217;attimo prima del crollo. Breve <a class="mh-excerpt-more" href="/mag/il-tradire-degli-eventi/" title="Il tradire degli eventi">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

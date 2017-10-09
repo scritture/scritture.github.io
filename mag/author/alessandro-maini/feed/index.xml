@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alessandro Maini</title>
+	<atom:link href="/mag/author/alessandro-maini/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Mon, 09 Oct 2017 15:28:10 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.10</generator>
+	<item>
+		<title>Il cuore del vuoto</title>
+		<link>/mag/il-cuore-del-vuoto/</link>
+		<pubDate>Tue, 15 Aug 2017 10:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[Alessandro Maini]]></dc:creator>
+				<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[Alessandro Maini]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Taoismo]]></category>
+		<category><![CDATA[Zen]]></category>
+
+		<guid isPermaLink="false">/?p=1511</guid>
+		<description><![CDATA[«Frasi brevi, spesso folgoranti, che danno più il senso dell&#8217;immagine che il contenuto letterale e semantico della parola. [&#8230;] Tutta la verità è posta al di là del dualismo inevitabile che il linguaggio viene a creare tra soggetto pensante e oggetto <a class="mh-excerpt-more" href="/mag/il-cuore-del-vuoto/" title="Il cuore del vuoto">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -13,12 +13,29 @@
 	<atom:link href="/mag/tag/calvino/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 25 May 2017 16:39:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Oct 2017 15:28:10 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.9</generator>
+	<generator>https://wordpress.org/?v=4.5.10</generator>
 	<item>
+		<title>La città mai vista</title>
+		<link>/mag/frascati-citta-mai-vista/</link>
+		<pubDate>Tue, 27 Jun 2017 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Calvino]]></category>
+		<category><![CDATA[Frascati]]></category>
+
+		<guid isPermaLink="false">/?p=1499</guid>
+		<description><![CDATA[Un omaggio a Le città invisibili di Italo Calvino, un souvenir di una città quasi reale. &#160; C’è una città cancellata dalla cancellazione dei propri desideri; di lei resta il fantasma di un desiderio che si propaga divorando se stesso. <a class="mh-excerpt-more" href="/mag/frascati-citta-mai-vista/" title="La città mai vista">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Orizzonti editoriali e mondo digitale</title>
 		<link>/mag/orizzonti-editoriali-mondo-digitale/</link>
 		<pubDate>Tue, 01 Mar 2016 11:00:57 +0000</pubDate>
