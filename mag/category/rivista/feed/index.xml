@@ -13,12 +13,32 @@
 	<atom:link href="/mag/category/rivista/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 11 Oct 2017 13:52:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Oct 2017 13:50:36 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.10</generator>
 	<item>
+		<title>Leonardo Da Vinci: historia di una sbronza</title>
+		<link>/mag/leonardo-da-vinci-historia-di-una-sbronza/</link>
+		<pubDate>Thu, 19 Oct 2017 10:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Leonardo Da Vinci]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[economia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[enogastronomia]]></category>
+		<category><![CDATA[Leonardo Da Vinci]]></category>
+		<category><![CDATA[Luca Maroni]]></category>
+		<category><![CDATA[rinascimento]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[vino]]></category>
+
+		<guid isPermaLink="false">/?p=1555</guid>
+		<description><![CDATA[Il vino ha definitivamente conquistato una propria cultura, aperta a tutto il ventaglio di stimoli che può offrire una pratica antica che ha tanto della scienza quanto dell’arte. Tuttavia, per chi ancora vuole godere di un bicchiere con una certa <a class="mh-excerpt-more" href="/mag/leonardo-da-vinci-historia-di-una-sbronza/" title="Leonardo Da Vinci: historia di una sbronza">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Lotta armata, giustizia pop, varia letteratura</title>
 		<link>/mag/lotta-armata-giustizia-pop-varia-letteratura/</link>
 		<pubDate>Mon, 09 Oct 2017 10:00:31 +0000</pubDate>
@@ -230,40 +250,6 @@
 
 		<guid isPermaLink="false">/?p=1461</guid>
 		<description><![CDATA[Storia di una biblioteca in cerca di una sede, di un istituto di filosofia, del loro fondatore. Perché la ricerca continui a diffondersi. &#160; «Fondare biblioteche è come costruire ancora granai pubblici». Questa frase di Marguerute Yourcenar fa comprendere l’importanza <a class="mh-excerpt-more" href="/mag/gerardo-marotta-in-tre-atti/" title="Gerardo Marotta in tre atti">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>La Russia, l’Eurasia e il multipolarismo</title>
-		<link>/mag/la-russia-leurasia-e-il-multipolarismo/</link>
-		<pubDate>Mon, 24 Apr 2017 10:00:27 +0000</pubDate>
-		<dc:creator><![CDATA[Alexander Dugin - Michael Millerman]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Alexander Dugin]]></category>
-		<category><![CDATA[Eurasia]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[Evgenij Zamjatin]]></category>
-		<category><![CDATA[Gor]]></category>
-		<category><![CDATA[guerra]]></category>
-		<category><![CDATA[John M. Hobson]]></category>
-		<category><![CDATA[neoliberismo]]></category>
-		<category><![CDATA[Putin]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Schmitt]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[Sholem Asch]]></category>
-		<category><![CDATA[Stalin]]></category>
-		<category><![CDATA[Ucraina]]></category>
-		<category><![CDATA[Zhanna Bichevskaya]]></category>
-
-		<guid isPermaLink="false">/?p=1390</guid>
-		<description><![CDATA[La Russia di oggi non è l’URSS di ieri, e nemmeno quella più remota dell’impero degli Zar. C’è uno scenario del tutto nuovo, profondamente diverso da quello delineato dalla cortina di ferro, caduta per il volontario ritrarsi dei sovietici dalle <a class="mh-excerpt-more" href="/mag/la-russia-leurasia-e-il-multipolarismo/" title="La Russia, l’Eurasia e il multipolarismo">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

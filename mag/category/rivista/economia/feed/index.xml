@@ -13,12 +13,32 @@
 	<atom:link href="/mag/category/rivista/economia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 11 Oct 2017 13:52:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Oct 2017 13:50:36 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.10</generator>
 	<item>
+		<title>Leonardo Da Vinci: historia di una sbronza</title>
+		<link>/mag/leonardo-da-vinci-historia-di-una-sbronza/</link>
+		<pubDate>Thu, 19 Oct 2017 10:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Leonardo Da Vinci]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[economia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[enogastronomia]]></category>
+		<category><![CDATA[Leonardo Da Vinci]]></category>
+		<category><![CDATA[Luca Maroni]]></category>
+		<category><![CDATA[rinascimento]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[vino]]></category>
+
+		<guid isPermaLink="false">/?p=1555</guid>
+		<description><![CDATA[Il vino ha definitivamente conquistato una propria cultura, aperta a tutto il ventaglio di stimoli che può offrire una pratica antica che ha tanto della scienza quanto dell’arte. Tuttavia, per chi ancora vuole godere di un bicchiere con una certa <a class="mh-excerpt-more" href="/mag/leonardo-da-vinci-historia-di-una-sbronza/" title="Leonardo Da Vinci: historia di una sbronza">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Trump no-global contro il mondo</title>
 		<link>/mag/trump-no-global-contro-il-mondo/</link>
 		<pubDate>Fri, 10 Mar 2017 11:00:29 +0000</pubDate>
@@ -221,27 +241,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=82</guid>
 		<description><![CDATA[«Industria Filosofica ricerca giovani filosofi da inserire nell’avvio della propria catena di montaggio. Menti pensanti, cioè, in grado di elaborare innovative cure per l’anima attraverso l’utilizzo pratico della filosofia.» A Corigliano d’Otranto s’inaugura un laboratorio di pensiero e società che può offrire <a class="mh-excerpt-more" href="/mag/aaa-industria-filosofica-nel-salento/" title="AAA: Industria Filosofica nel Salento">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>L&#8217;Europa e i limiti della retorica antitedesca</title>
-		<link>/mag/leuropa-e-i-limiti-della-retorica-antitedesca/</link>
-		<pubDate>Fri, 12 Feb 2016 11:00:51 +0000</pubDate>
-		<dc:creator><![CDATA[Matteo Cavallito]]></dc:creator>
-				<category><![CDATA[economia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Angela Merkel]]></category>
-		<category><![CDATA[Angelo Bolaffi]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[Germania]]></category>
-		<category><![CDATA[Matteo Cavallino]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[Sebastian Haffner]]></category>
-		<category><![CDATA[Volker Lauder]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=33</guid>
-		<description><![CDATA[Oltre a quelli relativi allo scandalo Volkswagen, altri dati poco rassicuranti arrivano dalla Germania: stipendi bloccati, infrastrutture che invecchiano, consumi in ristagno, crescenti tensioni sociali. E nonostante il mercato europeo da anni ne denunci le ripercussioni negative, la locomotiva del <a class="mh-excerpt-more" href="/mag/leuropa-e-i-limiti-della-retorica-antitedesca/" title="L&#8217;Europa e i limiti della retorica antitedesca">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

@@ -13,12 +13,32 @@
 	<atom:link href="/mag/category/rivista/arte/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 11 Oct 2017 13:52:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Oct 2017 13:50:36 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.10</generator>
 	<item>
+		<title>Leonardo Da Vinci: historia di una sbronza</title>
+		<link>/mag/leonardo-da-vinci-historia-di-una-sbronza/</link>
+		<pubDate>Thu, 19 Oct 2017 10:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Leonardo Da Vinci]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[economia]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[enogastronomia]]></category>
+		<category><![CDATA[Leonardo Da Vinci]]></category>
+		<category><![CDATA[Luca Maroni]]></category>
+		<category><![CDATA[rinascimento]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[vino]]></category>
+
+		<guid isPermaLink="false">/?p=1555</guid>
+		<description><![CDATA[Il vino ha definitivamente conquistato una propria cultura, aperta a tutto il ventaglio di stimoli che può offrire una pratica antica che ha tanto della scienza quanto dell’arte. Tuttavia, per chi ancora vuole godere di un bicchiere con una certa <a class="mh-excerpt-more" href="/mag/leonardo-da-vinci-historia-di-una-sbronza/" title="Leonardo Da Vinci: historia di una sbronza">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Brindisi mancati a Berlino</title>
 		<link>/mag/brindisi-mancati-berlino-metropolis-superman/</link>
 		<pubDate>Sat, 15 Jul 2017 10:00:25 +0000</pubDate>
@@ -245,29 +265,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=61</guid>
 		<description><![CDATA[Grazie alla sua vasta conoscenza della filosofia, Umberto Eco (Alessandria 1932 &#8211; Milano 2016) approfondì l’antica disciplina della semiotica con l’intento di comprendere i “segni” dell’epoca in cui viveva, e di «vedere del senso laddove saremmo tentati di vedere solamente <a class="mh-excerpt-more" href="/mag/il-codice-del-mondo/" title="Il codice del mondo">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Cinque questioni su David Bowie</title>
-		<link>/mag/cinque-questioni-su-david-bowie/</link>
-		<pubDate>Fri, 15 Jan 2016 11:00:19 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[arte]]></category>
-		<category><![CDATA[cinema]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[David Bowie]]></category>
-		<category><![CDATA[fantascienza]]></category>
-		<category><![CDATA[Kubrick]]></category>
-		<category><![CDATA[Nietzsche]]></category>
-		<category><![CDATA[rock]]></category>
-		<category><![CDATA[sessualità]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=56</guid>
-		<description><![CDATA[Fantascienza, società, religione, sessualità e arte nelle canzoni di un grande maestro. &#160; In 2001: A Space Odissey di Kubrick un astronauta si perde nello spazio; qualcuno, piuttosto incerto nella carriera e negli affetti, vide la scena e cantò: «Planet earth is blue, and <a class="mh-excerpt-more" href="/mag/cinque-questioni-su-david-bowie/" title="Cinque questioni su David Bowie">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
