@@ -1,0 +1,47 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Americo Sbriccoli</title>
+	<atom:link href="/mag/tag/americo-sbriccoli/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Tue, 24 Oct 2017 21:35:41 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.10</generator>
+	<item>
+		<title>I vaccini a scuola tra diritto, burocrazia, medicina e interessi farmaceutici. Interviste</title>
+		<link>/mag/vaccini-a-scuola-interviste/</link>
+		<pubDate>Sat, 30 Sep 2017 10:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Marianna Gianna Ferrenti]]></dc:creator>
+				<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[scienza]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Americo Sbriccoli]]></category>
+		<category><![CDATA[Dario Miedico]]></category>
+		<category><![CDATA[Domenico Montù]]></category>
+		<category><![CDATA[Marianna Gianna Ferrenti]]></category>
+		<category><![CDATA[medicina]]></category>
+		<category><![CDATA[Paolo Biasci]]></category>
+		<category><![CDATA[Rita Guadagni]]></category>
+		<category><![CDATA[Roberto Mastalia]]></category>
+		<category><![CDATA[Rosolino Cicero]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Tommasa Maio]]></category>
+		<category><![CDATA[vaccini]]></category>
+
+		<guid isPermaLink="false">/?p=1571</guid>
+		<description><![CDATA[10 vaccini sono ora obbligatori per potersi iscriverei ai nidi e alle materne pubbliche e private ai sensi della Legge n. 119 del 31.07.2017, che aggiorna e smussa le disposizioni previste dal DDL n. 73/7.06.2017. L’obbligo copre fino ai 16 <a class="mh-excerpt-more" href="/mag/vaccini-a-scuola-interviste/" title="I vaccini a scuola tra diritto, burocrazia, medicina e interessi farmaceutici. Interviste">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>
