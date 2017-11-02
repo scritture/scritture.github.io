@@ -1,0 +1,42 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mauro Canali</title>
+	<atom:link href="/mag/author/mauro-canali/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Thu, 02 Nov 2017 09:13:46 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.11</generator>
+	<item>
+		<title>I giornalisti americani e il giornalismo fascista</title>
+		<link>/mag/i-giornalisti-americani-e-il-giornalismo-fascista/</link>
+		<pubDate>Wed, 01 Nov 2017 11:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[Mauro Canali]]></dc:creator>
+				<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[fascismo]]></category>
+		<category><![CDATA[giornalismo]]></category>
+		<category><![CDATA[Mauro Canali]]></category>
+		<category><![CDATA[Mussolini]]></category>
+		<category><![CDATA[Roma]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">/?p=1585</guid>
+		<description><![CDATA[Di fronte al fascismo, parte della stampa statunitense azzardò analogie con i protagonisti della propria epopea. Gli Stati Uniti si sentivano vicini all&#8217;Italia laddove, usciti dal loro isolazionismo soltanto con la partecipazione alla Grande Guerra, erano passati per un periodo <a class="mh-excerpt-more" href="/mag/i-giornalisti-americani-e-il-giornalismo-fascista/" title="I giornalisti americani e il giornalismo fascista">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>
