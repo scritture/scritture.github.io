@@ -13,12 +13,36 @@
 	<atom:link href="/mag/category/rivista/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 03 Nov 2017 11:24:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Nov 2017 17:43:14 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.11</generator>
 	<item>
+		<title>Piotr Merkurj: la pittura della luce</title>
+		<link>/mag/piotr-merkurj-la-pittura-della-luce/</link>
+		<pubDate>Tue, 07 Nov 2017 11:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Bisanzio]]></category>
+		<category><![CDATA[castelli romani]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Florenskj]]></category>
+		<category><![CDATA[Leonardo Da Vinci]]></category>
+		<category><![CDATA[Piotr Mercurj]]></category>
+		<category><![CDATA[pittura]]></category>
+		<category><![CDATA[rinascimento]]></category>
+		<category><![CDATA[Roberto Grossatesta]]></category>
+		<category><![CDATA[Russia]]></category>
+
+		<guid isPermaLink="false">/?p=1639</guid>
+		<description><![CDATA[«Il disegno è una scienza se esplora l&#8217;anatomia con la precisione del tratto, una deità se suggerisce il mistero con lo sfumato dell&#8217;ombra». Il pittore russo Piotr Merkurj ha contrassegnato il proprio lavoro con queste parole, lasciandoci così riflettere su <a class="mh-excerpt-more" href="/mag/piotr-merkurj-la-pittura-della-luce/" title="Piotr Merkurj: la pittura della luce">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Catalogna. La costruzione di un regno inesistente</title>
 		<link>/mag/catalogna-2017/</link>
 		<pubDate>Wed, 01 Nov 2017 22:00:57 +0000</pubDate>
@@ -233,24 +257,6 @@
 
 		<guid isPermaLink="false">/?p=1503</guid>
 		<description><![CDATA[Storia di Metropolis, di Superman e di una separazione, tra 1933 e oggi, sullo scenario di una storia e di una città sempre separate. &#160; In un altro mondo possibile, nel salotto di una casa di Shöneberg, una coppia d’anziani guarda Metropolis. <a class="mh-excerpt-more" href="/mag/brindisi-mancati-berlino-metropolis-superman/" title="Brindisi mancati a Berlino">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>La città mai vista</title>
-		<link>/mag/frascati-citta-mai-vista/</link>
-		<pubDate>Tue, 27 Jun 2017 10:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Calvino]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Frascati]]></category>
-
-		<guid isPermaLink="false">/?p=1499</guid>
-		<description><![CDATA[Un omaggio a Le città invisibili di Italo Calvino, un souvenir di una città quasi reale. &#160; C’è una città cancellata dalla cancellazione dei propri desideri; di lei resta il fantasma di un desiderio che si propaga divorando se stesso. <a class="mh-excerpt-more" href="/mag/frascati-citta-mai-vista/" title="La città mai vista">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

@@ -13,12 +13,36 @@
 	<atom:link href="/mag/tag/claudio-comandini/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 03 Nov 2017 11:24:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Nov 2017 17:43:14 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.11</generator>
 	<item>
+		<title>Piotr Merkurj: la pittura della luce</title>
+		<link>/mag/piotr-merkurj-la-pittura-della-luce/</link>
+		<pubDate>Tue, 07 Nov 2017 11:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Bisanzio]]></category>
+		<category><![CDATA[castelli romani]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Florenskj]]></category>
+		<category><![CDATA[Leonardo Da Vinci]]></category>
+		<category><![CDATA[Piotr Mercurj]]></category>
+		<category><![CDATA[pittura]]></category>
+		<category><![CDATA[rinascimento]]></category>
+		<category><![CDATA[Roberto Grossatesta]]></category>
+		<category><![CDATA[Russia]]></category>
+
+		<guid isPermaLink="false">/?p=1639</guid>
+		<description><![CDATA[«Il disegno è una scienza se esplora l&#8217;anatomia con la precisione del tratto, una deità se suggerisce il mistero con lo sfumato dell&#8217;ombra». Il pittore russo Piotr Merkurj ha contrassegnato il proprio lavoro con queste parole, lasciandoci così riflettere su <a class="mh-excerpt-more" href="/mag/piotr-merkurj-la-pittura-della-luce/" title="Piotr Merkurj: la pittura della luce">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Lotta armata, giustizia pop, varia letteratura</title>
 		<link>/mag/lotta-armata-giustizia-pop-varia-letteratura/</link>
 		<pubDate>Mon, 09 Oct 2017 10:00:31 +0000</pubDate>
@@ -224,43 +248,6 @@
 
 		<guid isPermaLink="false">/?p=1200</guid>
 		<description><![CDATA[Dove facciamo la conoscenza di una gran bella famiglia di stronzi, alla quale apparteniamo tutti. Un altro edificante episodio del nostro Basso Impero quotidiano.   Nella famiglia Signoretti non c’era mai stato un giorno di felicità. Al limite si erano <a class="mh-excerpt-more" href="/mag/la-famiglia-signoretti/" title="La famiglia Signoretti">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Berlino dopo l’unione</title>
-		<link>/mag/berlino-dopo-lunione/</link>
-		<pubDate>Sun, 30 Oct 2016 11:00:58 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[cinema]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[economia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[architettura]]></category>
-		<category><![CDATA[Berlino]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Derrida]]></category>
-		<category><![CDATA[Fukuyama]]></category>
-		<category><![CDATA[Germania]]></category>
-		<category><![CDATA[Guerra Fredda]]></category>
-		<category><![CDATA[Hegel]]></category>
-		<category><![CDATA[Huntington]]></category>
-		<category><![CDATA[Kant]]></category>
-		<category><![CDATA[Libeskind]]></category>
-		<category><![CDATA[Marx]]></category>
-		<category><![CDATA[metropoli]]></category>
-		<category><![CDATA[Naomi Klein]]></category>
-		<category><![CDATA[Nietzsche]]></category>
-		<category><![CDATA[rock]]></category>
-		<category><![CDATA[sessualità]]></category>
-		<category><![CDATA[urbanistica]]></category>
-
-		<guid isPermaLink="false">/?p=1211</guid>
-		<description><![CDATA[Benjamin: il paesaggio berlinese e l’orologio della storia. Il Muro, Checkpoint Charlie e la Deutsch Bank. Derrida e gli spettri. Frattura e unione nei Throbbing Gristle e negli Einstürzende Neubauden, e altre belle canzoni. Appunti di geofilosofia tra Hegel e <a class="mh-excerpt-more" href="/mag/berlino-dopo-lunione/" title="Berlino dopo l’unione">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

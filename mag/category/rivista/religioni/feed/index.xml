@@ -13,12 +13,36 @@
 	<atom:link href="/mag/category/rivista/religioni/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 03 Nov 2017 11:24:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Nov 2017 17:43:14 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.11</generator>
 	<item>
+		<title>Piotr Merkurj: la pittura della luce</title>
+		<link>/mag/piotr-merkurj-la-pittura-della-luce/</link>
+		<pubDate>Tue, 07 Nov 2017 11:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Bisanzio]]></category>
+		<category><![CDATA[castelli romani]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Florenskj]]></category>
+		<category><![CDATA[Leonardo Da Vinci]]></category>
+		<category><![CDATA[Piotr Mercurj]]></category>
+		<category><![CDATA[pittura]]></category>
+		<category><![CDATA[rinascimento]]></category>
+		<category><![CDATA[Roberto Grossatesta]]></category>
+		<category><![CDATA[Russia]]></category>
+
+		<guid isPermaLink="false">/?p=1639</guid>
+		<description><![CDATA[«Il disegno è una scienza se esplora l&#8217;anatomia con la precisione del tratto, una deità se suggerisce il mistero con lo sfumato dell&#8217;ombra». Il pittore russo Piotr Merkurj ha contrassegnato il proprio lavoro con queste parole, lasciandoci così riflettere su <a class="mh-excerpt-more" href="/mag/piotr-merkurj-la-pittura-della-luce/" title="Piotr Merkurj: la pittura della luce">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Il bambino senza tempo</title>
 		<link>/mag/il-bambino-senza-tempo/</link>
 		<pubDate>Wed, 27 Sep 2017 10:00:02 +0000</pubDate>
@@ -248,25 +272,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=213</guid>
 		<description><![CDATA[Le sfide dei cambiamenti e la riforma cattolica. Il definitivo tramonto dell’era della Controriforma e il dispiegarsi del Concilio Vaticano II permette di approfondire quanto la storia ha già modellato nella Chiesa voluta da Cristo: potremmo anche scoprire che il <a class="mh-excerpt-more" href="/mag/nuova-chiesa-e-nuova-politica/" title="Nuova Chiesa e nuova politica">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Il contagio della violenza</title>
-		<link>/mag/il-contagio-della-violenza/</link>
-		<pubDate>Mon, 18 Jul 2016 10:00:04 +0000</pubDate>
-		<dc:creator><![CDATA[Franco Cardini]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Cardini]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Jihad]]></category>
-		<category><![CDATA[Nizza]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[social network]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=119</guid>
-		<description><![CDATA[Se nel vortice delle notizie la paura provocata da stragi come quella di Nizza viene presto dimenticata, la violenza si diffonde inarrestabile ed è irresponsabile non voler vedere. Come segnala lo storico Franco Cardini (Firenze, 1940) aiuta a combattere sapere che il suo focolaio <a class="mh-excerpt-more" href="/mag/il-contagio-della-violenza/" title="Il contagio della violenza">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
