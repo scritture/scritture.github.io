@@ -13,12 +13,34 @@
 	<atom:link href="/mag/tag/russia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 08 Nov 2017 13:13:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Nov 2017 10:54:17 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.11</generator>
 	<item>
+		<title>Colpo di Stato in Russia</title>
+		<link>/mag/colpo-di-stato-malaparte/</link>
+		<pubDate>Mon, 13 Nov 2017 11:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Curzio Malaparte]]></dc:creator>
+				<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[comunismo]]></category>
+		<category><![CDATA[Curzio Malaparte]]></category>
+		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Trotzki]]></category>
+
+		<guid isPermaLink="false">/?p=1659</guid>
+		<description><![CDATA[Tra le testimonianze della rivoluzione russa, quella offerta da Tecnica del colpo di Stato, pubblicato da Curzio Malaparte a Parigi nel 1931 e dato alle stampe in Italia soltanto nel 1948, presenta la singolarità di metterla in sequenza con altre <a class="mh-excerpt-more" href="/mag/colpo-di-stato-malaparte/" title="Colpo di Stato in Russia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Piotr Merkurj: la pittura della luce</title>
 		<link>/mag/piotr-merkurj-la-pittura-della-luce/</link>
 		<pubDate>Tue, 07 Nov 2017 11:00:53 +0000</pubDate>

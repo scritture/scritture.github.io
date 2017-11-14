@@ -1,0 +1,44 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trotzki</title>
+	<atom:link href="/mag/tag/trotzki/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Tue, 14 Nov 2017 10:54:17 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.11</generator>
+	<item>
+		<title>Colpo di Stato in Russia</title>
+		<link>/mag/colpo-di-stato-malaparte/</link>
+		<pubDate>Mon, 13 Nov 2017 11:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Curzio Malaparte]]></dc:creator>
+				<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[comunismo]]></category>
+		<category><![CDATA[Curzio Malaparte]]></category>
+		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Trotzki]]></category>
+
+		<guid isPermaLink="false">/?p=1659</guid>
+		<description><![CDATA[Tra le testimonianze della rivoluzione russa, quella offerta da Tecnica del colpo di Stato, pubblicato da Curzio Malaparte a Parigi nel 1931 e dato alle stampe in Italia soltanto nel 1948, presenta la singolarità di metterla in sequenza con altre <a class="mh-excerpt-more" href="/mag/colpo-di-stato-malaparte/" title="Colpo di Stato in Russia">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

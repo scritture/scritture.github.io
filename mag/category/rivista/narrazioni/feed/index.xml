@@ -13,12 +13,34 @@
 	<atom:link href="/mag/category/rivista/narrazioni/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 08 Nov 2017 13:13:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Nov 2017 10:54:17 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.11</generator>
 	<item>
+		<title>Colpo di Stato in Russia</title>
+		<link>/mag/colpo-di-stato-malaparte/</link>
+		<pubDate>Mon, 13 Nov 2017 11:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Curzio Malaparte]]></dc:creator>
+				<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[comunismo]]></category>
+		<category><![CDATA[Curzio Malaparte]]></category>
+		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Trotzki]]></category>
+
+		<guid isPermaLink="false">/?p=1659</guid>
+		<description><![CDATA[Tra le testimonianze della rivoluzione russa, quella offerta da Tecnica del colpo di Stato, pubblicato da Curzio Malaparte a Parigi nel 1931 e dato alle stampe in Italia soltanto nel 1948, presenta la singolarità di metterla in sequenza con altre <a class="mh-excerpt-more" href="/mag/colpo-di-stato-malaparte/" title="Colpo di Stato in Russia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Leonardo Da Vinci: historia di una sbronza</title>
 		<link>/mag/leonardo-da-vinci-historia-di-una-sbronza/</link>
 		<pubDate>Thu, 19 Oct 2017 10:00:38 +0000</pubDate>
@@ -119,7 +141,7 @@
 		<category><![CDATA[Wolfgang Schivelbusch]]></category>
 
 		<guid isPermaLink="false">/?p=1503</guid>
-		<description><![CDATA[Storia di Metropolis, di Superman e di una separazione, tra 1933 e oggi, sullo scenario di una storia e di una città sempre separate. &#160; In un altro mondo possibile, nel salotto di una casa di Shöneberg, una coppia d’anziani guarda Metropolis. <a class="mh-excerpt-more" href="/mag/brindisi-mancati-berlino-metropolis-superman/" title="Brindisi mancati a Berlino">[...]</a>]]></description>
+		<description><![CDATA[Le origini Superman, la storia di Metropolis, l&#8217;amore perduto di Adolf Hitler. Una separazione sullo scenario di una città separata. &#160; In un altro mondo possibile, nel salotto di una casa di Shöneberg, una coppia d’anziani guarda Metropolis. Siamo alle ultime scene. In uno strano <a class="mh-excerpt-more" href="/mag/brindisi-mancati-berlino-metropolis-superman/" title="Brindisi mancati a Berlino">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>La città mai vista</title>
@@ -218,21 +240,6 @@
 
 		<guid isPermaLink="false">/?p=1293</guid>
 		<description><![CDATA[Esistono autori che inventano nuovi procedimenti di scrittura, altri ancora che si astengono dal pubblicare. Se la prima tipologia è attualmente particolarmente fiorente, l’esistenza della seconda è invece piuttosto a rischio: infatti, dove la tecnologia digitale ha favorito varie e <a class="mh-excerpt-more" href="/mag/le-avventure-di-saro-e-giambologna/" title="Le avventure di Saro e Giambologna">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>La famiglia Signoretti</title>
-		<link>/mag/la-famiglia-signoretti/</link>
-		<pubDate>Sun, 20 Nov 2016 11:00:26 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[umorismo]]></category>
-		<category><![CDATA[Basso impero]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Frascati]]></category>
-
-		<guid isPermaLink="false">/?p=1200</guid>
-		<description><![CDATA[Dove facciamo la conoscenza di una gran bella famiglia di stronzi, alla quale apparteniamo tutti. Un altro edificante episodio del nostro Basso Impero quotidiano.   Nella famiglia Signoretti non c’era mai stato un giorno di felicità. Al limite si erano <a class="mh-excerpt-more" href="/mag/la-famiglia-signoretti/" title="La famiglia Signoretti">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

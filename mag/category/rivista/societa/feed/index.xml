@@ -13,12 +13,34 @@
 	<atom:link href="/mag/category/rivista/societa/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 08 Nov 2017 13:13:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Nov 2017 10:54:17 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.11</generator>
 	<item>
+		<title>Colpo di Stato in Russia</title>
+		<link>/mag/colpo-di-stato-malaparte/</link>
+		<pubDate>Mon, 13 Nov 2017 11:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Curzio Malaparte]]></dc:creator>
+				<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[comunismo]]></category>
+		<category><![CDATA[Curzio Malaparte]]></category>
+		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Trotzki]]></category>
+
+		<guid isPermaLink="false">/?p=1659</guid>
+		<description><![CDATA[Tra le testimonianze della rivoluzione russa, quella offerta da Tecnica del colpo di Stato, pubblicato da Curzio Malaparte a Parigi nel 1931 e dato alle stampe in Italia soltanto nel 1948, presenta la singolarità di metterla in sequenza con altre <a class="mh-excerpt-more" href="/mag/colpo-di-stato-malaparte/" title="Colpo di Stato in Russia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Catalogna. La costruzione di un regno inesistente</title>
 		<link>/mag/catalogna-2017/</link>
 		<pubDate>Wed, 01 Nov 2017 22:00:57 +0000</pubDate>
@@ -247,27 +269,6 @@
 
 		<guid isPermaLink="false">/?p=1390</guid>
 		<description><![CDATA[La Russia di oggi non è l’URSS di ieri, e nemmeno quella più remota dell’impero degli Zar. C’è uno scenario del tutto nuovo, profondamente diverso da quello delineato dalla cortina di ferro, caduta per il volontario ritrarsi dei sovietici dalle <a class="mh-excerpt-more" href="/mag/la-russia-leurasia-e-il-multipolarismo/" title="La Russia, l’Eurasia e il multipolarismo">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Aspetti etici del Testamento biologico</title>
-		<link>/mag/aspetti-etici-del-testamento-biologico/</link>
-		<pubDate>Thu, 23 Mar 2017 11:00:51 +0000</pubDate>
-		<dc:creator><![CDATA[Mario Condorelli]]></dc:creator>
-				<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[scienza]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[accanimento terapeutico]]></category>
-		<category><![CDATA[diritti]]></category>
-		<category><![CDATA[DJ Fabo]]></category>
-		<category><![CDATA[eutanasia]]></category>
-		<category><![CDATA[Mario Condorelli]]></category>
-		<category><![CDATA[medicina]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[testamento biologico]]></category>
-
-		<guid isPermaLink="false">/?p=1366</guid>
-		<description><![CDATA[È la linea dove poter decidere la vita e la morte a spostarsi avanti, oppure è la nostra capacità di sentirle quali dono a offuscarsi? Il caso di DJ Fabo (Fabiano Antoniani) ha riportato alle attenzione che, laddove la capacità <a class="mh-excerpt-more" href="/mag/aspetti-etici-del-testamento-biologico/" title="Aspetti etici del Testamento biologico">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

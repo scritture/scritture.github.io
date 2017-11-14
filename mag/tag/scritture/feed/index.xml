@@ -13,12 +13,34 @@
 	<atom:link href="/mag/tag/scritture/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Wed, 08 Nov 2017 13:13:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Nov 2017 10:54:17 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.11</generator>
 	<item>
+		<title>Colpo di Stato in Russia</title>
+		<link>/mag/colpo-di-stato-malaparte/</link>
+		<pubDate>Mon, 13 Nov 2017 11:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Curzio Malaparte]]></dc:creator>
+				<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[comunismo]]></category>
+		<category><![CDATA[Curzio Malaparte]]></category>
+		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Trotzki]]></category>
+
+		<guid isPermaLink="false">/?p=1659</guid>
+		<description><![CDATA[Tra le testimonianze della rivoluzione russa, quella offerta da Tecnica del colpo di Stato, pubblicato da Curzio Malaparte a Parigi nel 1931 e dato alle stampe in Italia soltanto nel 1948, presenta la singolarità di metterla in sequenza con altre <a class="mh-excerpt-more" href="/mag/colpo-di-stato-malaparte/" title="Colpo di Stato in Russia">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Catalogna. La costruzione di un regno inesistente</title>
 		<link>/mag/catalogna-2017/</link>
 		<pubDate>Wed, 01 Nov 2017 22:00:57 +0000</pubDate>
@@ -220,40 +242,6 @@
 
 		<guid isPermaLink="false">/?p=1476</guid>
 		<description><![CDATA[«E l’acqua del lago appariva talmente calma da riflettere le luci della sponda opposta, tra cui brillava in lontananza il lume di casa mia.» Francesco Permunian ha esordito come poeta negli anni ottanta e come narratore alla fine degli anni novanta. Quattro opere per conoscere <a class="mh-excerpt-more" href="/mag/francesco-permunian/" title="Francesco Permunian in quattro libri. Incantarsi è un dono">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>La Russia, l’Eurasia e il multipolarismo</title>
-		<link>/mag/la-russia-leurasia-e-il-multipolarismo/</link>
-		<pubDate>Mon, 24 Apr 2017 10:00:27 +0000</pubDate>
-		<dc:creator><![CDATA[Alexander Dugin - Michael Millerman]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Alexander Dugin]]></category>
-		<category><![CDATA[Eurasia]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[Evgenij Zamjatin]]></category>
-		<category><![CDATA[Gor]]></category>
-		<category><![CDATA[guerra]]></category>
-		<category><![CDATA[John M. Hobson]]></category>
-		<category><![CDATA[neoliberismo]]></category>
-		<category><![CDATA[Putin]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Schmitt]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[Sholem Asch]]></category>
-		<category><![CDATA[Stalin]]></category>
-		<category><![CDATA[Ucraina]]></category>
-		<category><![CDATA[Zhanna Bichevskaya]]></category>
-
-		<guid isPermaLink="false">/?p=1390</guid>
-		<description><![CDATA[La Russia di oggi non è l’URSS di ieri, e nemmeno quella più remota dell’impero degli Zar. C’è uno scenario del tutto nuovo, profondamente diverso da quello delineato dalla cortina di ferro, caduta per il volontario ritrarsi dei sovietici dalle <a class="mh-excerpt-more" href="/mag/la-russia-leurasia-e-il-multipolarismo/" title="La Russia, l’Eurasia e il multipolarismo">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
