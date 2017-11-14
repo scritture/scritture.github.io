@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/comunismo/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 14 Nov 2017 10:54:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Nov 2017 18:25:43 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -33,12 +33,37 @@
 		<category><![CDATA[comunismo]]></category>
 		<category><![CDATA[Curzio Malaparte]]></category>
 		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[rivoluzione russa]]></category>
 		<category><![CDATA[Russia]]></category>
 		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Stalin]]></category>
 		<category><![CDATA[Trotzki]]></category>
 
 		<guid isPermaLink="false">/?p=1659</guid>
 		<description><![CDATA[Tra le testimonianze della rivoluzione russa, quella offerta da Tecnica del colpo di Stato, pubblicato da Curzio Malaparte a Parigi nel 1931 e dato alle stampe in Italia soltanto nel 1948, presenta la singolarità di metterla in sequenza con altre <a class="mh-excerpt-more" href="/mag/colpo-di-stato-malaparte/" title="Colpo di Stato in Russia">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Fidel Castro e l&#8217;eredità del socialismo</title>
+		<link>/mag/fidel-castro-eredita/</link>
+		<pubDate>Tue, 29 Nov 2016 11:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Beatriz Pagés Rebollar]]></category>
+		<category><![CDATA[comunismo]]></category>
+		<category><![CDATA[Cuba]]></category>
+		<category><![CDATA[Fidel Castro]]></category>
+		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[Marx]]></category>
+		<category><![CDATA[rivoluzione francese]]></category>
+		<category><![CDATA[rivoluzione russa]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1680</guid>
+		<description><![CDATA[Il leader cubano Fidel Castro e  Beatriz Pagés Rebollar, direttrice del settimanale messicano Siempre!, tra 9 e 10 maggio 1991 hanno affrontato in sette ore di intervista una serie di tematiche su il socialismo nel mondo e a Cuba, permettendo <a class="mh-excerpt-more" href="/mag/fidel-castro-eredita/" title="Fidel Castro e l&#8217;eredità del socialismo">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

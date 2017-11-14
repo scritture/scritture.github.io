@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/russia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 14 Nov 2017 10:54:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Nov 2017 18:25:43 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -33,8 +33,10 @@
 		<category><![CDATA[comunismo]]></category>
 		<category><![CDATA[Curzio Malaparte]]></category>
 		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[rivoluzione russa]]></category>
 		<category><![CDATA[Russia]]></category>
 		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Stalin]]></category>
 		<category><![CDATA[Trotzki]]></category>
 
 		<guid isPermaLink="false">/?p=1659</guid>

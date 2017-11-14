@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/geopolitica/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 14 Nov 2017 10:54:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Nov 2017 18:25:43 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -33,8 +33,10 @@
 		<category><![CDATA[comunismo]]></category>
 		<category><![CDATA[Curzio Malaparte]]></category>
 		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[rivoluzione russa]]></category>
 		<category><![CDATA[Russia]]></category>
 		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Stalin]]></category>
 		<category><![CDATA[Trotzki]]></category>
 
 		<guid isPermaLink="false">/?p=1659</guid>
@@ -145,6 +147,29 @@
 
 		<guid isPermaLink="false">/?p=1265</guid>
 		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Fidel Castro e l&#8217;eredità del socialismo</title>
+		<link>/mag/fidel-castro-eredita/</link>
+		<pubDate>Tue, 29 Nov 2016 11:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Beatriz Pagés Rebollar]]></category>
+		<category><![CDATA[comunismo]]></category>
+		<category><![CDATA[Cuba]]></category>
+		<category><![CDATA[Fidel Castro]]></category>
+		<category><![CDATA[Lenin]]></category>
+		<category><![CDATA[Marx]]></category>
+		<category><![CDATA[rivoluzione francese]]></category>
+		<category><![CDATA[rivoluzione russa]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1680</guid>
+		<description><![CDATA[Il leader cubano Fidel Castro e  Beatriz Pagés Rebollar, direttrice del settimanale messicano Siempre!, tra 9 e 10 maggio 1991 hanno affrontato in sette ore di intervista una serie di tematiche su il socialismo nel mondo e a Cuba, permettendo <a class="mh-excerpt-more" href="/mag/fidel-castro-eredita/" title="Fidel Castro e l&#8217;eredità del socialismo">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Berlino dopo l’unione</title>
@@ -259,27 +284,6 @@
 
 		<guid isPermaLink="false">/?p=1087</guid>
 		<description><![CDATA[Il Vulcano Laziale e le anime dei morti. II Guerra Mondiale e storia di Roma nel medioevo. Le prime bombe su Frascati e l’ultimo assedio a Tusculum. Un&#8217;icona e i monumenti di una piazza. Douhet: legittimazione teorica delle stragi civili. <a class="mh-excerpt-more" href="/mag/storia-bombe-frascati-distruzione-tuscolo/" title="La storia e i giorni. Le bombe su Frascati e la distruzione di Tuscolo">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Il burkini e lo scandalo del coprirsi</title>
-		<link>/mag/il-burkini-e-lo-scandalo-del-coprirsi/</link>
-		<pubDate>Tue, 06 Sep 2016 10:00:38 +0000</pubDate>
-		<dc:creator><![CDATA[Rossana Miranda]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[burkini]]></category>
-		<category><![CDATA[integralismo]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Rossana Miranda]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[sessualità]]></category>
-
-		<guid isPermaLink="false">/?p=1116</guid>
-		<description><![CDATA[Oggi fa più scandalo coprirsi o scoprirsi? La polemica estiva sul burkini è rimasta perlopiù coinvolta da un&#8217;epidemica reattività emotiva che impedisce ogni sensato ragionamento, esasperando così uno scontro già piuttosto sterile tra uguaglianza obbligatoria e identificazioni aggressive. In questo come in <a class="mh-excerpt-more" href="/mag/il-burkini-e-lo-scandalo-del-coprirsi/" title="Il burkini e lo scandalo del coprirsi">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
