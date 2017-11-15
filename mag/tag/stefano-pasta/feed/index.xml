@@ -1,0 +1,43 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stefano Pasta</title>
+	<atom:link href="/mag/tag/stefano-pasta/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Wed, 15 Nov 2017 10:23:10 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.11</generator>
+	<item>
+		<title>Terra di transito obbligatorio e permanente</title>
+		<link>/mag/terra-di-transito-paolo-martino/</link>
+		<pubDate>Tue, 15 Aug 2017 09:07:26 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[economia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[guerra globale]]></category>
+		<category><![CDATA[Mediterraneo]]></category>
+		<category><![CDATA[migranti]]></category>
+		<category><![CDATA[Paolo Martino]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Stefano Pasta]]></category>
+
+		<guid isPermaLink="false">/?p=1684</guid>
+		<description><![CDATA[Mentre qualcuno prescinde completamente dai dati per ridurre la grave emergenza dei migranti ad una sfida tra opposte tifoserie, l’Italia è sempre più lontana tanto dall&#8217;Europa quanto dal Mediterraneo, riducendosi così, più che ad una terra di frontiera come prevede <a class="mh-excerpt-more" href="/mag/terra-di-transito-paolo-martino/" title="Terra di transito obbligatorio e permanente">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

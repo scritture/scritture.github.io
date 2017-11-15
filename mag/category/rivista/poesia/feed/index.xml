@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/poesia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 14 Nov 2017 18:25:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Nov 2017 10:23:10 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -46,23 +46,6 @@
 		<description><![CDATA[Piccolo viaggio negli anni di piombo e i suoi fantasmi senza agiografie né riprovazioni. Vita e opere di Cesare Battisti. Prassi e teoria del Processo 7 Aprile. Politica, informazione e terrorismo secondo Toni Negri, Giovanna Procacci, Giorgio Grossi, Hans-Dieter Bahr. Censure e dintorni. &#160; <a class="mh-excerpt-more" href="/mag/lotta-armata-giustizia-pop-varia-letteratura/" title="Lotta armata, giustizia pop, varia letteratura">[...]</a>]]></description>
 		</item>
 		<item>
-		<title>Il cuore del vuoto</title>
-		<link>/mag/il-cuore-del-vuoto/</link>
-		<pubDate>Tue, 15 Aug 2017 10:00:18 +0000</pubDate>
-		<dc:creator><![CDATA[Alessandro Maini]]></dc:creator>
-				<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[Alessandro Maini]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[Taoismo]]></category>
-		<category><![CDATA[Zen]]></category>
-
-		<guid isPermaLink="false">/?p=1511</guid>
-		<description><![CDATA[«Frasi brevi, spesso folgoranti, che danno più il senso dell&#8217;immagine che il contenuto letterale e semantico della parola. [&#8230;] Tutta la verità è posta al di là del dualismo inevitabile che il linguaggio viene a creare tra soggetto pensante e oggetto <a class="mh-excerpt-more" href="/mag/il-cuore-del-vuoto/" title="Il cuore del vuoto">[...]</a>]]></description>
-		</item>
-		<item>
 		<title>La città mai vista</title>
 		<link>/mag/frascati-citta-mai-vista/</link>
 		<pubDate>Tue, 27 Jun 2017 10:00:00 +0000</pubDate>
@@ -79,6 +62,23 @@
 
 		<guid isPermaLink="false">/?p=1499</guid>
 		<description><![CDATA[Un omaggio a Le città invisibili di Italo Calvino, un souvenir di una città quasi reale. &#160; C’è una città cancellata dalla cancellazione dei propri desideri; di lei resta il fantasma di un desiderio che si propaga divorando se stesso. <a class="mh-excerpt-more" href="/mag/frascati-citta-mai-vista/" title="La città mai vista">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Il cuore del vuoto</title>
+		<link>/mag/il-cuore-del-vuoto/</link>
+		<pubDate>Thu, 15 Jun 2017 10:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[Alessandro Maini]]></dc:creator>
+				<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[Alessandro Maini]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Taoismo]]></category>
+		<category><![CDATA[Zen]]></category>
+
+		<guid isPermaLink="false">/?p=1511</guid>
+		<description><![CDATA[«Frasi brevi, spesso folgoranti, che danno più il senso dell&#8217;immagine che il contenuto letterale e semantico della parola. [&#8230;] Tutta la verità è posta al di là del dualismo inevitabile che il linguaggio viene a creare tra soggetto pensante e oggetto <a class="mh-excerpt-more" href="/mag/il-cuore-del-vuoto/" title="Il cuore del vuoto">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Il settimo uomo (nuove rivelazioni sul caso Moro)</title>

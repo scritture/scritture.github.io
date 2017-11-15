@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/politica/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 14 Nov 2017 18:25:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Nov 2017 10:23:10 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -191,6 +191,27 @@
 		<description><![CDATA[10 vaccini sono ora obbligatori per potersi iscriverei ai nidi e alle materne pubbliche e private ai sensi della Legge n. 119 del 31.07.2017, che aggiorna e smussa le disposizioni previste dal DDL n. 73/7.06.2017. L’obbligo copre fino ai 16 <a class="mh-excerpt-more" href="/mag/vaccini-a-scuola-interviste/" title="I vaccini a scuola tra diritto, burocrazia, medicina e interessi farmaceutici. Interviste">[...]</a>]]></description>
 		</item>
 		<item>
+		<title>Terra di transito obbligatorio e permanente</title>
+		<link>/mag/terra-di-transito-paolo-martino/</link>
+		<pubDate>Tue, 15 Aug 2017 09:07:26 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[economia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[guerra globale]]></category>
+		<category><![CDATA[Mediterraneo]]></category>
+		<category><![CDATA[migranti]]></category>
+		<category><![CDATA[Paolo Martino]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Stefano Pasta]]></category>
+
+		<guid isPermaLink="false">/?p=1684</guid>
+		<description><![CDATA[Mentre qualcuno prescinde completamente dai dati per ridurre la grave emergenza dei migranti ad una sfida tra opposte tifoserie, l’Italia è sempre più lontana tanto dall&#8217;Europa quanto dal Mediterraneo, riducendosi così, più che ad una terra di frontiera come prevede <a class="mh-excerpt-more" href="/mag/terra-di-transito-paolo-martino/" title="Terra di transito obbligatorio e permanente">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>I pornografici profitti del capitale</title>
 		<link>/mag/i-pornografici-profitti-del-capitale/</link>
 		<pubDate>Sun, 30 Jul 2017 10:00:09 +0000</pubDate>
@@ -244,24 +265,6 @@
 
 		<guid isPermaLink="false">/?p=1503</guid>
 		<description><![CDATA[Le origini Superman, la storia di Metropolis, l&#8217;amore perduto di Adolf Hitler. Una separazione sullo scenario di una città separata. &#160; In un altro mondo possibile, nel salotto di una casa di Shöneberg, una coppia d’anziani guarda Metropolis. Siamo alle ultime scene. In uno strano <a class="mh-excerpt-more" href="/mag/brindisi-mancati-berlino-metropolis-superman/" title="Brindisi mancati a Berlino">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>La città mai vista</title>
-		<link>/mag/frascati-citta-mai-vista/</link>
-		<pubDate>Tue, 27 Jun 2017 10:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Calvino]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Frascati]]></category>
-
-		<guid isPermaLink="false">/?p=1499</guid>
-		<description><![CDATA[Un omaggio a Le città invisibili di Italo Calvino, un souvenir di una città quasi reale. &#160; C’è una città cancellata dalla cancellazione dei propri desideri; di lei resta il fantasma di un desiderio che si propaga divorando se stesso. <a class="mh-excerpt-more" href="/mag/frascati-citta-mai-vista/" title="La città mai vista">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

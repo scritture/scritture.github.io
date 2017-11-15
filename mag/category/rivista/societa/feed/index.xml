@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/societa/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 14 Nov 2017 18:25:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Nov 2017 10:23:10 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -188,6 +188,27 @@
 		<description><![CDATA[Il romanzo di Michele Iacono Il bambino senza tempo , di cui qui presentiamo il primo capitolo, prende lo spunto da un fatto di cronaca: la morte di un bambino in un paese del Medio Oriente. Alfredo Bonafede, un uomo <a class="mh-excerpt-more" href="/mag/il-bambino-senza-tempo/" title="Il bambino senza tempo">[...]</a>]]></description>
 		</item>
 		<item>
+		<title>Terra di transito obbligatorio e permanente</title>
+		<link>/mag/terra-di-transito-paolo-martino/</link>
+		<pubDate>Tue, 15 Aug 2017 09:07:26 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[economia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Europa]]></category>
+		<category><![CDATA[guerra globale]]></category>
+		<category><![CDATA[Mediterraneo]]></category>
+		<category><![CDATA[migranti]]></category>
+		<category><![CDATA[Paolo Martino]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[Stefano Pasta]]></category>
+
+		<guid isPermaLink="false">/?p=1684</guid>
+		<description><![CDATA[Mentre qualcuno prescinde completamente dai dati per ridurre la grave emergenza dei migranti ad una sfida tra opposte tifoserie, l’Italia è sempre più lontana tanto dall&#8217;Europa quanto dal Mediterraneo, riducendosi così, più che ad una terra di frontiera come prevede <a class="mh-excerpt-more" href="/mag/terra-di-transito-paolo-martino/" title="Terra di transito obbligatorio e permanente">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>I pornografici profitti del capitale</title>
 		<link>/mag/i-pornografici-profitti-del-capitale/</link>
 		<pubDate>Sun, 30 Jul 2017 10:00:09 +0000</pubDate>
@@ -224,40 +245,6 @@
 
 		<guid isPermaLink="false">/?p=1499</guid>
 		<description><![CDATA[Un omaggio a Le città invisibili di Italo Calvino, un souvenir di una città quasi reale. &#160; C’è una città cancellata dalla cancellazione dei propri desideri; di lei resta il fantasma di un desiderio che si propaga divorando se stesso. <a class="mh-excerpt-more" href="/mag/frascati-citta-mai-vista/" title="La città mai vista">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Etica del ribelle. La scienza e la storia tra fratture e continuità</title>
-		<link>/mag/etica-ribelle-scienza-giorello-donghi/</link>
-		<pubDate>Mon, 15 May 2017 10:00:10 +0000</pubDate>
-		<dc:creator><![CDATA[Giulio Giorello - Pino Donghi]]></dc:creator>
-				<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[scienza]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Ali Ahmad Sa’id]]></category>
-		<category><![CDATA[astronomia]]></category>
-		<category><![CDATA[Averroè]]></category>
-		<category><![CDATA[bosone]]></category>
-		<category><![CDATA[Enriques]]></category>
-		<category><![CDATA[fisica]]></category>
-		<category><![CDATA[Gadda]]></category>
-		<category><![CDATA[Geymonat]]></category>
-		<category><![CDATA[Giulio Giorello]]></category>
-		<category><![CDATA[illuminismo]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Kant]]></category>
-		<category><![CDATA[Kuhn]]></category>
-		<category><![CDATA[matematica]]></category>
-		<category><![CDATA[Pino Donghi]]></category>
-		<category><![CDATA[Popper]]></category>
-		<category><![CDATA[rivoluzione francese]]></category>
-		<category><![CDATA[Scritture]]></category>
-
-		<guid isPermaLink="false">/?p=1472</guid>
-		<description><![CDATA[Il Ribelle è il singolo, l’uomo concreto che agisce nel caso concreto. […] Non gli servono teorie, né leggi escogitate da qualche giurista di partito». A Ludovico Geymonat (Galileo Galilei, 1957) fa controcanto Enrst Junger (Trattato del ribelle, 1980): «Soltanto <a class="mh-excerpt-more" href="/mag/etica-ribelle-scienza-giorello-donghi/" title="Etica del ribelle. La scienza e la storia tra fratture e continuità">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
