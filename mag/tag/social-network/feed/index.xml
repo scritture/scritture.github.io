@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/social-network/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 16 Nov 2017 14:21:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Nov 2017 10:26:24 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -96,13 +96,14 @@
 		<category><![CDATA[politica]]></category>
 		<category><![CDATA[Rivista]]></category>
 		<category><![CDATA[società]]></category>
+		<category><![CDATA[Foucault]]></category>
 		<category><![CDATA[Internet]]></category>
 		<category><![CDATA[Renato Curcio]]></category>
 		<category><![CDATA[Scritture]]></category>
 		<category><![CDATA[social network]]></category>
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=59</guid>
-		<description><![CDATA[L&#8217;esigenza di mantenere un pensiero critico forse non è sentita da molti, ma è prioritaria sopratutto rispetto agli strumenti finanziari e digitali che ormai strutturano la nostra vita lavorativa e relazionale, troppo spesso accettati in modo passivo. Un protagonista controverso e attento <a class="mh-excerpt-more" href="/mag/colonizzazione-dellimmaginario-e-controllo-sociale/" title="Colonizzazione dell’immaginario e controllo sociale">[...]</a>]]></description>
+		<description><![CDATA[Gli strumenti finanziari e digitali che ormai strutturano la nostra vita lavorativa e relazionale sono troppo spesso accettati in modo passivo. Cercando un pensiero critico e privilegiando la ricerca socioanalitica Renato Curcio cerca, senza demonizzare le condizioni reali ma problematizzandole a fondo, di comprendere come <a class="mh-excerpt-more" href="/mag/colonizzazione-dellimmaginario-e-controllo-sociale/" title="Colonizzazione dell’immaginario e controllo sociale">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Chi paga per la condivisione?</title>
