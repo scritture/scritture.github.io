@@ -13,12 +13,22 @@
 	<atom:link href="/mag/author/claudio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 17 Nov 2017 10:26:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Nov 2017 16:27:38 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.11</generator>
+	<generator>https://wordpress.org/?v=4.5.12</generator>
 	<item>
+		<title>Contro i vaccini</title>
+		<link>/mag/contro-i-vaccini/</link>
+		<pubDate>Thu, 23 Nov 2017 01:33:30 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Rivista]]></category>
+
+		<guid isPermaLink="false">/?p=1720</guid>
+		<description><![CDATA[10 vaccini sono ora obbligatori per potersi iscriverei ai nidi e alle materne pubbliche e private ai sensi della Legge n. 119 del 31.07.2017, che aggiorna e smussa le disposizioni previste dal DDL n. 73/7.06.2017. L’obbligo copre fino ai 16 <a class="mh-excerpt-more" href="/mag/contro-i-vaccini/" title="Contro i vaccini">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Piotr Merkurj: la pittura della luce</title>
 		<link>/mag/piotr-merkurj-la-pittura-della-luce/</link>
 		<pubDate>Tue, 07 Nov 2017 11:00:53 +0000</pubDate>
@@ -227,51 +237,6 @@
 
 		<guid isPermaLink="false">/?p=1361</guid>
 		<description><![CDATA[Aldo Moro fu rapito dalle Brigate Rosse il 16 marzo 1978. Aveva in tasca un nuovo governo, che nessuno vide mai. L’Italia perse il futuro; ancora oggi, regna un presente assente a se stesso. L’unica “rivelazione” effettiva con la quale <a class="mh-excerpt-more" href="/mag/il-settimo-uomo-nuove-rivelazioni-sul-caso-moro/" title="Il settimo uomo (nuove rivelazioni sul caso Moro)">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Animali e uomini tra malattia e guarigione</title>
-		<link>/mag/animali-uomini-malattia-guarigione/</link>
-		<pubDate>Fri, 10 Feb 2017 11:00:03 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[arte]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[scienza]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Agamben]]></category>
-		<category><![CDATA[animali]]></category>
-		<category><![CDATA[animalisti]]></category>
-		<category><![CDATA[Barbara Carnevali]]></category>
-		<category><![CDATA[Beatrix Potter]]></category>
-		<category><![CDATA[Bruno]]></category>
-		<category><![CDATA[Cartesio]]></category>
-		<category><![CDATA[cinici]]></category>
-		<category><![CDATA[Galilei]]></category>
-		<category><![CDATA[Giancarlo Mancori]]></category>
-		<category><![CDATA[Heidegger]]></category>
-		<category><![CDATA[Hume]]></category>
-		<category><![CDATA[Leibniz]]></category>
-		<category><![CDATA[Lorenz]]></category>
-		<category><![CDATA[magia]]></category>
-		<category><![CDATA[Massimo Pamio]]></category>
-		<category><![CDATA[Menandro]]></category>
-		<category><![CDATA[Milan Kundera]]></category>
-		<category><![CDATA[Nietzsche]]></category>
-		<category><![CDATA[Orwell]]></category>
-		<category><![CDATA[pellerossa]]></category>
-		<category><![CDATA[Perniola]]></category>
-		<category><![CDATA[Pink Floyd]]></category>
-		<category><![CDATA[punkabbestia]]></category>
-		<category><![CDATA[Spinoza]]></category>
-		<category><![CDATA[stoici]]></category>
-		<category><![CDATA[Walt Disney]]></category>
-		<category><![CDATA[Zenone]]></category>
-
-		<guid isPermaLink="false">/?p=1290</guid>
-		<description><![CDATA[Teorie varie, vita vera e immagini ideali degli animali dai cinici ai punkabbestia, dal riduzionismo all&#8217;animalismo, dai pellerossa al pensiero contemporaneo.  &#160; È strano scoprire come gli animali esistano di per sé: constatare quanto la loro vita sia indipendente dalla <a class="mh-excerpt-more" href="/mag/animali-uomini-malattia-guarigione/" title="Animali e uomini tra malattia e guarigione">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

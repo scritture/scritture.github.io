@@ -13,12 +13,22 @@
 	<atom:link href="/mag/category/rivista/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Fri, 17 Nov 2017 10:26:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Nov 2017 16:27:38 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.11</generator>
+	<generator>https://wordpress.org/?v=4.5.12</generator>
 	<item>
+		<title>Contro i vaccini</title>
+		<link>/mag/contro-i-vaccini/</link>
+		<pubDate>Thu, 23 Nov 2017 01:33:30 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Rivista]]></category>
+
+		<guid isPermaLink="false">/?p=1720</guid>
+		<description><![CDATA[10 vaccini sono ora obbligatori per potersi iscriverei ai nidi e alle materne pubbliche e private ai sensi della Legge n. 119 del 31.07.2017, che aggiorna e smussa le disposizioni previste dal DDL n. 73/7.06.2017. L’obbligo copre fino ai 16 <a class="mh-excerpt-more" href="/mag/contro-i-vaccini/" title="Contro i vaccini">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Colpo di Stato in Russia</title>
 		<link>/mag/colpo-di-stato-malaparte/</link>
 		<pubDate>Mon, 13 Nov 2017 11:00:31 +0000</pubDate>
@@ -186,7 +196,7 @@
 		<description><![CDATA[Piccolo viaggio negli anni di piombo e i suoi fantasmi senza agiografie né riprovazioni. Vita e opere di Cesare Battisti. Prassi e teoria del Processo 7 Aprile. Politica, informazione e terrorismo secondo Toni Negri, Giovanna Procacci, Giorgio Grossi, Hans-Dieter Bahr. Censure e dintorni. &#160; <a class="mh-excerpt-more" href="/mag/lotta-armata-giustizia-pop-varia-letteratura/" title="Lotta armata, giustizia pop, varia letteratura">[...]</a>]]></description>
 		</item>
 		<item>
-		<title>I vaccini a scuola tra diritto, burocrazia, medicina e interessi farmaceutici. Interviste</title>
+		<title>Contro i vaccini. I perché di un&#8217;opinione.</title>
 		<link>/mag/vaccini-a-scuola-interviste/</link>
 		<pubDate>Sat, 30 Sep 2017 10:00:15 +0000</pubDate>
 		<dc:creator><![CDATA[Marianna Gianna Ferrenti]]></dc:creator>
@@ -208,7 +218,7 @@
 		<category><![CDATA[vaccini]]></category>
 
 		<guid isPermaLink="false">/?p=1571</guid>
-		<description><![CDATA[10 vaccini sono ora obbligatori per potersi iscriverei ai nidi e alle materne pubbliche e private ai sensi della Legge n. 119 del 31.07.2017, che aggiorna e smussa le disposizioni previste dal DDL n. 73/7.06.2017. L’obbligo copre fino ai 16 <a class="mh-excerpt-more" href="/mag/vaccini-a-scuola-interviste/" title="I vaccini a scuola tra diritto, burocrazia, medicina e interessi farmaceutici. Interviste">[...]</a>]]></description>
+		<description><![CDATA[10 vaccini sono ora obbligatori per potersi iscriverei ai nidi e alle materne pubbliche e private ai sensi della Legge n. 119 del 31.07.2017, che aggiorna e smussa le disposizioni previste dal DDL n. 73/7.06.2017. L’obbligo copre fino ai 16 <a class="mh-excerpt-more" href="/mag/vaccini-a-scuola-interviste/" title="Contro i vaccini. I perché di un&#8217;opinione.">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Il bambino senza tempo</title>
@@ -230,27 +240,6 @@
 
 		<guid isPermaLink="false">/?p=1519</guid>
 		<description><![CDATA[Il romanzo di Michele Iacono Il bambino senza tempo , di cui qui presentiamo il primo capitolo, prende lo spunto da un fatto di cronaca: la morte di un bambino in un paese del Medio Oriente. Alfredo Bonafede, un uomo <a class="mh-excerpt-more" href="/mag/il-bambino-senza-tempo/" title="Il bambino senza tempo">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Terra di transito obbligatorio e permanente</title>
-		<link>/mag/terra-di-transito-paolo-martino/</link>
-		<pubDate>Tue, 15 Aug 2017 09:07:26 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[economia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[guerra globale]]></category>
-		<category><![CDATA[Mediterraneo]]></category>
-		<category><![CDATA[migranti]]></category>
-		<category><![CDATA[Paolo Martino]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[Stefano Pasta]]></category>
-
-		<guid isPermaLink="false">/?p=1684</guid>
-		<description><![CDATA[Mentre qualcuno prescinde completamente dai dati per ridurre la grave emergenza dei migranti ad una sfida tra opposte tifoserie, l’Italia è sempre più lontana tanto dall&#8217;Europa quanto dal Mediterraneo, riducendosi così, più che ad una terra di frontiera come prevede <a class="mh-excerpt-more" href="/mag/terra-di-transito-paolo-martino/" title="Terra di transito obbligatorio e permanente">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
