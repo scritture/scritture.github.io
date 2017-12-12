@@ -13,12 +13,49 @@
 	<atom:link href="/mag/category/diario/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Thu, 23 Nov 2017 16:27:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Dec 2017 04:02:46 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.12</generator>
 	<item>
+		<title>Gerusalemme: guida possibile alla terra negata</title>
+		<link>/mag/gerusalemme-guida-possibile-alla-terra-negata/</link>
+		<pubDate>Mon, 11 Dec 2017 11:00:44 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[antropologia]]></category>
+		<category><![CDATA[Diario]]></category>
+		<category><![CDATA[filosofia]]></category>
+		<category><![CDATA[geopolitica]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[religioni]]></category>
+		<category><![CDATA[Bisanzio]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[Cristianesimo]]></category>
+		<category><![CDATA[Crociate]]></category>
+		<category><![CDATA[Derrida]]></category>
+		<category><![CDATA[Ebrei]]></category>
+		<category><![CDATA[Gerusalemme]]></category>
+		<category><![CDATA[guerra globale]]></category>
+		<category><![CDATA[Inghilterra]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Israele]]></category>
+		<category><![CDATA[Medio Oriente]]></category>
+		<category><![CDATA[Parusia]]></category>
+		<category><![CDATA[Rashid Husain]]></category>
+		<category><![CDATA[religione]]></category>
+		<category><![CDATA[Roma]]></category>
+		<category><![CDATA[S. Yzhar]]></category>
+		<category><![CDATA[Templari]]></category>
+		<category><![CDATA[Trump]]></category>
+		<category><![CDATA[Turchia]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">/?p=1739</guid>
+		<description><![CDATA[Dichiarazioni americane e conseguenze mondiali. Storia di una città, dei suoi popoli e dei suoi monumenti. Parcellizzazione dei Luoghi Sacri e parzialità dei poteri umani. &#160; 1. La città senza pace La storia ha già dimostrato quanto sia difficile pretendere, senza <a class="mh-excerpt-more" href="/mag/gerusalemme-guida-possibile-alla-terra-negata/" title="Gerusalemme: guida possibile alla terra negata">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Piotr Merkurj: la pittura della luce</title>
 		<link>/mag/piotr-merkurj-la-pittura-della-luce/</link>
 		<pubDate>Tue, 07 Nov 2017 11:00:53 +0000</pubDate>
@@ -251,33 +288,6 @@
 
 		<guid isPermaLink="false">/?p=1290</guid>
 		<description><![CDATA[Teorie varie, vita vera e immagini ideali degli animali dai cinici ai punkabbestia, dal riduzionismo all&#8217;animalismo, dai pellerossa al pensiero contemporaneo.  &#160; È strano scoprire come gli animali esistano di per sé: constatare quanto la loro vita sia indipendente dalla <a class="mh-excerpt-more" href="/mag/animali-uomini-malattia-guarigione/" title="Animali e uomini tra malattia e guarigione">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Momenti della fine: tre religioni a confronto</title>
-		<link>/mag/momenti-della-fine/</link>
-		<pubDate>Sat, 31 Dec 2016 11:00:49 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Agamben]]></category>
-		<category><![CDATA[Apocalisse]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Cristianesimo]]></category>
-		<category><![CDATA[Ebrei]]></category>
-		<category><![CDATA[guerra globale]]></category>
-		<category><![CDATA[integralismo]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Jihad]]></category>
-		<category><![CDATA[Tuscolo]]></category>
-
-		<guid isPermaLink="false">/?p=1265</guid>
-		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

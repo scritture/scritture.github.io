@@ -1,0 +1,44 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Guido Forni</title>
+	<atom:link href="/mag/tag/guido-forni/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Tue, 12 Dec 2017 04:02:46 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.12</generator>
+	<item>
+		<title>Contro i vaccini. I perché di un&#8217;opinione</title>
+		<link>/mag/contro-i-vaccini-opinioni/</link>
+		<pubDate>Sat, 30 Sep 2017 10:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Forni - Mantovani - Moretta - Rezza]]></dc:creator>
+				<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[scienza]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Accademia Nazionale dei Lincei]]></category>
+		<category><![CDATA[Alberto Mantovani]]></category>
+		<category><![CDATA[Giovanni Rezza]]></category>
+		<category><![CDATA[Guido Forni]]></category>
+		<category><![CDATA[Lorenzo Moretta]]></category>
+		<category><![CDATA[Marianna Gianna Ferrenti]]></category>
+		<category><![CDATA[medicina]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[vaccini]]></category>
+
+		<guid isPermaLink="false">/?p=1571</guid>
+		<description><![CDATA[10 vaccini sono ora obbligatori per potersi iscriverei ai nidi e alle materne pubbliche e private ai sensi della Legge n. 119 del 31.07.2017, che aggiorna e smussa le disposizioni previste dal DDL n. 73/7.06.2017. L’obbligo copre fino ai 16 <a class="mh-excerpt-more" href="/mag/contro-i-vaccini-opinioni/" title="Contro i vaccini. I perché di un&#8217;opinione">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>
