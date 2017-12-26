@@ -1,0 +1,44 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cristiano Luciani</title>
+	<atom:link href="/mag/tag/cristiano-luciani/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
+	<lastBuildDate>Mon, 25 Dec 2017 18:53:23 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.12</generator>
+	<item>
+		<title>Montale e Kavàfis nella lettura di Cristiano Luciani</title>
+		<link>/mag/montale-kavafis-cristiano-luciani/</link>
+		<pubDate>Thu, 21 Sep 2017 10:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[contingenza]]></category>
+		<category><![CDATA[Cristiano Luciani]]></category>
+		<category><![CDATA[Grecia]]></category>
+		<category><![CDATA[Kavàfis]]></category>
+		<category><![CDATA[Montale]]></category>
+		<category><![CDATA[Premio Nobel]]></category>
+		<category><![CDATA[Sbarbaro]]></category>
+		<category><![CDATA[Sefèris]]></category>
+
+		<guid isPermaLink="false">/?p=1773</guid>
+		<description><![CDATA[Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis nella lettura di Cristiano Luciani. &#160; I percorsi della poesia attraversano distanze di tempo e luogo e si intrecciano creando legami non immediatamente percepibili. Il poeta <a class="mh-excerpt-more" href="/mag/montale-kavafis-cristiano-luciani/" title="Montale e Kavàfis nella lettura di Cristiano Luciani">[...]</a>]]></description>
+		</item>
+	</channel>
+</rss>

@@ -13,12 +13,28 @@
 	<atom:link href="/mag/category/rivista/societa/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 12 Dec 2017 04:02:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Dec 2017 18:53:23 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.12</generator>
 	<item>
+		<title>Frammenti di Tomàs</title>
+		<link>/mag/tomas-appetito/</link>
+		<pubDate>Wed, 20 Dec 2017 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Appetito]]></dc:creator>
+				<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Andrea Appetito]]></category>
+		<category><![CDATA[narrativa]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1783</guid>
+		<description><![CDATA[«Speravo che si aprisse sotto di me un baratro,un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.» In una città sul mare il sogno di un autocrate ambizioso e senza scrupoli sta per realizzarsi. L’apparizione di una nave <a class="mh-excerpt-more" href="/mag/tomas-appetito/" title="Frammenti di Tomàs">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Colpo di Stato in Russia</title>
 		<link>/mag/colpo-di-stato-malaparte/</link>
 		<pubDate>Mon, 13 Nov 2017 11:00:31 +0000</pubDate>
@@ -224,24 +240,6 @@
 
 		<guid isPermaLink="false">/?p=1671</guid>
 		<description><![CDATA[Di sesso oramai si parla davvero tanto: è questo segno di una maggiore liberazione, oppure vuol dire che la sua effettiva esperienza si è in qualche modo allontanata? La prostituzione è accettata e convalidata e sembra addirittura  porsi come elemento <a class="mh-excerpt-more" href="/mag/i-pornografici-profitti-del-capitale/" title="I pornografici profitti del capitale">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>La città mai vista</title>
-		<link>/mag/frascati-citta-mai-vista/</link>
-		<pubDate>Tue, 27 Jun 2017 10:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Calvino]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Frascati]]></category>
-
-		<guid isPermaLink="false">/?p=1499</guid>
-		<description><![CDATA[Un omaggio a Le città invisibili di Italo Calvino, un souvenir di una città quasi reale. &#160; C’è una città cancellata dalla cancellazione dei propri desideri; di lei resta il fantasma di un desiderio che si propaga divorando se stesso. <a class="mh-excerpt-more" href="/mag/frascati-citta-mai-vista/" title="La città mai vista">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

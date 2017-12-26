@@ -13,12 +13,28 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 12 Dec 2017 04:02:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Dec 2017 18:53:23 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.12</generator>
 	<item>
+		<title>Frammenti di Tomàs</title>
+		<link>/mag/tomas-appetito/</link>
+		<pubDate>Wed, 20 Dec 2017 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Appetito]]></dc:creator>
+				<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Andrea Appetito]]></category>
+		<category><![CDATA[narrativa]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1783</guid>
+		<description><![CDATA[«Speravo che si aprisse sotto di me un baratro,un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.» In una città sul mare il sogno di un autocrate ambizioso e senza scrupoli sta per realizzarsi. L’apparizione di una nave <a class="mh-excerpt-more" href="/mag/tomas-appetito/" title="Frammenti di Tomàs">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Gerusalemme: guida possibile alla terra negata</title>
 		<link>/mag/gerusalemme-guida-possibile-alla-terra-negata/</link>
 		<pubDate>Mon, 11 Dec 2017 11:00:44 +0000</pubDate>
@@ -239,28 +255,6 @@
 
 		<guid isPermaLink="false">/?p=1514</guid>
 		<description><![CDATA[Piccolo viaggio negli anni di piombo e i suoi fantasmi senza agiografie né riprovazioni. Vita e opere di Cesare Battisti. Prassi e teoria del Processo 7 Aprile. Politica, informazione e terrorismo secondo Toni Negri, Giovanna Procacci, Giorgio Grossi, Hans-Dieter Bahr. Censure e dintorni. &#160; <a class="mh-excerpt-more" href="/mag/lotta-armata-giustizia-pop-varia-letteratura/" title="Lotta armata, giustizia pop, varia letteratura">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Contro i vaccini. I perché di un&#8217;opinione</title>
-		<link>/mag/contro-i-vaccini-opinioni/</link>
-		<pubDate>Sat, 30 Sep 2017 10:00:15 +0000</pubDate>
-		<dc:creator><![CDATA[Forni - Mantovani - Moretta - Rezza]]></dc:creator>
-				<category><![CDATA[politica]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[scienza]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Accademia Nazionale dei Lincei]]></category>
-		<category><![CDATA[Alberto Mantovani]]></category>
-		<category><![CDATA[Giovanni Rezza]]></category>
-		<category><![CDATA[Guido Forni]]></category>
-		<category><![CDATA[Lorenzo Moretta]]></category>
-		<category><![CDATA[Marianna Gianna Ferrenti]]></category>
-		<category><![CDATA[medicina]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[vaccini]]></category>
-
-		<guid isPermaLink="false">/?p=1571</guid>
-		<description><![CDATA[10 vaccini sono ora obbligatori per potersi iscriverei ai nidi e alle materne pubbliche e private ai sensi della Legge n. 119 del 31.07.2017, che aggiorna e smussa le disposizioni previste dal DDL n. 73/7.06.2017. L’obbligo copre fino ai 16 <a class="mh-excerpt-more" href="/mag/contro-i-vaccini-opinioni/" title="Contro i vaccini. I perché di un&#8217;opinione">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

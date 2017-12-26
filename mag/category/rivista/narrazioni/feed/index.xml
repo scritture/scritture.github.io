@@ -13,12 +13,28 @@
 	<atom:link href="/mag/category/rivista/narrazioni/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 12 Dec 2017 04:02:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Dec 2017 18:53:23 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.12</generator>
 	<item>
+		<title>Frammenti di Tomàs</title>
+		<link>/mag/tomas-appetito/</link>
+		<pubDate>Wed, 20 Dec 2017 11:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Andrea Appetito]]></dc:creator>
+				<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[narrazioni]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Andrea Appetito]]></category>
+		<category><![CDATA[narrativa]]></category>
+		<category><![CDATA[Scritture]]></category>
+
+		<guid isPermaLink="false">/?p=1783</guid>
+		<description><![CDATA[«Speravo che si aprisse sotto di me un baratro,un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.» In una città sul mare il sogno di un autocrate ambizioso e senza scrupoli sta per realizzarsi. L’apparizione di una nave <a class="mh-excerpt-more" href="/mag/tomas-appetito/" title="Frammenti di Tomàs">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Colpo di Stato in Russia</title>
 		<link>/mag/colpo-di-stato-malaparte/</link>
 		<pubDate>Mon, 13 Nov 2017 11:00:31 +0000</pubDate>
@@ -222,26 +238,6 @@
 
 		<guid isPermaLink="false">/?p=1394</guid>
 		<description><![CDATA[Le narrazioni noir, gialle e affini, conoscono metropoli e province, eccellenze e mestieranti, hanno tecniche per risolvere problemi nelle quali le preoccupazioni scientifiche e matematiche sono decisive. Oscar Montani, autore di romanzi (ultimo libro “La pazienza del gatto”, 2016) e direttore <a class="mh-excerpt-more" href="/mag/il-noir-e-il-giallo-e-il-thriller-come-arte/" title="Il noir (e il giallo e il thriller) come arte">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Le avventure di Saro e Giambologna</title>
-		<link>/mag/le-avventure-di-saro-e-giambologna/</link>
-		<pubDate>Thu, 02 Feb 2017 11:00:41 +0000</pubDate>
-		<dc:creator><![CDATA[Roberto Vannucci]]></dc:creator>
-				<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[narrazioni]]></category>
-		<category><![CDATA[Rivista]]></category>
-		<category><![CDATA[umorismo]]></category>
-		<category><![CDATA[animali]]></category>
-		<category><![CDATA[Appennino]]></category>
-		<category><![CDATA[Bologna]]></category>
-		<category><![CDATA[Jung]]></category>
-		<category><![CDATA[psichedelia]]></category>
-		<category><![CDATA[Roberto Vannucci]]></category>
-		<category><![CDATA[Scritture]]></category>
-
-		<guid isPermaLink="false">/?p=1293</guid>
-		<description><![CDATA[Esistono autori che inventano nuovi procedimenti di scrittura, altri ancora che si astengono dal pubblicare. Se la prima tipologia è attualmente particolarmente fiorente, l’esistenza della seconda è invece piuttosto a rischio: infatti, dove la tecnologia digitale ha favorito varie e <a class="mh-excerpt-more" href="/mag/le-avventure-di-saro-e-giambologna/" title="Le avventure di Saro e Giambologna">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

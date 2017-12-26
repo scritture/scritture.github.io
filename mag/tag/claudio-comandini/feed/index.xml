@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/claudio-comandini/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 12 Dec 2017 04:02:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Dec 2017 18:53:23 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -105,6 +105,28 @@
 
 		<guid isPermaLink="false">/?p=1514</guid>
 		<description><![CDATA[Piccolo viaggio negli anni di piombo e i suoi fantasmi senza agiografie né riprovazioni. Vita e opere di Cesare Battisti. Prassi e teoria del Processo 7 Aprile. Politica, informazione e terrorismo secondo Toni Negri, Giovanna Procacci, Giorgio Grossi, Hans-Dieter Bahr. Censure e dintorni. &#160; <a class="mh-excerpt-more" href="/mag/lotta-armata-giustizia-pop-varia-letteratura/" title="Lotta armata, giustizia pop, varia letteratura">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Montale e Kavàfis nella lettura di Cristiano Luciani</title>
+		<link>/mag/montale-kavafis-cristiano-luciani/</link>
+		<pubDate>Thu, 21 Sep 2017 10:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[contingenza]]></category>
+		<category><![CDATA[Cristiano Luciani]]></category>
+		<category><![CDATA[Grecia]]></category>
+		<category><![CDATA[Kavàfis]]></category>
+		<category><![CDATA[Montale]]></category>
+		<category><![CDATA[Premio Nobel]]></category>
+		<category><![CDATA[Sbarbaro]]></category>
+		<category><![CDATA[Sefèris]]></category>
+
+		<guid isPermaLink="false">/?p=1773</guid>
+		<description><![CDATA[Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis nella lettura di Cristiano Luciani. &#160; I percorsi della poesia attraversano distanze di tempo e luogo e si intrecciano creando legami non immediatamente percepibili. Il poeta <a class="mh-excerpt-more" href="/mag/montale-kavafis-cristiano-luciani/" title="Montale e Kavàfis nella lettura di Cristiano Luciani">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Brindisi mancati a Berlino</title>
@@ -243,33 +265,6 @@
 
 		<guid isPermaLink="false">/?p=1361</guid>
 		<description><![CDATA[Aldo Moro fu rapito dalle Brigate Rosse il 16 marzo 1978. Aveva in tasca un nuovo governo, che nessuno vide mai. L’Italia perse il futuro; ancora oggi, regna un presente assente a se stesso. L’unica “rivelazione” effettiva con la quale <a class="mh-excerpt-more" href="/mag/il-settimo-uomo-nuove-rivelazioni-sul-caso-moro/" title="Il settimo uomo (nuove rivelazioni sul caso Moro)">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Momenti della fine: tre religioni a confronto</title>
-		<link>/mag/momenti-della-fine/</link>
-		<pubDate>Sat, 31 Dec 2016 11:00:49 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[antropologia]]></category>
-		<category><![CDATA[Diario]]></category>
-		<category><![CDATA[filosofia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[religioni]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[storia]]></category>
-		<category><![CDATA[Agamben]]></category>
-		<category><![CDATA[Apocalisse]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Cristianesimo]]></category>
-		<category><![CDATA[Ebrei]]></category>
-		<category><![CDATA[guerra globale]]></category>
-		<category><![CDATA[integralismo]]></category>
-		<category><![CDATA[Islam]]></category>
-		<category><![CDATA[Jihad]]></category>
-		<category><![CDATA[Tuscolo]]></category>
-
-		<guid isPermaLink="false">/?p=1265</guid>
-		<description><![CDATA[Il fascino della fine e il proliferare apocalittico. Kant: la conclusione dello spettacolo. Taubes: l’irruzione del presente e lo svanire del passato. Apocalittica e messianismo. Il racconto ebraico del Messia. La ricostruzione del Tempio e la vacca rossa. Islam e <a class="mh-excerpt-more" href="/mag/momenti-della-fine/" title="Momenti della fine: tre religioni a confronto">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

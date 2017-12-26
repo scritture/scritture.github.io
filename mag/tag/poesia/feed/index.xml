@@ -13,7 +13,7 @@
 	<atom:link href="/mag/tag/poesia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Tue, 12 Dec 2017 04:02:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Dec 2017 18:53:23 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -35,6 +35,28 @@
 
 		<guid isPermaLink="false">/?p=1759</guid>
 		<description><![CDATA[Enrico Fraccacreta è nato nel 1955 a san Severo (Foggia) da padre pugliese e madre emiliana. Compie i suoi studi universitari a Firenze e Bologna, dove partecipa al movimento del Settantasette. Laureato in Agraria, è appassionato di botanica. La natura, <a class="mh-excerpt-more" href="/mag/nature-spirituali-fraccacreta-poesia/" title="Le nature spirituali di Enrico Fraccacreta">[...]</a>]]></description>
+		</item>
+		<item>
+		<title>Montale e Kavàfis nella lettura di Cristiano Luciani</title>
+		<link>/mag/montale-kavafis-cristiano-luciani/</link>
+		<pubDate>Thu, 21 Sep 2017 10:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
+				<category><![CDATA[Diario]]></category>
+		<category><![CDATA[letteratura]]></category>
+		<category><![CDATA[poesia]]></category>
+		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Claudio Comandini]]></category>
+		<category><![CDATA[contingenza]]></category>
+		<category><![CDATA[Cristiano Luciani]]></category>
+		<category><![CDATA[Grecia]]></category>
+		<category><![CDATA[Kavàfis]]></category>
+		<category><![CDATA[Montale]]></category>
+		<category><![CDATA[Premio Nobel]]></category>
+		<category><![CDATA[Sbarbaro]]></category>
+		<category><![CDATA[Sefèris]]></category>
+
+		<guid isPermaLink="false">/?p=1773</guid>
+		<description><![CDATA[Disincanto, ironia, lingua fluida, miti rovesciati e tempo non lineare in Montale e Kavàfis nella lettura di Cristiano Luciani. &#160; I percorsi della poesia attraversano distanze di tempo e luogo e si intrecciano creando legami non immediatamente percepibili. Il poeta <a class="mh-excerpt-more" href="/mag/montale-kavafis-cristiano-luciani/" title="Montale e Kavàfis nella lettura di Cristiano Luciani">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Il settimo uomo (nuove rivelazioni sul caso Moro)</title>
@@ -254,22 +276,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=756</guid>
 		<description><![CDATA[Quattro poesie di viaggio: Texel, Praga, Monaco, Sitges. &#160; LA FABBRICA DELLE NUVOLE Nuvole dall’elefantessa bianca partorite Nuvole nel punto morto superiore Nuvole come confezioni di supposte Nuvole in accordo di terza maggiore texel, estate 88 AL VECCHIO CIMITERO EBRAICO <a class="mh-excerpt-more" href="/mag/spiragli-sulleuropa-quattro-poesie/" title="Spiragli sull&#8217;Europa. Quattro poesie.">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Zone di transito</title>
-		<link>/mag/zone-di-transito/</link>
-		<pubDate>Tue, 08 May 2012 10:00:10 +0000</pubDate>
-		<dc:creator><![CDATA[Claudio Comandini]]></dc:creator>
-				<category><![CDATA[Diario]]></category>
-		<category><![CDATA[letteratura]]></category>
-		<category><![CDATA[musica]]></category>
-		<category><![CDATA[poesia]]></category>
-		<category><![CDATA[Claudio Comandini]]></category>
-		<category><![CDATA[Emerico Giachery]]></category>
-		<category><![CDATA[viaggi]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=194</guid>
-		<description><![CDATA[«I testi esemplari qui prescelti [&#8230;] possono considerarsi precipitati di un più che decennale, multiforme processo alchemico, risultati di un’intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, <a class="mh-excerpt-more" href="/mag/zone-di-transito/" title="Zone di transito">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>
