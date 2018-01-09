@@ -13,12 +13,36 @@
 	<atom:link href="/mag/category/rivista/economia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Mon, 25 Dec 2017 18:53:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jan 2018 12:58:37 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.5.12</generator>
 	<item>
+		<title>Profilazioni predittive e comportamenti elettorali</title>
+		<link>/mag/profilazioni-predittive-e-comportamenti-elettorali/</link>
+		<pubDate>Tue, 09 Jan 2018 11:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Renato Curcio]]></dc:creator>
+				<category><![CDATA[comunicazione]]></category>
+		<category><![CDATA[economia]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Rivista]]></category>
+		<category><![CDATA[società]]></category>
+		<category><![CDATA[Big data]]></category>
+		<category><![CDATA[Grillo]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[M5S]]></category>
+		<category><![CDATA[neoliberismo]]></category>
+		<category><![CDATA[Philip Dick]]></category>
+		<category><![CDATA[Renato Curcio]]></category>
+		<category><![CDATA[Scritture]]></category>
+		<category><![CDATA[social network]]></category>
+		<category><![CDATA[Trump]]></category>
+
+		<guid isPermaLink="false">/?p=1819</guid>
+		<description><![CDATA[Denunciare una realtà e svelarne il nome, piuttosto che assecondare luoghi comuni, significa iniziare a trasformarla. Svelare l&#8217;ideologia implicita della digitalizzazione, e demistificare le illusioni di progresso sociale e di smisurata libertà di Internet, può contribuire a tutelare e proteggere <a class="mh-excerpt-more" href="/mag/profilazioni-predittive-e-comportamenti-elettorali/" title="Profilazioni predittive e comportamenti elettorali">[...]</a>]]></description>
+		</item>
+		<item>
 		<title>Catalogna. La costruzione di un regno inesistente</title>
 		<link>/mag/catalogna-2017/</link>
 		<pubDate>Wed, 01 Nov 2017 22:00:57 +0000</pubDate>
@@ -29,6 +53,7 @@
 		<category><![CDATA[Rivista]]></category>
 		<category><![CDATA[società]]></category>
 		<category><![CDATA[storia]]></category>
+		<category><![CDATA[Brexit]]></category>
 		<category><![CDATA[Catalogna]]></category>
 		<category><![CDATA[Europa]]></category>
 		<category><![CDATA[globalizzazione]]></category>
@@ -233,27 +258,6 @@
 
 		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=92</guid>
 		<description><![CDATA[Tracollo finanziario, disastro ambientale e ascesa di Donald Trump: il neoliberismo ha fatto la sua parte in tutto questo. Questa dottrina, pur promettendo scelta, stranamente viene promossa con lo slogan “Non c’è alternativa”: tutti dobbiamo così credere che il mercato permetta <a class="mh-excerpt-more" href="/mag/il-neoliberismo-lideologia-senza-nome/" title="Il neoliberismo: l&#8217;ideologia senza nome">[...]</a>]]></description>
-		</item>
-		<item>
-		<title>Tutti contro il TTIP. E poi?</title>
-		<link>/mag/tutti-contro-il-ttip/</link>
-		<pubDate>Fri, 27 May 2016 10:00:03 +0000</pubDate>
-		<dc:creator><![CDATA[Stefano Feltri]]></dc:creator>
-				<category><![CDATA[economia]]></category>
-		<category><![CDATA[geopolitica]]></category>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[società]]></category>
-		<category><![CDATA[Berlino]]></category>
-		<category><![CDATA[Europa]]></category>
-		<category><![CDATA[Germania]]></category>
-		<category><![CDATA[ISDS]]></category>
-		<category><![CDATA[Scritture]]></category>
-		<category><![CDATA[Stefano Feltri]]></category>
-		<category><![CDATA[TTIP]]></category>
-		<category><![CDATA[USA]]></category>
-
-		<guid isPermaLink="false">http://scritture.mirtillo.pedani.it/?p=184</guid>
-		<description><![CDATA[Nella Germania da tempo pienamente riabilitata come potenza europea ma ormai ad ad un passo dal perdere la proprio semi-egemonia europea, si è svolta in ottobre la prima grande manifestazione contro il trattato di commercio trans-atlantico denominato TTIP. Ancora in <a class="mh-excerpt-more" href="/mag/tutti-contro-il-ttip/" title="Tutti contro il TTIP. E poi?">[...]</a>]]></description>
 		</item>
 	</channel>
 </rss>

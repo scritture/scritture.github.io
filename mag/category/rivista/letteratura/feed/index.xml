@@ -13,7 +13,7 @@
 	<atom:link href="/mag/category/rivista/letteratura/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Testi e tessiture: la scrittura e le sue declinazioni</description>
-	<lastBuildDate>Mon, 25 Dec 2017 18:53:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jan 2018 12:58:37 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Scritture]]></category>
 
 		<guid isPermaLink="false">/?p=1783</guid>
-		<description><![CDATA[«Speravo che si aprisse sotto di me un baratro,un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.» In una città sul mare il sogno di un autocrate ambizioso e senza scrupoli sta per realizzarsi. L’apparizione di una nave <a class="mh-excerpt-more" href="/mag/tomas-appetito/" title="Frammenti di Tomàs">[...]</a>]]></description>
+		<description><![CDATA[«Speravo che si aprisse sotto di me un baratro, un inferno in cui nascondermi e da cui rinascere dopo molte generazioni.» In una città sul mare il sogno di un autocrate ambizioso e senza scrupoli sta per realizzarsi. L’apparizione di una <a class="mh-excerpt-more" href="/mag/tomas-appetito/" title="Frammenti di Tomàs">[...]</a>]]></description>
 		</item>
 		<item>
 		<title>Gerusalemme: guida possibile alla terra negata</title>
@@ -155,6 +155,9 @@
 		<category><![CDATA[Lello Voce]]></category>
 		<category><![CDATA[lotta armata]]></category>
 		<category><![CDATA[Perniola]]></category>
+		<category><![CDATA[Processo 7 Aprile]]></category>
+		<category><![CDATA[Sessantotto]]></category>
+		<category><![CDATA[Settantasette]]></category>
 		<category><![CDATA[Toni Negri]]></category>
 
 		<guid isPermaLink="false">/?p=1514</guid>
